@@ -1,0 +1,1010 @@
+,Adm_Year,Gender,Age,HSC_Pass_Year,Program,Merit_Scholarship,Uni_Transport,Learn_Mode,Smartphone,PC,Eng_Proficiency,Probation,Suspension,Do you attend in teacher consultancy for any kind of academical problems? ,Relationship,CoCurricular,Living_Arrangement,Health_Issues,Physical_Disabilities,Target,Curr_Sem1,Study_Hours1,Study_Sessions1,SM_Hours1,Avg_Attendance1,Skills1,Skill_Dev_Hours1,Interest_Area1,Prev_SGPA1,Curr_CGPA1,Completed_Credits1,Diploma,Family_Income1
+7,2021.0,Female,22.0,2019.0,BCSE,Yes,No,Offline,Yes,Yes,Basic,Yes,No,Yes,Single,No,Bachelor,No,No,Good,4.0,2.0,2.0,2.0,100.0,Web development skill(Frontend),1.0,Networking,3.8,3.64,35,False,32500.0
+11,2021.0,Male,22.0,2019.0,BCSE,No,No,Offline,Yes,Yes,Basic,No,No,No,Single,No,Bachelor,Yes,No,Good,4.0,3.5,2.0,2.0,90.0,Programming,1.0,Data Science,3.4,3.53,35,False,20000.0
+15,2021.0,Male,20.0,2020.0,BCSE,Yes,Yes,Offline,Yes,Yes,Basic,No,No,Yes,Single,Yes,Family,No,No,Good,4.0,2.0,1.0,1.0,95.0,Programming,3.0,Machine Learning / Deep Learning,3.93,3.89,35,False,30000.0
+18,2021.0,Male,21.0,2020.0,BCSE,Yes,No,Online,Yes,Yes,Advance,No,No,Yes,In a relationship,No,Family,No,No,Average,4.0,1.0,2.0,3.0,95.0,Programming,1.0,Artificial Intelligence,3.1,3.5,35,False,25000.0
+20,2021.0,Female,21.0,2019.0,BCSE,Yes,No,Offline,Yes,Yes,Intermediate,No,No,Yes,Single,Yes,Bachelor,No,No,Good,4.0,3.0,2.0,2.0,96.0,Web development skill(Frontend),1.0,Web Development,3.81,3.65,34,False,30000.0
+24,2021.0,Male,21.0,2020.0,BCSE,Yes,Yes,Online,Yes,Yes,Advance,No,No,Yes,Single,Yes,Bachelor,Yes,No,Average,4.0,1.5,1.5,1.0,85.0,Content creation,1.0,Data Science,3.89,3.81,35,False,35000.0
+25,2021.0,Female,20.0,2020.0,BCSE,No,No,Offline,Yes,Yes,Basic,No,No,Yes,Single,No,Family,No,No,Excellent,4.0,3.0,2.0,1.0,97.0,Programming,2.0,Software,3.79,3.82,39,False,50000.0
+27,2021.0,Male,19.0,2020.0,BCSE,Yes,Yes,Online,Yes,Yes,Intermediate,Yes,No,Yes,Single,Yes,Family,Yes,No,Good,4.0,2.5,2.0,4.0,100.0,Programming,3.0,Artificial Intelligence,3.55,3.48,35,False,40000.0
+28,2021.0,Male,21.0,2020.0,BCSE,Yes,Yes,Online,Yes,Yes,Intermediate,No,No,Yes,Single,Yes,Bachelor,Yes,No,Good,4.0,2.0,1.0,2.0,95.0,"Programming, Software Development",2.0,Data Science,3.28,3.32,35,False,8000.0
+48,2021.0,Female,20.0,2020.0,BCSE,No,No,Offline,Yes,Yes,Basic,No,No,No,Single,No,Family,No,No,Good,4.0,2.5,2.0,3.0,99.0,Programming,1.0,Software,3.78,3.88,35,False,200000.0
+51,2022.0,Male,21.0,2020.0,BCSE,Yes,Yes,Offline,Yes,Yes,Intermediate,No,No,No,Single,Yes,Family,No,No,Good,2.0,2.5,2.0,2.0,95.0,"Programming, Microsoft office",1.0,Artificial Intelligence,4.0,4.0,11,False,20000.0
+53,2022.0,Male,20.0,2020.0,BCSE,Yes,No,Offline,Yes,Yes,Intermediate,No,No,No,Single,No,Family,No,No,Excellent,2.0,3.5,1.0,2.0,100.0,Programming,1.0,Machine Learning / Deep Learning,3.9,3.9,12,False,60000.0
+63,2020.0,Male,21.0,2019.0,BCSE,Yes,No,Offline,Yes,Yes,Intermediate,No,No,Yes,Single,No,Bachelor,No,No,Average,8.0,3.0,2.0,5.0,95.0,Programming,1.0,Data Science,3.84,3.8,80,False,23000.0
+65,2018.0,Male,24.0,2016.0,BCSE,Yes,No,Offline,Yes,Yes,Intermediate,No,No,Yes,Single,Yes,Bachelor,No,No,Poor,12.0,2.0,2.0,4.0,70.0,"Programming, Cyber security",2.0,Data Science,3.31,3.52,132,False,350000.0
+79,2020.0,Female,20.0,2019.0,BCSE,Yes,No,Offline,Yes,Yes,Intermediate,No,No,Yes,Married,No,Bachelor,No,No,Average,8.0,1.0,1.0,5.0,80.0,Web development skill(Frontend),2.0,Software,3.49,3.67,71,False,40000.0
+80,2020.0,Male,21.0,2019.0,BCSE,No,No,Online,Yes,Yes,Intermediate,No,No,Yes,Single,No,Bachelor,No,No,Poor,8.0,4.0,1.0,2.0,100.0,Web development skill(Frontend),2.0,Networking,3.07,2.74,85,False,20000.0
+82,2019.0,Female,21.0,2019.0,BCSE,No,Yes,Offline,Yes,Yes,Intermediate,No,No,Yes,Single,No,Family,No,No,Good,8.0,3.0,1.0,1.0,95.0,Programming,1.0,Data Science,3.76,3.5,83,False,92000.0
+83,2020.0,Male,22.0,2019.0,BCSE,No,Yes,Offline,No,Yes,Intermediate,No,No,No,Single,No,Family,No,No,Average,8.0,3.0,2.0,3.0,98.0,"Software Development skill,",2.0,Artificial Intelligence,2.7,2.8,80,False,35000.0
+87,2022.0,Male,21.0,2020.0,BCSE,No,Yes,Offline,Yes,Yes,Intermediate,No,No,Yes,Single,Yes,Family,No,No,Good,2.0,3.0,1.0,1.0,95.0,Programming,1.0,Software,3.65,3.39,11,False,45000.0
+92,2019.0,Male,23.0,2018.0,BCSE,Yes,No,Offline,Yes,Yes,Intermediate,No,No,No,Single,Yes,Bachelor,No,No,Average,11.0,6.0,2.0,3.0,100.0,"Programming, Software Development",5.0,Artificial Intelligence,3.84,3.1,73,False,30000.0
+105,2021.0,Male,19.0,2020.0,BCSE,Yes,No,Offline,Yes,No,Intermediate,No,No,Yes,Single,Yes,Family,No,No,Good,4.0,3.0,1.0,1.0,95.0,"Programming, Photography",1.0,Networking,3.5,3.58,35,False,30000.0
+106,2021.0,Male,21.0,2019.0,BCSE,Yes,Yes,Offline,Yes,Yes,Intermediate,No,No,No,Single,Yes,Family,No,No,Excellent,4.0,4.0,2.0,2.0,90.0,"Programming, Web development",2.0,Software,3.38,3.82,27,False,40000.0
+112,2019.0,Female,21.0,2019.0,BCSE,No,No,Offline,Yes,Yes,Basic,Yes,No,Yes,Single,Yes,Bachelor,No,No,Poor,9.0,2.0,3.0,3.0,100.0,"Web development skill(Frontend),",1.0,Software,1.89,2.69,86,False,20000.0
+113,2021.0,Female,19.0,2020.0,BCSE,Yes,No,Offline,Yes,No,Advance,No,No,Yes,Single,Yes,Family,No,No,Excellent,4.0,7.0,3.0,3.0,90.0,Programming,1.0,Data Science,3.7,3.77,35,False,25000.0
+116,2019.0,Male,25.0,2018.0,BCSE,Yes,No,Offline,Yes,Yes,Intermediate,Yes,No,No,Single,No,Bachelor,Yes,No,Poor,11.0,2.0,1.0,2.0,70.0,"Programming, Web development",4.0,Networking,0.0,2.53,91,False,30000.0
+118,2018.0,Male,24.0,2017.0,BCSE,No,No,Offline,Yes,Yes,Basic,Yes,Yes,Yes,Married,Yes,Bachelor,No,No,Poor,13.0,2.0,2.0,4.0,50.0,"Web development skill(Backend),",5.0,Software,2.2,2.66,110,False,60000.0
+119,2017.0,Male,22.0,2017.0,BCSE,Yes,No,Offline,Yes,Yes,Advance,Yes,No,Yes,Single,No,Bachelor,Yes,No,Poor,5.0,1.5,2.0,4.0,100.0,"Programming, Software Development",4.0,Data Science,2.6,2.6,90,False,20000.0
+120,2019.0,Female,22.0,2018.0,BCSE,No,Yes,Offline,Yes,Yes,Intermediate,No,No,Yes,Married,No,Family,Yes,No,Average,11.0,3.0,2.0,3.0,95.0,Networking,2.0,Software,2.7,2.91,120,False,150000.0
+121,2018.0,Male,23.0,2017.0,BCSE,No,No,Online,Yes,Yes,Intermediate,Yes,Yes,Yes,Single,Yes,Family,No,No,Average,14.0,2.0,2.0,1.0,90.0,"Programming, Software Development",2.0,Machine Learning / Deep Learning,2.87,2.99,120,False,30000.0
+126,2019.0,Male,23.0,2018.0,BCSE,No,Yes,Offline,Yes,Yes,Intermediate,No,No,No,In a relationship,Yes,Family,Yes,No,Poor,9.0,1.0,1.0,1.0,70.0,"Web development skill(Backend),",1.0,UI/UX,2.7,2.92,76,False,15000.0
+129,2018.0,Female,23.0,2016.0,BCSE,No,Yes,Offline,Yes,Yes,Basic,Yes,No,No,Single,No,Bachelor,Yes,Yes,Poor,14.0,3.5,2.0,1.0,70.0,"Programming, Networking",2.0,Hardware,2.98,2.96,118,False,20000.0
+133,2019.0,Male,22.0,2019.0,BCSE,No,No,Offline,Yes,Yes,Intermediate,No,No,No,Single,No,Bachelor,No,No,Average,9.0,3.0,4.0,2.0,99.0,"Programming, Web development",7.0,Web Development,3.52,2.9,100,False,15000.0
+134,2022.0,Male,23.0,2018.0,BCSE,Yes,Yes,Offline,Yes,Yes,Intermediate,No,No,Yes,Single,Yes,Bachelor,No,No,Average,8.0,4.0,2.0,3.0,100.0,Programming,2.0,Software,3.48,3.08,68,False,20000.0
+138,2018.0,Male,25.0,2016.0,BCSE,No,No,Online,Yes,Yes,Advance,Yes,No,Yes,Single,Yes,Family,No,No,Poor,14.0,6.0,4.0,2.0,25.0,"Programming, Software Development",4.0,Software,3.16,2.68,121,False,60000.0
+139,2021.0,Female,21.0,2019.0,BCSE,No,No,Offline,Yes,Yes,Basic,Yes,No,Yes,Married,No,Family,No,No,Poor,5.0,2.5,3.0,1.0,87.0,Programming,1.0,UI/UX,1.92,2.42,39,False,60000.0
+152,2019.0,Male,23.0,2018.0,BCSE,No,Yes,Offline,Yes,Yes,Intermediate,No,No,Yes,Single,No,Bachelor,No,No,Good,11.0,5.0,5.0,3.0,90.0,Networking,2.0,Networking,3.29,3.23,114,False,28000.0
+157,2019.0,Female,22.0,2018.0,BCSE,No,Yes,Offline,Yes,Yes,Basic,Yes,No,No,Married,No,Bachelor,Yes,No,Poor,9.0,3.0,1.0,5.0,80.0,Programming,3.0,Software,2.0,2.22,77,False,4000.0
+159,2019.0,Female,21.0,2018.0,BCSE,No,No,Offline,Yes,Yes,Intermediate,Yes,No,Yes,Single,No,Bachelor,Yes,No,Average,10.0,5.5,1.0,3.0,80.0,Programming,2.0,Data Science,3.3,3.24,105,False,80000.0
+161,2019.0,Male,21.0,2018.0,BCSE,No,No,Online,Yes,Yes,Intermediate,No,No,Yes,Single,No,Bachelor,No,No,Poor,9.0,1.5,2.0,3.0,90.0,"Programming, Web development",6.0,Data Science,3.01,2.76,79,False,65000.0
+163,2019.0,Male,22.0,2018.0,BCSE,No,No,Offline,Yes,Yes,Basic,No,No,Yes,Single,No,Bachelor,No,No,Good,9.0,3.0,2.0,3.0,95.0,"Web development skill(Frontend),",2.0,Data Science,3.2,3.3,103,False,40000.0
+168,2020.0,Female,23.0,2018.0,BCSE,No,Yes,Offline,Yes,Yes,Basic,Yes,Yes,Yes,Married,Yes,Family,No,No,Poor,7.0,3.0,2.0,4.0,40.0,Web development skill(Backend),2.0,"Software, Hardware",2.4,2.4,70,False,60000.0
+170,2021.0,Male,22.0,2020.0,BCSE,Yes,Yes,Offline,Yes,Yes,Intermediate,No,No,No,Single,Yes,Family,No,No,Poor,22.0,4.5,2.0,2.0,90.0,"Programming, Digital Marketing",1.0,Data Science,2.16,2.75,35,False,40000.0
+173,2021.0,Male,21.0,2020.0,BCSE,No,No,Offline,No,Yes,Intermediate,Yes,No,Yes,Single,No,Bachelor,No,No,Poor,5.0,5.0,3.0,2.0,97.0,"Programming, Software Development",4.0,Software,0.0,2.31,46,False,50000.0
+174,2021.0,Female,20.0,2020.0,BCSE,No,Yes,Offline,Yes,Yes,Basic,No,No,No,Single,No,Family,Yes,Yes,Poor,5.0,2.0,3.0,3.0,80.0,Programming,3.0,Software,1.75,2.51,39,False,50000.0
+181,2020.0,Female,20.0,2018.0,BCSE,No,No,Offline,Yes,Yes,Advance,No,No,Yes,Single,No,Family,No,No,Average,8.0,3.0,2.0,2.0,98.0,Programming,3.0,Hardware,2.6,3.39,75,False,500000.0
+182,2021.0,Male,20.0,2020.0,BCSE,Yes,No,Offline,Yes,Yes,Intermediate,No,No,No,In a relationship,No,Bachelor,No,No,Good,4.0,7.0,2.5,1.0,90.0,"Programming, Web development",9.0,Data Science,3.33,3.5,33,False,40000.0
+183,2021.0,Male,24.0,2017.0,BCSE,No,No,Offline,Yes,Yes,Intermediate,No,No,No,In a relationship,Yes,Bachelor,No,No,Excellent,4.0,3.0,2.0,2.0,90.0,Programming,2.0,Software,4.0,3.92,34,False,40000.0
+184,2021.0,Male,22.0,2020.0,BCSE,Yes,Yes,Offline,Yes,Yes,Basic,No,No,Yes,Single,Yes,Family,No,No,Good,2.0,6.0,3.0,2.0,100.0,Cyber security,3.0,Networking,3.25,3.25,11,False,30000.0
+185,2019.0,Male,22.0,2018.0,BCSE,Yes,No,Offline,Yes,Yes,Basic,No,No,Yes,Single,Yes,Family,No,No,Average,11.0,1.0,1.0,1.0,100.0,Cyber security,2.0,Software,3.46,3.1,102,False,40000.0
+186,2022.0,Male,19.0,2020.0,BCSE,Yes,No,Offline,Yes,Yes,Intermediate,No,No,No,Single,No,Bachelor,No,No,Average,2.0,1.5,2.0,2.0,85.0,"Programming, Software Development",1.0,Networking,3.73,3.73,11,False,20000.0
+187,2014.0,Male,26.0,2014.0,BCSE,No,Yes,Online,Yes,Yes,Basic,Yes,No,Yes,Single,No,Family,No,No,Poor,22.0,3.0,2.0,1.0,100.0,"Cyber security, Networking",5.0,Networking,2.0,2.0,80,False,25000.0
+188,2019.0,Male,25.0,2017.0,BCSE,Yes,Yes,Offline,Yes,Yes,Intermediate,No,No,Yes,Single,Yes,Bachelor,No,No,Average,11.0,2.0,1.0,5.0,80.0,Basic,1.0,Software,3.78,3.56,132,False,15200.0
+189,2017.0,Male,24.0,2015.0,BCSE,Yes,Yes,Offline,Yes,Yes,Intermediate,No,No,Yes,Single,Yes,Family,No,No,Average,15.0,6.0,4.0,1.0,100.0,Programming,2.0,Software,3.42,3.02,136,False,50000.0
+190,2018.0,Female,21.0,2017.0,BCSE,No,No,Online,Yes,Yes,Advance,Yes,No,Yes,Single,No,Bachelor,Yes,No,Average,14.0,4.0,5.0,5.0,95.0,Programming,1.0,Software,3.5,3.2,122,False,15000.0
+191,2022.0,Male,21.0,2020.0,BCSE,Yes,No,Offline,Yes,Yes,Intermediate,No,No,Yes,Single,Yes,Bachelor,No,No,Good,2.0,2.5,2.0,3.0,90.0,"Programming, Software Development",2.0,Artificial Intelligence,3.26,3.26,11,False,22000.0
+192,2022.0,Female,21.0,2020.0,BCSE,Yes,Yes,Offline,Yes,Yes,Basic,Yes,No,No,Single,No,Family,No,No,Poor,2.0,2.5,2.0,2.0,70.0,Cyber security,1.0,Artificial Intelligence,3.9,3.8,12,False,25000.0
+193,2019.0,Female,21.0,2018.0,BCSE,Yes,Yes,Online,Yes,Yes,Intermediate,No,No,No,Single,No,Family,No,No,Average,9.0,2.0,1.0,5.0,95.0,Programming,1.0,Software,3.7,3.68,105,False,50000.0
+194,2019.0,Female,22.0,2018.0,BCSE,No,No,Offline,Yes,Yes,Intermediate,No,No,No,Single,No,Bachelor,No,No,Good,11.0,3.0,2.0,3.0,100.0,"Web development skill(Backend),",1.0,Software,3.82,3.65,78,False,30000.0
+195,2019.0,Female,21.0,2018.0,BCSE,Yes,No,Offline,Yes,Yes,Advance,No,No,No,Single,Yes,Family,No,No,Average,11.0,5.0,2.0,5.0,99.0,Web development skill(Frontend),2.0,Data Science,3.85,3.72,126,False,100000.0
+196,2016.0,Male,24.0,2016.0,BCSE,No,Yes,Offline,Yes,Yes,Advance,Yes,No,Yes,Married,Yes,Bachelor,No,No,Average,18.0,2.5,2.0,3.0,95.0,"Programming, Software Development",3.0,Software,3.1,2.84,133,False,20000.0
+197,2022.0,Female,20.0,2020.0,BCSE,Yes,No,Online,Yes,No,Intermediate,No,No,Yes,Single,No,Bachelor,No,No,Poor,2.0,2.0,2.0,6.0,90.0,"Networking, Nothing",0.0,Data Science,2.67,2.67,12,False,35000.0
+198,2019.0,Female,23.0,2017.0,BCSE,No,Yes,Offline,Yes,Yes,Intermediate,No,No,No,Single,No,Bachelor,No,No,Average,9.0,3.0,2.0,1.0,80.0,"Programming, Web development",1.0,Data Science,3.82,3.6,84,False,30000.0
+199,2022.0,Male,20.0,2020.0,BCSE,Yes,Yes,Offline,Yes,Yes,Basic,No,No,No,Single,Yes,Family,No,No,Good,2.0,5.0,2.0,2.0,100.0,Programming,1.0,Networking,3.72,3.72,11,False,40000.0
+200,2019.0,Female,21.0,2018.0,BCSE,No,Yes,Offline,Yes,Yes,Intermediate,No,No,Yes,Single,No,Family,No,No,Good,2022.0,2.0,1.0,2.0,90.0,Programming,1.0,Artificial Intelligence,3.51,3.56,125,False,40000.0
+201,2020.0,Male,22.0,2018.0,BCSE,No,No,Online,Yes,No,Intermediate,No,No,Yes,Single,No,Bachelor,Yes,No,Good,8.0,8.5,7.0,4.0,90.0,"Software Development skill,",5.0,Data Science,3.48,3.35,75,False,40000.0
+202,2019.0,Male,22.0,2018.0,BCSE,No,No,Offline,Yes,Yes,Basic,No,No,Yes,Single,No,Bachelor,No,No,Average,11.0,3.5,2.0,3.0,90.0,Software Development skill,1.0,Machine Learning / Deep Learning,2.65,2.99,121,False,50000.0
+203,2019.0,Male,22.0,2018.0,BCSE,No,Yes,Online,Yes,Yes,Intermediate,No,No,Yes,In a relationship,Yes,Bachelor,No,No,Good,11.0,6.5,3.5,2.0,100.0,"Programming, Software Development",5.0,Machine Learning / Deep Learning,3.72,3.42,131,False,25000.0
+204,2021.0,Male,23.0,2020.0,BCSE,Yes,No,Online,Yes,No,Basic,Yes,No,Yes,Single,No,Bachelor,No,No,Poor,2022.0,3.5,2.0,3.0,85.0,Programming,1.0,Software,1.96,0.0,11,True,20000.0
+205,2019.0,Female,23.0,2017.0,BCSE,Yes,Yes,Offline,Yes,Yes,Advance,No,No,Yes,Married,Yes,Family,No,No,Good,10.0,2.0,3.0,1.0,95.0,Networking,2.0,Networking,3.38,3.6,120,False,50000.0
+206,2018.0,Male,23.0,2017.0,BCSE,No,Yes,Online,Yes,Yes,Intermediate,Yes,No,No,In a relationship,Yes,Family,No,No,Average,14.0,7.0,2.0,2.0,80.0,"Programming, Software Development",1.0,Data Science,2.8,2.8,130,False,18000.0
+207,2019.0,Female,21.0,2018.0,BCSE,No,No,Online,Yes,Yes,Intermediate,No,No,Yes,Single,No,Family,Yes,No,Good,9.0,5.0,2.0,4.0,100.0,"Programming, Web development",2.0,Web Development,3.36,3.59,100,False,40000.0
+208,2020.0,Male,22.0,2028.0,BCSE,No,No,Offline,Yes,Yes,Intermediate,No,No,Yes,Single,No,Bachelor,No,No,Average,8.0,2.5,2.0,4.0,85.0,"Software Development skill,",1.0,Data Science,3.33,3.1,80,False,25000.0
+209,2017.0,Male,25.0,2016.0,BCSE,No,No,Online,Yes,Yes,Intermediate,Yes,No,Yes,Single,Yes,Family,Yes,Yes,Poor,15.0,1.5,1.0,2.0,90.0,"Networking, MIS",2.0,Data Science,2.11,2.54,126,False,80000.0
+210,2021.0,Male,21.0,2020.0,BCSE,No,No,Offline,Yes,Yes,Basic,No,No,Yes,Single,No,Family,Yes,No,Poor,4.0,1.0,1.0,6.0,100.0,Programming,20.0,Software,2.83,3.05,35,False,20000.0
+211,2021.0,Male,21.0,2019.0,BCSE,Yes,Yes,Online,Yes,Yes,Intermediate,Yes,No,No,Single,Yes,Family,No,No,Poor,4.0,3.5,2.0,4.0,95.0,"Programming, Software Development",1.0,Networking,2.2,2.2,30,False,25000.0
+212,2019.0,Male,23.0,2018.0,BCSE,No,Yes,Offline,Yes,Yes,Intermediate,No,No,Yes,Single,Yes,Family,No,No,Poor,11.0,6.0,2.0,6.0,98.0,"Programming, Web development",3.0,Machine Learning / Deep Learning,3.2,3.22,110,False,50000.0
+213,2019.0,Male,26.0,2014.0,BCSE,No,No,Offline,Yes,Yes,Intermediate,Yes,No,Yes,Single,Yes,Bachelor,No,No,Poor,10.0,4.0,2.0,1.0,70.0,"Programming, Web development",2.0,Data Science,2.81,3.2,104,False,12000.0
+214,2022.0,Male,20.0,2020.0,BCSE,No,No,Offline,No,Yes,Basic,No,No,No,Single,Yes,Bachelor,No,No,Good,2.0,5.0,2.0,2.0,100.0,Programming,5.0,Software,3.48,3.48,11,False,20000.0
+215,2022.0,Female,20.0,2020.0,BCSE,Yes,No,Offline,Yes,Yes,Intermediate,No,No,No,Single,No,Family,Yes,No,Poor,2.0,5.5,1.0,6.0,90.0,Programming,4.0,Networking,4.0,3.39,11,False,50000.0
+216,2022.0,Male,20.0,2020.0,BCSE,Yes,Yes,Offline,Yes,Yes,Basic,Yes,No,No,Single,No,Family,No,No,Poor,1.0,2.0,7.0,6.0,100.0,"Web development skill(Backend),",4.0,Data Science,4.0,4.0,14,False,20000.0
+217,2019.0,Male,23.0,2017.0,BCSE,Yes,Yes,Offline,Yes,Yes,Intermediate,No,No,No,Single,No,Bachelor,No,No,Poor,9.0,4.0,2.0,6.0,90.0,"Programming, Web development",1.0,Machine Learning / Deep Learning,3.7,3.5,89,False,50000.0
+219,2022.0,Female,21.0,2019.0,BCSE,Yes,Yes,Offline,Yes,Yes,Intermediate,No,No,No,Single,No,Family,No,No,Poor,2.0,4.0,3.0,5.0,90.0,Software Development skill,3.0,Software,3.68,0.0,11,False,25000.0
+220,2022.0,Male,21.0,2020.0,BCSE,Yes,No,Offline,Yes,Yes,Intermediate,No,No,No,Single,No,Bachelor,No,No,Good,2022.0,5.0,2.0,2.0,95.0,Programming,2.0,Software,3.3,3.3,11,False,50000.0
+221,2018.0,Male,22.0,2016.0,BCSE,No,No,Online,Yes,Yes,Intermediate,No,No,Yes,Single,Yes,Bachelor,No,No,Average,12.0,4.5,2.0,2.0,95.0,"Cyber security, Phishing",6.0,Hardware,3.85,3.1,115,False,25000.0
+222,2019.0,Male,21.0,2018.0,BCSE,Yes,No,Online,Yes,Yes,Intermediate,No,No,Yes,Single,No,Bachelor,No,No,Good,11.0,2.0,2.0,3.0,90.0,"Programming, Web development",5.0,Data Science,4.0,3.78,120,False,50000.0
+223,2018.0,Female,24.0,2018.0,BCSE,No,No,Offline,Yes,Yes,Intermediate,No,No,No,Single,Yes,Family,No,No,Average,8.0,4.0,2.0,1.0,97.0,"Programming, Web development",2.0,Machine Learning / Deep Learning,2.98,2.91,136,False,20000.0
+224,2020.0,Female,22.0,2018.0,BCSE,Yes,Yes,Offline,Yes,Yes,Advance,No,No,No,Single,Yes,Family,No,No,Poor,8.0,5.0,2.0,15.0,100.0,"Programming, Web development",4.0,Data Science,3.64,3.75,88,False,34000.0
+225,2022.0,Female,19.0,2020.0,BCSE,Yes,No,Offline,Yes,Yes,Intermediate,No,No,No,Single,No,Bachelor,No,No,Good,2.0,6.5,2.0,1.0,95.0,"Programming, Software Development",2.0,Software,3.56,3.58,11,False,10000.0
+226,2019.0,Male,23.6,2018.0,BCSE,No,Yes,Offline,Yes,Yes,Advance,No,No,Yes,In a relationship,No,Family,No,No,Poor,11.0,1.0,1.0,2.0,65.0,"Digital Marketing, Teaching",1.0,"Hardware, Physics",1.68,3.1,120,False,30000.0
+227,2022.0,Male,20.0,2020.0,BCSE,No,Yes,Online,Yes,Yes,Basic,No,No,No,Single,No,Bachelor,No,No,Poor,2.0,3.0,3.0,5.0,80.0,Programming,2.0,Networking,2.54,2.54,11,False,40000.0
+228,2022.0,Male,20.0,2020.0,BCSE,No,No,Offline,Yes,Yes,Basic,No,No,No,Single,No,Bachelor,No,No,Excellent,2.0,7.5,3.0,1.0,95.0,Programming,1.0,Software,3.9,3.9,11,False,50000.0
+229,2019.0,Female,22.0,2019.0,BCSE,Yes,Yes,Offline,Yes,Yes,Basic,No,No,Yes,Single,No,Family,No,No,Excellent,9.0,6.0,3.0,3.0,90.0,Networking,1.0,Networking,3.84,3.77,99,False,60000.0
+230,2019.0,Male,22.0,2018.0,BCSE,Yes,Yes,Offline,Yes,Yes,Intermediate,No,No,Yes,Single,Yes,Bachelor,Yes,No,Poor,2.0,1.0,2.0,20.0,70.0,"Programming, Web development",6.0,Machine Learning / Deep Learning,3.68,3.39,117,False,16000.0
+231,2018.0,Female,23.0,2016.0,BCSE,Yes,Yes,Offline,Yes,Yes,Advance,No,No,No,Single,No,Family,No,No,Average,9.0,2.0,1.0,2.0,95.0,Web development skill(Frontend),2.0,Machine Learning / Deep Learning,3.14,3.14,101,False,40000.0
+232,2019.0,Male,23.0,2018.0,BCSE,No,No,Offline,Yes,Yes,Intermediate,No,No,Yes,Single,No,Bachelor,No,No,Good,11.0,4.5,2.0,4.0,95.0,"Programming, Networking",1.0,Networking,3.69,3.23,125,False,30000.0
+233,2017.0,Male,26.0,2014.0,BCSE,No,No,Online,Yes,Yes,Intermediate,No,No,Yes,Single,No,Bachelor,No,No,Average,17.0,3.0,2.0,1.0,95.0,"Programming, Software Development",6.0,Machine Learning / Deep Learning,2.73,3.08,110,False,25000.0
+234,2019.0,Male,24.0,2018.0,BCSE,No,No,Online,Yes,Yes,Intermediate,No,No,No,Single,No,Bachelor,No,No,Average,11.0,2.5,2.0,1.0,80.0,"Programming, Web development",3.0,Software,3.48,3.0,123,True,25000.0
+235,2022.0,Male,20.0,2020.0,BCSE,Yes,Yes,Online,Yes,Yes,Intermediate,No,No,Yes,Single,Yes,Family,No,No,Poor,2.0,5.0,2.0,12.0,100.0,Programming,2.0,Software,2.61,3.39,11,False,40000.0
+237,2018.0,Male,23.0,2018.0,BCSE,No,No,Offline,Yes,Yes,Intermediate,Yes,No,Yes,Single,Yes,Bachelor,No,No,Poor,12.0,1.0,1.0,2.0,95.0,"Programming, Web development",1.0,Software,2.8,2.68,84,False,50000.0
+238,2020.0,Male,23.0,2019.0,BCSE,No,No,Offline,Yes,Yes,Basic,Yes,No,Yes,Single,No,Bachelor,No,No,Poor,7.0,1.5,3.0,3.0,90.0,Programming,2.0,Software,1.52,2.15,70,False,36000.0
+239,2020.0,Male,22.0,2019.0,BCSE,No,No,Offline,Yes,Yes,Intermediate,No,No,Yes,Single,Yes,Bachelor,No,No,Average,8.0,2.0,2.0,3.0,100.0,"Programming, Web development",2.0,Data Science,3.12,3.08,83,False,2530.0
+240,2018.0,Male,24.0,2017.0,BCSE,No,No,Offline,Yes,Yes,Intermediate,No,No,Yes,In a relationship,No,Family,No,No,Good,12.0,5.0,6.0,1.0,90.0,Networking,3.0,Networking,3.68,3.33,118,False,20000.0
+244,2020.0,Male,19.0,2019.0,BCSE,Yes,No,Online,Yes,Yes,Basic,No,No,No,Single,No,Bachelor,No,No,Good,8.0,2.5,2.0,1.0,90.0,"Programming, Software Development",2.0,Data Science,3.36,3.72,88,False,20000.0
+245,2022.0,Male,20.0,2020.0,BCSE,Yes,No,Offline,Yes,Yes,Intermediate,No,No,No,Single,No,Family,No,No,Average,2.0,1.0,1.0,4.0,99.0,Programming,2.0,Networking,3.83,3.83,11,False,35000.0
+246,2019.0,Male,22.0,2018.0,BCSE,No,Yes,Online,Yes,Yes,Intermediate,No,No,Yes,Single,No,Family,No,No,Poor,22.0,4.0,2.0,1.0,90.0,"Programming, Software Development",4.0,Machine Learning / Deep Learning,1.98,2.98,104,False,25000.0
+247,2021.0,Female,19.0,2020.0,BCSE,No,Yes,Offline,Yes,Yes,Intermediate,No,No,No,Single,No,Family,Yes,Yes,Good,2.0,3.5,2.0,2.0,98.0,Programming,2.0,Data Science,3.37,3.39,11,False,25000.0
+249,2022.0,Male,19.0,2020.0,BCSE,Yes,No,Offline,Yes,No,Basic,No,No,No,Single,No,Family,No,No,Good,2022.0,5.0,3.0,3.0,95.0,"Programming, Microsoft Excel",2.0,Networking,4.5,3.39,85.0,False,30000.0
+250,2022.0,Male,20.0,2021.0,BCSE,Yes,Yes,Offline,Yes,Yes,Intermediate,No,No,No,Single,Yes,Family,No,No,Poor,1.0,2.6666666666666665,1.0,1.0,100.0,"Software Development skill,",2.0,Data Science,0.0,0.0,0,False,150000.0
+252,2017.0,Female,23.0,2016.0,BCSE,No,No,Online,Yes,Yes,Basic,No,No,Yes,Married,No,Family,No,No,Average,14.0,3.5,2.0,3.0,90.0,Software Development skill,2.0,Software,2.79,2.84,133,False,30000.0
+253,2021.0,Male,21.0,2019.0,BCSE,Yes,No,Offline,Yes,Yes,Intermediate,No,No,Yes,Single,Yes,Bachelor,No,No,Good,3.0,5.5,3.5,3.0,95.0,Programming,1.0,Artificial Intelligence,3.52,3.65,23,False,25000.0
+254,2021.0,Male,21.0,2020.0,BCSE,Yes,Yes,Online,Yes,Yes,Intermediate,No,No,Yes,Single,No,Family,No,No,Average,3.0,1.5,2.0,2.0,90.0,Web development skill(Frontend),1.0,Artificial Intelligence,3.85,3.79,35,False,35000.0
+255,2019.0,Female,23.0,2018.0,BCSE,Yes,No,Online,Yes,Yes,Advance,Yes,No,No,Married,Yes,Bachelor,Yes,No,Poor,11.0,4.0,2.0,5.0,70.0,Cyber security,2.0,UI/UX,3.01,2.89,120,False,90000.0
+256,2021.0,Female,20.0,2020.0,BCSE,Yes,No,Offline,Yes,Yes,Advance,No,No,Yes,In a relationship,No,Family,No,No,Average,3.0,3.5,2.0,2.0,90.0,Programming,2.0,Networking,3.18,3.18,24,False,80000.0
+257,2021.0,Male,19.0,2020.0,BCSE,Yes,Yes,Offline,Yes,Yes,Intermediate,No,No,Yes,Single,Yes,Bachelor,No,No,Average,3.0,5.0,10.0,5.0,100.0,"Programming, Web development",2.0,Data Science,3.72,3.89,26,False,60000.0
+258,2021.0,Female,21.0,2020.0,BCSE,Yes,Yes,Online,Yes,No,Intermediate,No,No,Yes,Single,No,Family,Yes,No,Poor,5.0,3.5,2.0,10.0,70.0,Programming,3.0,Software,2.8,2.9,40,False,500000.0
+259,2021.0,Male,21.0,2020.0,BCSE,Yes,No,Online,Yes,Yes,Basic,No,No,Yes,Single,No,Family,No,No,Good,3.0,2.0,2.0,3.0,90.0,Programming,1.0,Software,3.42,3.56,23,False,50000.0
+260,2021.0,Male,20.0,2020.0,BCSE,Yes,No,Offline,Yes,Yes,Basic,No,No,No,Single,No,Bachelor,No,No,Poor,2022.0,3.5,2.0,3.0,85.0,Programming,1.0,Software,2.49,3.03,25,False,40000.0
+261,2021.0,Female,19.0,2020.0,BCSE,No,Yes,Offline,Yes,Yes,Intermediate,No,No,Yes,Single,No,Family,No,No,Good,3.0,2.0,1.0,3.0,95.0,Programming,1.0,Data Science,4.59,4.67,23,False,100000.0
+262,2021.0,Female,22.0,2017.0,BCSE,Yes,Yes,Offline,Yes,Yes,Intermediate,No,No,Yes,Single,No,Family,Yes,No,Good,5.0,3.0,2.0,2.0,90.0,Programming,1.0,Software,3.86,3.67,49,False,20000.0
+263,2022.0,Male,20.0,2020.0,BCSE,Yes,Yes,Offline,Yes,Yes,Advance,No,No,Yes,Single,No,Family,No,No,Poor,1.0,3.5,1.0,1.0,100.0,Programming,1.0,Data Science,0.0,0.0,0,False,30000.0
+264,2021.0,Male,21.0,2020.0,BCSE,Yes,Yes,Online,Yes,Yes,Intermediate,No,No,No,Single,Yes,Family,No,No,Good,5.0,6.0,3.5,2.0,90.0,"Programming, Software Development",2.0,Machine Learning / Deep Learning,3.82,3.7,55,False,50000.0
+265,2021.0,Male,21.0,2019.0,BCSE,Yes,No,Online,Yes,Yes,Intermediate,No,No,Yes,Single,No,Family,No,No,Average,3.0,2.0,1.0,2.0,75.0,"Programming, Designing(Photoshop), video",1.0,Data Science,3.58,3.1,23,False,40000.0
+266,2021.0,Male,21.0,2020.0,BCSE,No,No,Offline,Yes,Yes,Intermediate,No,No,Yes,Single,No,Bachelor,No,No,Average,5.0,5.5,2.0,2.0,98.0,Programming,2.0,Software,2.57,2.8,45,False,30000.0
+267,2021.0,Male,22.0,2020.0,BCSE,Yes,No,Offline,Yes,Yes,Advance,No,No,Yes,Single,Yes,Bachelor,Yes,No,Excellent,3.0,5.0,2.0,2.0,95.0,"Programming, Mentoring",2.0,Data Science,3.86,3.92,23,False,40000.0
+268,2022.0,Male,22.0,2019.0,BCSE,No,No,Offline,Yes,Yes,Intermediate,No,No,Yes,Single,Yes,Bachelor,No,No,Poor,2.0,3.0,1.0,3.0,80.0,Programming,1.0,UI/UX,4.0,0.0,11,False,40000.0
+270,2020.0,Male,23.0,2018.0,BCSE,No,No,Online,Yes,Yes,Intermediate,Yes,No,No,Single,Yes,Bachelor,No,No,Average,6.0,1.0,2.0,2.0,90.0,Programming,1.0,Data Science,3.1,3.4,65,False,40000.0
+272,2021.0,Male,20.0,2020.0,BCSE,Yes,No,Offline,Yes,Yes,Basic,No,No,Yes,Single,No,Family,Yes,No,Average,3.0,1.0,2.0,1.0,95.0,Programming,1.0,Networking,3.68,3.65,24,False,45000.0
+273,2022.0,Female,21.0,2020.0,BCSE,Yes,Yes,Offline,Yes,Yes,Basic,No,No,Yes,Single,No,Family,No,No,Poor,2.0,7.0,2.0,3.0,2.0,Programming,0.0,Software,3.4,3.4,11,False,40000.0
+275,2021.0,Male,20.0,2020.0,BCSE,Yes,Yes,Offline,Yes,Yes,Advance,No,No,Yes,Single,No,Family,Yes,No,Poor,3.0,4.0,2.0,2.0,70.0,Programming,2.0,Artificial Intelligence,2.45,2.95,25,False,50000.0
+276,2015.0,Female,25.0,2015.0,BCSE,No,Yes,Offline,Yes,Yes,Intermediate,Yes,No,Yes,Married,No,Family,No,No,Poor,14.0,2.5,2.0,3.0,80.0,Software Development skill,1.0,Software,2.4,2.89,130,False,25000.0
+277,2021.0,Female,20.0,2020.0,BCSE,Yes,Yes,Offline,Yes,Yes,Intermediate,No,No,Yes,Married,Yes,Family,No,No,Good,3.0,4.5,2.0,1.0,99.0,Programming,3.0,Software,3.47,3.2,23,False,50000.0
+278,2019.0,Male,21.0,2018.0,BCSE,No,Yes,Offline,Yes,Yes,Intermediate,No,No,No,Single,No,Bachelor,No,No,Average,11.0,1.0,1.0,1.0,100.0,"Programming, Web development",1.0,Networking,2.53,3.05,115,False,37000.0
+279,2021.0,Female,23.0,2019.0,BCSE,Yes,Yes,Offline,Yes,No,Basic,Yes,No,Yes,Single,Yes,Family,Yes,No,Poor,3.0,1.0,1.0,3.0,100.0,Photographey,1.0,Software,2.56,2.72,26,False,45000.0
+281,2020.0,Male,20.0,2019.0,BCSE,No,No,Online,Yes,Yes,Basic,Yes,No,No,Single,Yes,Family,No,No,Poor,7.0,2.5,2.0,1.0,80.0,I do not,2.0,Data Science,2.36,2.56,65,False,35000.0
+285,2021.0,Female,20.0,2020.0,BCSE,Yes,Yes,Online,Yes,Yes,Intermediate,No,No,Yes,Single,No,Bachelor,No,Yes,Poor,3.0,2.5,2.0,1.0,90.0,Programming,1.0,Networking,3.19,2.73,24,False,40000.0
+287,2019.0,Female,22.0,2018.0,BCSE,No,Yes,Offline,Yes,Yes,Basic,No,No,No,Single,No,Family,No,No,Average,11.0,6.0,3.0,2.0,98.0,Programming,2.0,Machine Learning / Deep Learning,3.1,3.07,107,False,60000.0
+288,2021.0,Male,21.0,2020.0,BCSE,Yes,No,Offline,Yes,Yes,Intermediate,No,No,No,Single,Yes,Bachelor,No,No,Average,3.0,4.5,2.0,5.0,95.0,Programming,2.0,Networking,3.28,3.0,25,False,70000.0
+289,2022.0,Female,21.0,2020.0,BCSE,Yes,Yes,Offline,Yes,Yes,Basic,No,No,No,Single,No,Family,No,No,Poor,1.0,1.5,2.0,2.0,100.0,Programming,0.0,Software,0.0,0.0,11,False,35000.0
+290,2022.0,Male,20.0,2020.0,BCSE,Yes,No,Offline,Yes,Yes,Basic,No,No,Yes,Single,Yes,Bachelor,No,No,Good,2.0,5.0,2.0,3.0,90.0,"Programming, Cyber security,",1.0,Networking,3.6,3.6,14,False,10000.0
+291,2021.0,Female,21.0,2019.0,BCSE,Yes,No,Offline,Yes,Yes,Intermediate,No,No,Yes,Single,No,Bachelor,No,No,Good,3.0,3.5,1.0,1.0,90.0,"Programming, Web development",1.0,Networking,3.75,3.7,24,False,50000.0
+292,2021.0,Male,20.0,2020.0,BCSE,No,No,Online,Yes,Yes,Intermediate,No,No,No,Single,Yes,Family,No,No,Average,4.0,1.0,1.0,3.0,90.0,"Programming, Web development",2.0,Machine Learning / Deep Learning,3.85,3.92,34,False,40000.0
+293,2021.0,Female,20.0,2019.0,BCSE,Yes,Yes,Offline,Yes,Yes,Basic,No,No,No,Single,No,Family,No,No,Poor,8.0,3.5,2.0,2.0,90.0,Programming,1.0,Machine Learning / Deep Learning,2.68,2.68,23,False,100000.0
+294,2021.0,Female,21.0,2020.0,BCSE,Yes,No,Online,Yes,Yes,Intermediate,No,No,Yes,Single,No,Bachelor,No,No,Average,2.0,3.0,2.0,1.0,99.0,Programming,3.0,Software,3.18,3.18,11,False,20000.0
+295,2019.0,Female,24.0,2018.0,BCSE,Yes,No,Offline,Yes,Yes,Intermediate,No,No,Yes,Married,No,Family,No,No,Good,11.0,2.0,1.0,1.0,90.0,Web development skill(Frontend),2.0,Data Science,3.39,3.4,128,True,5000.0
+296,2021.0,Female,20.0,2020.0,BCSE,No,No,Online,Yes,Yes,Intermediate,No,No,Yes,Single,No,Bachelor,Yes,No,Good,22.0,3.5,1.0,4.0,100.0,Programming,1.0,Software,2.98,3.38,25,False,60000.0
+297,2021.0,Female,21.0,2020.0,BCSE,No,No,Offline,Yes,Yes,Intermediate,Yes,No,No,Single,No,Family,No,No,Good,2.0,9.0,2.0,3.0,97.0,Programming,5.0,Software,3.7,3.39,23,False,50000.0
+298,2018.0,Female,23.0,2017.0,BCSE,No,Yes,Offline,Yes,Yes,Advance,Yes,No,Yes,Married,No,Family,No,No,Average,14.0,1.0,2.0,2.0,80.0,Programming,2.0,Machine Learning / Deep Learning,3.25,2.95,130,False,40000.0
+299,2021.0,Male,19.0,2020.0,BCSE,No,Yes,Online,Yes,Yes,Basic,No,No,No,Single,No,Family,No,No,Good,3.0,2.5,1.0,3.0,95.0,Programming,1.0,Software,3.03,3.21,25,False,30000.0
+300,2021.0,Female,22.0,2020.0,BCSE,No,No,Offline,Yes,Yes,Intermediate,No,No,No,Single,No,Bachelor,No,No,Average,5.0,2.0,2.0,3.0,95.0,Programming,1.0,Software,3.1,3.18,48,False,50000.0
+301,2022.0,Female,21.0,2020.0,BCSE,Yes,Yes,Offline,Yes,Yes,Intermediate,No,No,Yes,Single,No,Family,No,No,Good,2.0,2.0,1.0,3.0,98.0,Programming,1.0,Artificial Intelligence,3.7,3.7,12,False,120000.0
+302,2022.0,Male,21.0,2020.0,BCSE,Yes,Yes,Offline,Yes,Yes,Intermediate,Yes,No,Yes,Single,Yes,Family,No,No,Poor,2.0,9.0,8.0,6.0,70.0,Programming,4.0,Software,4.0,4.0,12,False,30000.0
+303,2021.0,Male,19.0,2020.0,BCSE,Yes,Yes,Offline,Yes,Yes,Intermediate,No,No,Yes,Single,Yes,Bachelor,No,No,Average,3.0,1.5,2.0,2.0,85.0,"Programming, Software Development",1.0,Software,3.18,3.45,23,False,40000.0
+304,2021.0,Female,19.0,2020.0,BCSE,Yes,Yes,Offline,Yes,Yes,Basic,No,No,Yes,Single,No,Family,No,No,Good,3.0,3.0,2.0,3.0,100.0,Programming,1.0,Software,3.61,3.74,25,False,40000.0
+305,2021.0,Male,22.0,2017.0,BCSE,Yes,No,Online,Yes,Yes,Intermediate,No,No,No,Single,No,Family,No,No,Poor,3.0,2.0,1.0,0.0,70.0,Programming,1.0,Machine Learning / Deep Learning,3.01,3.22,23,False,70000.0
+306,2021.0,Female,21.0,2020.0,BCSE,No,Yes,Offline,Yes,Yes,Basic,No,No,No,Single,No,Family,Yes,No,Average,3.0,2.0,2.0,5.0,80.0,Programming,2.0,Artificial Intelligence,3.26,3.36,23,False,40000.0
+307,2016.0,Male,25.0,2016.0,BCSE,Yes,No,Offline,Yes,Yes,Intermediate,No,No,No,Single,Yes,Bachelor,No,No,Average,19.0,1.0,1.0,2.0,100.0,"Web development skill(Frontend),",2.0,Data Science,3.6,3.72,130,False,300000.0
+308,2021.0,Male,20.0,2019.0,BCSE,No,No,Offline,Yes,Yes,Basic,No,No,No,Single,No,Bachelor,Yes,No,Average,3.0,2.0,3.0,3.0,100.0,Programming,2.0,Artificial Intelligence,3.12,3.01,23,False,50000.0
+309,2022.0,Female,20.0,2020.0,BCSE,Yes,No,Offline,Yes,Yes,Basic,No,No,Yes,Single,Yes,Bachelor,No,No,Excellent,1.0,4.0,2.0,2.0,100.0,Software Development skill,2.0,Networking,5.0,3.93,11,False,50000.0
+310,2021.0,Male,20.0,2020.0,BCSE,Yes,No,Online,Yes,Yes,Advance,Yes,No,No,Single,Yes,Bachelor,No,No,Poor,3.0,5.5,2.0,6.0,95.0,Programming,1.0,Artificial Intelligence,3.0,3.55,23,False,150000.0
+311,2019.0,Male,24.0,2018.0,BCSE,No,No,Online,Yes,Yes,Basic,Yes,No,Yes,Single,Yes,Family,No,No,Poor,9.0,1.0,2.0,3.0,95.0,"Programming, Web development",20.0,Data Science,1.61,2.44,40,False,25000.0
+312,2020.0,Male,22.0,2018.0,BCSE,Yes,Yes,Online,Yes,Yes,Basic,No,No,No,Single,No,Family,No,No,Average,6.0,1.0,1.0,3.0,80.0,Web development skill(Frontend),1.0,Software,2.79,3.15,50,False,40000.0
+313,2021.0,Female,22.0,2020.0,BCSE,No,No,Offline,Yes,No,Intermediate,No,No,No,Single,No,Bachelor,No,No,Good,22.0,2.0,1.0,3.0,98.0,Programming,2.0,Software,3.83,3.4,25,False,40000.0
+314,2018.0,Male,26.0,2018.0,BCSE,Yes,Yes,Online,Yes,Yes,Advance,No,No,Yes,Single,No,Family,No,No,Good,12.0,3.0,1.0,2.0,100.0,"Web development skill(Frontend),",3.0,Networking,3.58,3.27,130,True,25000.0
+315,2021.0,Female,21.0,2020.0,BCSE,Yes,Yes,Offline,Yes,Yes,Basic,No,No,Yes,Single,No,Family,No,No,Average,3.0,3.5,1.0,4.0,100.0,Web development skill(Backend),2.0,Networking,3.39,3.19,25,False,70000.0
+316,2021.0,Male,20.0,2020.0,BCSE,Yes,No,Offline,Yes,Yes,Intermediate,No,No,No,Single,No,Bachelor,No,No,Good,3.0,3.5,2.0,2.0,100.0,"Programming, Web development",2.0,Networking,3.38,3.37,23,False,25000.0
+317,2021.0,Female,19.0,2020.0,BCSE,Yes,No,Offline,Yes,Yes,Intermediate,No,No,Yes,Single,No,Bachelor,Yes,No,Average,3.0,3.5,2.0,1.0,100.0,Web development skill(Backend),1.0,Data Science,3.03,3.15,23,False,30000.0
+319,2021.0,Male,21.0,2020.0,BCSE,Yes,Yes,Offline,Yes,Yes,Intermediate,No,No,Yes,Single,Yes,Family,No,No,Average,3.0,1.5,1.0,1.0,95.0,Programming,2.0,Networking,3.65,3.7,25,False,40000.0
+320,2019.0,Female,22.0,2019.0,BCSE,No,Yes,Offline,Yes,Yes,Intermediate,No,No,Yes,Single,No,Family,Yes,No,Poor,9.0,3.5,1.0,2.0,80.0,Web development skill(Frontend),1.0,Machine Learning / Deep Learning,3.18,2.69,80,False,30000.0
+321,2022.0,Male,21.0,2020.0,BCSE,Yes,Yes,Offline,Yes,Yes,Basic,No,No,Yes,Single,Yes,Family,No,No,Good,2.0,3.0,2.0,2.0,100.0,Programming,2.0,Networking,3.78,3.39,11,False,30000.0
+322,2020.0,Male,24.0,2017.0,BCSE,Yes,Yes,Offline,Yes,Yes,Intermediate,No,No,No,In a relationship,Yes,Family,No,No,Poor,8.0,1.0,1.0,4.0,70.0,"Programming, Mechine Learning",3.0,Data Science,2.56,3.38,90,False,30000.0
+323,2021.0,Male,20.0,2020.0,BCSE,Yes,No,Offline,No,Yes,Basic,No,No,No,Single,No,Family,Yes,No,Poor,3.0,2.0,2.0,12.0,90.0,learner,0.0,Data Science,2.94,3.1,24,False,45000.0
+324,2021.0,Female,19.0,2020.0,BCSE,No,No,Offline,Yes,Yes,Intermediate,Yes,No,Yes,Single,No,Family,No,No,Poor,3.0,3.5,2.5,4.0,100.0,Programming,2.0,Networking,2.36,2.88,23,False,80000.0
+325,2022.0,Male,21.0,2021.0,BCSE,Yes,No,Online,Yes,No,Intermediate,No,No,Yes,Single,No,Family,No,No,Average,2.0,3.0,2.0,5.0,100.0,Programming,2.0,Software,3.8,3.8,11,False,30000.0
+326,2021.0,Male,22.0,2020.0,BCSE,Yes,No,Offline,Yes,Yes,Basic,Yes,No,No,Single,No,Bachelor,No,No,Poor,3.0,0.0,0.0,15.0,80.0,Programming,0.0,Software,1.53,2.43,23,False,30000.0
+327,2020.0,Female,21.0,2019.0,BCSE,No,Yes,Online,Yes,Yes,Intermediate,No,No,Yes,In a relationship,No,Family,No,No,Average,7.0,2.5,2.0,5.0,80.0,"Programming, Web development",3.0,UI/UX,3.0,2.91,90,False,35000.0
+328,2021.0,Female,20.0,2020.0,BCSE,No,Yes,Offline,Yes,No,Basic,No,No,Yes,Single,Yes,Family,No,No,Poor,3.0,2.0,1.0,5.0,80.0,Programming,1.0,Software,2.32,2.66,23,False,40000.0
+330,2021.0,Female,21.0,2019.0,BCSE,Yes,No,Offline,Yes,Yes,Advance,No,No,Yes,In a relationship,Yes,Family,Yes,No,Poor,3.0,0.0,0.0,12.0,50.0,No skill,0.0,Networking,3.37,3.39,85.0,False,20000.0
+331,2021.0,Female,22.0,2020.0,BCSE,Yes,No,Offline,Yes,Yes,Intermediate,No,No,Yes,Single,Yes,Bachelor,Yes,No,Average,3.0,2.0,1.0,3.0,100.0,Web development skill(Backend),1.0,Machine Learning / Deep Learning,2.89,3.37,24,False,50000.0
+332,2021.0,Female,21.0,2019.0,BCSE,Yes,Yes,Offline,Yes,Yes,Basic,No,No,No,Single,No,Family,No,No,Good,3.0,2.0,3.0,2.0,90.0,Programming,2.0,Software,3.17,3.39,24,False,40000.0
+333,2021.0,Female,20.0,2020.0,BCSE,Yes,Yes,Offline,Yes,Yes,Basic,Yes,No,No,Single,No,Family,Yes,No,Poor,3.0,2.0,2.0,5.0,100.0,Programming,2.0,Software,2.26,2.31,20,False,35000.0
+334,2022.0,Female,21.0,2020.0,BCSE,Yes,No,Offline,Yes,Yes,Basic,No,No,No,Single,No,Bachelor,No,No,Good,2.0,5.0,2.0,2.0,99.0,Programming,1.0,Networking,3.65,3.65,12,False,35000.0
+335,2021.0,Female,22.0,2019.0,BCSE,Yes,Yes,Offline,Yes,Yes,Intermediate,No,No,Yes,Single,No,Family,No,No,Average,3.0,2.5,1.0,5.0,96.0,Programming,2.0,Machine Learning / Deep Learning,3.03,3.02,25,False,49000.0
+336,2020.0,Male,22.0,2018.0,BCSE,Yes,Yes,Offline,Yes,Yes,Basic,No,No,Yes,Single,No,Bachelor,Yes,No,Average,2022.0,2.5,2.0,4.0,80.0,"Web development skill(Backend),",0.0,Data Science,3.93,3.44,53,False,15000.0
+337,2019.0,Female,22.0,2018.0,BCSE,No,Yes,Offline,Yes,Yes,Advance,No,No,Yes,Single,Yes,Family,No,No,Average,9.0,4.0,3.0,2.0,80.0,Programming,2.0,Data Science,3.0,3.09,105,False,2000000.0
+338,2022.0,Female,20.0,2021.0,BCSE,Yes,Yes,Offline,Yes,Yes,Basic,No,No,Yes,Single,No,Family,No,No,Poor,1.0,2.0,2.0,3.0,98.0,"Programming, Software Development",0.0,Networking,0.0,0.0,0,False,20000.0
+339,2022.0,Male,20.0,2020.0,BCSE,Yes,Yes,Offline,Yes,Yes,Basic,No,No,Yes,Single,Yes,Bachelor,No,No,Good,2.0,8.0,4.0,2.0,95.0,Programming,2.0,"Software, Hardware",3.45,3.45,11,False,30000.0
+340,2021.0,Female,21.0,2020.0,BCSE,Yes,Yes,Offline,Yes,Yes,Basic,No,No,Yes,Single,No,Family,No,No,Average,3.0,3.5,2.0,1.0,100.0,Programming,1.0,Software,2.94,3.03,23,False,25000.0
+341,2021.0,Male,21.0,2019.0,BCSE,Yes,Yes,Offline,Yes,Yes,Intermediate,No,No,No,In a relationship,Yes,Family,No,No,Excellent,3.0,8.5,2.0,1.0,100.0,Programming,3.0,Software,3.93,3.95,25,False,50000.0
+342,2021.0,Male,21.0,2019.0,BCSE,Yes,Yes,Online,Yes,Yes,Intermediate,No,No,No,Single,Yes,Family,Yes,No,Average,3.0,1.0,1.0,2.0,85.0,Programming,2.0,Data Science,3.86,3.84,24,False,50000.0
+343,2022.0,Male,20.0,2020.0,BCSE,No,Yes,Offline,Yes,Yes,Intermediate,Yes,No,No,Single,No,Family,No,No,Average,3.0,4.0,2.0,2.0,100.0,Programming,1.0,Data Science,2.93,2.84,26,False,30000.0
+344,2021.0,Male,20.0,2020.0,BCSE,Yes,No,Online,Yes,Yes,Intermediate,No,No,Yes,Single,No,Bachelor,No,No,Average,4.0,7.5,2.0,1.0,80.0,Programming,2.0,Software,3.06,3.08,36,False,6500.0
+346,2020.0,Female,21.0,2018.0,BCSE,Yes,Yes,Offline,Yes,Yes,Intermediate,No,No,Yes,Single,No,Family,No,No,Excellent,8.0,3.3475298126064734,0.0,3.0,100.0,Programming,4.0,Software,3.92,3.94,60,False,50000.0
+347,2021.0,Male,21.0,2019.0,BCSE,No,Yes,Offline,Yes,Yes,Intermediate,No,No,No,Single,Yes,Family,No,No,Good,3.0,2.0,1.0,2.0,98.0,"Programming, Web development",1.0,Software,3.17,3.53,25,False,30000.0
+348,2022.0,Female,20.0,2020.0,BCSE,Yes,Yes,Offline,Yes,Yes,Basic,No,No,No,Single,No,Family,No,No,Good,2022.0,2.0,2.0,3.0,95.0,Programming,1.0,Software,3.63,3.39,11,False,35000.0
+349,2021.0,Male,20.0,2020.0,BCSE,Yes,No,Offline,Yes,Yes,Intermediate,No,No,Yes,Single,No,Family,No,No,Excellent,3.0,8.0,2.0,2.0,98.0,Programming,2.0,Data Science,3.98,3.86,23,False,20000.0
+350,2021.0,Female,21.0,2020.0,BCSE,No,Yes,Offline,Yes,No,Intermediate,Yes,No,Yes,Single,Yes,Family,No,No,Average,4.0,6.0,1.0,2.0,97.0,Programming,3.0,Software,3.39,2.8,20,False,40000.0
+351,2021.0,Female,18.0,2020.0,BCSE,Yes,No,Online,Yes,No,Intermediate,No,No,No,Engaged,No,Bachelor,Yes,No,Good,2.0,2.0,2.0,3.0,90.0,Programming,2.0,Software,3.68,3.39,11,False,40000.0
+352,2022.0,Male,21.0,2019.0,BCSE,Yes,No,Offline,Yes,Yes,Basic,Yes,No,Yes,Single,Yes,Bachelor,No,No,Good,2.0,5.0,3.0,4.0,90.0,Programming,3.0,Software,3.83,3.83,11,False,20000.0
+353,2020.0,Male,22.0,2019.0,BCSE,No,No,Offline,Yes,Yes,Intermediate,No,No,Yes,Single,No,Bachelor,No,No,Good,8.0,3.0,1.0,4.0,100.0,Programming,2.0,Machine Learning / Deep Learning,3.64,3.74,87,False,50000.0
+354,2021.0,Male,20.0,2020.0,BCSE,Yes,Yes,Offline,Yes,Yes,Intermediate,No,No,Yes,Single,No,Family,No,No,Good,3.0,2.0,1.0,1.0,100.0,Programming,1.0,Cyber Security,2.96,3.38,25,False,25000.0
+355,2020.0,Male,22.0,2019.0,BCSE,No,Yes,Offline,Yes,Yes,Intermediate,Yes,No,Yes,Single,Yes,Bachelor,No,No,Poor,6.0,3.0,2.0,1.0,100.0,Programming,2.0,Networking,2.25,3.39,60,False,20000.0
+356,2020.0,Male,19.0,2020.0,BCSE,Yes,No,Offline,Yes,Yes,Intermediate,No,No,No,Single,Yes,Bachelor,Yes,No,Excellent,2.0,5.0,2.0,2.0,100.0,Programming,2.0,Data Science,3.8,3.8,11,False,20000.0
+357,2021.0,Female,20.0,2018.0,BCSE,Yes,Yes,Online,Yes,Yes,Intermediate,No,No,Yes,Single,No,Family,No,No,Average,3.0,1.0,2.0,5.0,90.0,Programming,1.0,Software,3.49,3.5,23,False,30000.0
+358,2021.0,Male,21.0,2021.0,BCSE,Yes,Yes,Offline,Yes,Yes,Intermediate,No,No,No,Single,No,Family,No,No,Poor,3.0,2.5,1.5,2.0,60.0,Programming,1.0,Artificial Intelligence,2.11,3.0,26,True,50000.0
+359,2021.0,Male,20.0,2020.0,BCSE,Yes,No,Offline,Yes,Yes,Intermediate,Yes,Yes,Yes,Single,No,Family,No,No,Good,2.0,2.5,1.5,3.0,99.0,Programming,2.0,Networking,3.42,3.42,11,False,20000.0
+360,2020.0,Female,23.0,2019.0,BCSE,Yes,No,Offline,Yes,Yes,Intermediate,No,No,Yes,Engaged,Yes,Bachelor,Yes,No,Poor,8.0,5.0,2.0,6.0,99.0,Basic knowledge of,2.0,Networking,3.96,3.93,76,True,12500.0
+361,2018.0,Male,23.0,2017.0,BCSE,No,Yes,Offline,Yes,Yes,Intermediate,Yes,No,Yes,Single,No,Bachelor,No,No,Average,12.0,7.0,3.0,2.0,90.0,Web development skill(Frontend),4.0,Software,2.86,3.26,125,False,15000.0
+362,2022.0,Male,21.0,2020.0,BCSE,No,No,Offline,Yes,No,Basic,Yes,No,Yes,Single,No,Bachelor,No,No,Poor,2.0,5.0,3.0,4.0,60.0,Programming,1.0,Software,0.5,0.0,2,False,5000.0
+363,2022.0,Female,20.0,2020.0,BCSE,No,No,Offline,Yes,Yes,Intermediate,No,No,Yes,Single,No,Family,No,No,Good,8.0,5.0,2.0,3.0,95.0,Programming,1.0,Software,3.5,3.5,11,False,20000.0
+364,2022.0,Male,20.0,2020.0,BCSE,Yes,No,Offline,Yes,Yes,Basic,No,No,No,Single,No,Family,No,No,Poor,2.0,1.0,2.0,2.0,95.0,Programming,2.0,Software,2.52,0.0,12,False,50000.0
+365,2021.0,Male,21.0,2019.0,BCSE,No,Yes,Offline,Yes,Yes,Intermediate,No,No,No,Single,No,Family,No,No,Good,3.0,4.5,1.5,2.0,98.0,Programming,3.0,Web Development,3.72,3.71,25,False,60000.0
+366,2019.0,Female,22.0,2018.0,BCSE,Yes,No,Online,Yes,Yes,Intermediate,No,No,Yes,In a relationship,Yes,Family,No,No,Average,11.0,5.0,2.0,2.0,95.0,System analysis,1.0,Hardware,2.8,3.35,120,False,68000.0
+367,2020.0,Female,21.0,2019.0,BCSE,Yes,No,Offline,Yes,Yes,Intermediate,No,No,Yes,Single,No,Family,No,No,Excellent,6.0,3.5,2.0,2.0,99.0,Programming,1.0,Software,3.98,3.99,58,False,40000.0
+368,2021.0,Male,20.0,2019.0,BCSE,No,No,Offline,Yes,Yes,Intermediate,No,No,No,Single,No,Bachelor,Yes,No,Good,3.0,4.5,2.0,3.0,100.0,Programming,2.0,Data Science,3.68,3.61,24,False,40000.0
+369,2021.0,Male,21.0,2019.0,BCSE,Yes,No,Offline,Yes,Yes,Intermediate,No,No,No,Single,No,Family,Yes,No,Average,3.0,1.0,1.0,5.0,90.0,Programming,1.0,Software,3.03,2.94,25,False,50000.0
+370,2019.0,Female,22.0,2017.0,BCSE,No,No,Offline,Yes,Yes,Intermediate,No,No,Yes,Single,No,Family,Yes,No,Average,11.0,3.0,2.0,4.0,95.0,Web development skill(Frontend),1.0,Machine Learning / Deep Learning,3.34,3.18,120,False,40000.0
+371,2021.0,Female,21.0,2020.0,BCSE,Yes,Yes,Offline,Yes,Yes,Basic,No,No,Yes,Single,Yes,Family,No,No,Good,2.0,8.0,2.0,2.0,100.0,Software Development skill,1.0,Software,3.39,3.39,12,False,50000.0
+372,2019.0,Female,23.0,2018.0,BCSE,No,Yes,Offline,Yes,Yes,Intermediate,No,No,Yes,Single,No,Family,No,No,Good,11.0,3.5,2.0,3.0,100.0,Web development skill(Frontend),1.0,Networking,3.78,3.55,141,False,16500.0
+373,2019.0,Male,24.0,2019.0,BCSE,No,Yes,Offline,Yes,Yes,Basic,Yes,No,Yes,Single,No,Family,No,No,Poor,5.0,2.0,2.0,8.0,100.0,Programming,5.0,Creating a game using a program language ,1.05,2.97,42,False,25000.0
+374,2021.0,Female,20.0,2020.0,BCSE,No,No,Offline,Yes,Yes,Basic,Yes,No,No,Single,No,Bachelor,No,No,Poor,3.0,2.5,2.0,4.0,85.0,Programming,2.0,Networking,2.06,2.2,23,False,25000.0
+375,2022.0,Female,20.0,2020.0,BCSE,Yes,No,Offline,Yes,Yes,Basic,No,No,No,Single,No,Family,No,No,Good,2.0,3.0,1.0,3.0,95.0,Programming,2.0,Artificial Intelligence,3.67,3.39,11,False,45000.0
+376,2021.0,Female,19.0,2020.0,BCSE,No,Yes,Offline,Yes,Yes,Intermediate,No,No,No,Single,Yes,Family,No,No,Poor,2.0,5.0,8.0,3.0,100.0,Programming,3.0,Artificial Intelligence,3.78,0.0,11,False,40000.0
+377,2020.0,Female,20.0,2019.0,BCSE,Yes,No,Online,Yes,Yes,Intermediate,Yes,No,No,In a relationship,Yes,Family,Yes,No,Poor,2022.0,1.0,2.0,1.0,100.0,No skills,2.0,Machine Learning / Deep Learning,1.63,2.61,79,False,60000.0
+378,2021.0,Male,21.0,2020.0,BCSE,Yes,No,Offline,Yes,Yes,Basic,No,No,Yes,Single,Yes,Bachelor,No,No,Poor,3.0,2.0,1.0,6.0,70.0,Programming,2.0,UI/UX,3.17,3.39,22,False,40000.0
+379,2021.0,Female,20.0,2019.0,BCSE,No,Yes,Offline,Yes,Yes,Intermediate,No,No,No,Single,No,Family,Yes,No,Excellent,3.0,3.0,1.0,2.0,100.0,Memorizing,2.0,Data Science,3.82,3.91,23,False,100000.0
+380,2022.0,Male,22.0,2020.0,BCSE,No,No,Offline,Yes,No,Basic,No,No,Yes,Single,No,Bachelor,No,No,Poor,2.0,2.0,2.0,4.0,100.0,Nothing,2.0,Data Science,2.55,2.55,11,False,40000.0
+381,2021.0,Male,22.0,2019.0,BCSE,Yes,Yes,Online,Yes,Yes,Intermediate,No,No,Yes,Single,No,Family,No,No,Good,3.0,2.0,2.0,2.0,92.0,Programming,1.0,Software,3.79,3.89,23,False,35000.0
+382,2022.0,Male,20.0,2020.0,BCSE,Yes,No,Offline,Yes,No,Basic,No,No,No,In a relationship,Yes,Bachelor,No,No,Good,1.0,2.0,1.0,3.0,99.0,Programming,0.0,Data Science,5.0,4.0,10,False,20000.0
+383,2019.0,Female,23.0,2017.0,BCSE,No,Yes,Offline,Yes,Yes,Intermediate,No,No,Yes,Single,No,Bachelor,No,No,Good,11.0,4.0,2.0,2.0,85.0,Web development skill(Frontend),2.0,Machine Learning / Deep Learning,3.76,3.62,120,False,33000.0
+384,2020.0,Male,21.0,2019.0,BCSE,Yes,No,Offline,Yes,Yes,Basic,No,No,Yes,Single,Yes,Bachelor,Yes,No,Good,8.0,5.0,2.0,4.0,100.0,"Programming, Web development",2.0,Machine Learning / Deep Learning,3.74,3.91,88,False,15000.0
+386,2022.0,Male,20.0,2019.0,BCSE,Yes,Yes,Offline,Yes,Yes,Basic,Yes,No,Yes,Single,Yes,Bachelor,No,No,Good,22.0,2.0,1.0,0.5,99.0,"Programming, Software Development",2.0,Networking,5.0,3.39,13,False,20000.0
+387,2021.0,Female,21.0,2020.0,BCSE,Yes,No,Offline,Yes,Yes,Intermediate,No,No,No,Single,No,Family,No,No,Good,3.0,2.5,2.5,4.0,100.0,Programming,1.0,Software,3.38,3.2,23,False,47000.0
+388,2020.0,Male,22.0,2018.0,BCSE,No,No,Offline,Yes,No,Intermediate,No,No,Yes,Single,No,Bachelor,No,No,Excellent,8.0,5.0,2.0,3.0,90.0,"Web development skill(Backend),",3.0,Data Science,3.98,3.97,58,False,70000.0
+389,2022.0,Male,22.0,2015.0,BCSE,Yes,No,Online,Yes,Yes,Basic,Yes,No,Yes,Single,Yes,Bachelor,Yes,No,Poor,2.0,2.0,2.0,1.0,95.0,Programming,2.0,Networking,2.1,2.1,14,False,25000.0
+390,2020.0,Female,21.0,2019.0,BCSE,Yes,No,Offline,Yes,Yes,Intermediate,Yes,No,No,Single,Yes,Bachelor,No,No,Poor,8.0,3.0,1.0,5.0,80.0,Web development skill(Frontend),1.0,Data Science,2.72,2.25,62,False,60000.0
+391,2021.0,Female,22.0,2020.0,BCSE,Yes,Yes,Offline,No,Yes,Advance,No,No,Yes,Single,No,Family,Yes,Yes,Good,3.0,3.5,1.0,3.0,98.0,Cyber security,3.0,Artificial Intelligence,3.3,3.39,23,False,50000.0
+392,2021.0,Male,21.0,2020.0,BCSE,Yes,No,Offline,Yes,Yes,Advance,No,No,Yes,Single,No,Bachelor,No,No,Good,3.0,4.0,2.0,2.0,100.0,Programming,2.0,Software,4.0,3.72,23,False,30000.0
+393,2022.0,Male,20.0,2019.0,BCSE,No,No,Offline,Yes,Yes,Basic,No,Yes,Yes,Single,No,Bachelor,No,No,Average,2.0,2.0,2.0,3.0,90.0,Networking,2.0,Networking,3.1,3.1,12,False,20000.0
+394,2021.0,Female,20.0,2019.0,BCSE,Yes,No,Offline,Yes,Yes,Advance,Yes,No,Yes,Single,No,Bachelor,No,No,Poor,3.0,1.5,1.0,3.0,90.0,Programming,1.0,Software,2.56,2.01,23,False,35000.0
+395,2020.0,Female,20.0,2020.0,BCSE,Yes,Yes,Offline,Yes,Yes,Intermediate,No,No,No,Engaged,Yes,Bachelor,Yes,No,Poor,2.0,2.5,3.5,12.0,80.0,Photography & videography,1.0,Data Science,3.21,3.21,12,False,30000.0
+397,2022.0,Male,19.0,2020.0,BCSE,No,No,Offline,Yes,No,Intermediate,Yes,No,Yes,Single,Yes,Family,Yes,No,Average,8.0,4.0,2.0,2.0,75.0,Programming,1.0,Software,3.38,3.38,14,False,15000.0
+399,2022.0,Male,21.0,2020.0,BCSE,No,No,Offline,Yes,Yes,Basic,Yes,No,Yes,Single,Yes,Bachelor,No,No,Average,2.0,1.0,2.0,4.0,95.0,Programming,1.0,Networking,3.9,3.9,11,False,30000.0
+400,2022.0,Male,20.0,2020.0,BCSE,Yes,Yes,Offline,Yes,Yes,Intermediate,No,No,Yes,Single,No,Family,No,No,Good,2.0,2.0,1.0,1.0,98.0,Programming,1.0,Networking,3.95,3.95,12,False,50000.0
+401,2022.0,Female,20.0,2020.0,BCSE,Yes,Yes,Offline,Yes,Yes,Intermediate,No,No,No,Single,No,Family,No,No,Average,2.0,3.0,2.0,3.0,100.0,Programming,2.0,Artificial Intelligence,3.03,3.03,12,False,90000.0
+402,2018.0,Female,23.0,2017.0,BCSE,No,Yes,Offline,Yes,Yes,Intermediate,Yes,No,No,In a relationship,Yes,Bachelor,Yes,No,Poor,4.0,7.0,1.0,5.0,60.0,Cyber security,2.0,Artificial Intelligence,2.59,2.56,133,False,26000.0
+403,2022.0,Male,20.0,2020.0,BCSE,Yes,No,Offline,Yes,No,Advance,No,No,Yes,Single,Yes,Bachelor,No,No,Poor,1.0,3.0,2.0,3.0,100.0,Programming,2.0,Software,0.0,0.0,0,False,30000.0
+404,2021.0,Female,19.0,2020.0,BCSE,Yes,Yes,Offline,Yes,Yes,Intermediate,No,No,Yes,Single,No,Family,No,No,Good,3.0,5.5,2.0,4.0,99.0,Programming,3.0,Data Science,3.45,3.295,25,False,25000.0
+405,2022.0,Male,20.0,2021.0,BCSE,No,Yes,Offline,Yes,No,Basic,No,No,No,Single,Yes,Family,No,No,Average,2.0,1.0,1.0,4.0,85.0,Programming,1.0,Software,3.6,3.6,11,False,40000.0
+406,2022.0,Female,20.0,2020.0,BCSE,No,No,Online,Yes,Yes,Basic,Yes,No,Yes,Single,Yes,Bachelor,No,No,Good,2.0,6.0,6.0,1.0,98.0,Web development skill(Backend),5.0,Software,3.53,3.53,11,False,40000.0
+407,2020.0,Female,20.0,2019.0,BCSE,Yes,No,Offline,Yes,Yes,Intermediate,No,No,Yes,Single,Yes,Family,No,No,Good,8.0,3.0,2.0,2.0,99.0,Programming,2.0,Machine Learning / Deep Learning,3.86,3.69,90,False,50000.0
+408,2022.0,Female,19.0,2020.0,BCSE,No,Yes,Offline,Yes,Yes,Advance,No,No,Yes,Single,Yes,Family,No,No,Poor,2.0,3.5,2.0,4.0,100.0,Programming,2.0,Artificial Intelligence,3.48,2.4,11,False,25000.0
+409,2021.0,Male,21.0,2019.0,BCSE,No,No,Online,Yes,Yes,Intermediate,No,No,No,Single,No,Bachelor,No,No,Good,5.0,2.0,1.0,1.0,98.0,"Programming, SEO",6.0,Data Science,3.7,3.77,54,False,20000.0
+410,2022.0,Female,20.0,2020.0,BCSE,No,Yes,Offline,Yes,Yes,Advance,No,No,Yes,Single,No,Family,No,No,Excellent,2.0,3.0,1.0,1.0,100.0,Programming,2.0,Software,3.84,3.84,11,False,50000.0
+411,2020.0,Female,21.0,2019.0,BCSE,No,Yes,Offline,Yes,Yes,Intermediate,No,No,Yes,Single,No,Family,No,No,Good,8.0,6.5,2.0,2.0,100.0,Web development skill(Backend),3.0,Software,3.4,3.29,85,False,50000.0
+412,2022.0,Male,19.0,2020.0,BCSE,No,No,Offline,Yes,Yes,Basic,No,No,No,In a relationship,No,Bachelor,No,No,Good,8.0,4.0,6.0,2.0,90.0,Programming,1.0,Artificial Intelligence,3.43,3.43,14,False,24000.0
+413,2021.0,Female,21.0,2020.0,BCSE,Yes,No,Offline,Yes,No,Intermediate,No,No,Yes,Single,Yes,Bachelor,No,No,Good,2.0,12.0,2.0,2.0,100.0,Programming,2.0,Software,3.7,3.7,11,False,30000.0
+414,2020.0,Male,22.0,2019.0,BCSE,No,Yes,Offline,Yes,Yes,Advance,No,No,Yes,In a relationship,No,Family,No,No,Good,6.0,4.0,2.0,4.0,85.0,Programming,2.0,Data Science,3.02,3.2,70,False,20000.0
+415,2021.0,Male,20.0,2020.0,BCSE,No,Yes,Offline,Yes,Yes,Basic,No,No,No,Single,No,Bachelor,No,No,Average,3.0,2.5,2.0,3.0,90.0,Web development skill(Backend),1.0,Software,3.48,2.98,23,False,20000.0
+416,2022.0,Male,20.0,2020.0,BCSE,Yes,No,Offline,Yes,Yes,Advance,No,No,Yes,Single,Yes,Bachelor,No,No,Good,2.0,3.5,3.5,2.0,90.0,Programming,2.0,Networking,3.53,3.53,13,False,40000.0
+417,2020.0,Female,19.0,2019.0,BCSE,Yes,Yes,Offline,Yes,Yes,Advance,No,No,No,Single,No,Bachelor,No,No,Good,8.0,4.0,1.0,2.0,90.0,Programming,3.0,Data Science,3.06,3.41,87,False,30000.0
+420,2019.0,Female,20.0,2019.0,BCSE,No,Yes,Offline,Yes,Yes,Intermediate,No,No,No,Single,Yes,Family,No,No,Good,9.0,3.5,3.0,1.0,99.0,"Programming, Web development",4.0,Software,3.19,3.37,101,False,40000.0
+422,2022.0,Female,22.0,2020.0,BCSE,Yes,No,Offline,Yes,Yes,Basic,No,No,No,Engaged,No,Bachelor,Yes,No,Average,2.0,4.0,1.0,2.0,98.0,Programming,2.0,Artificial Intelligence,3.05,3.05,11,False,20000.0
+423,2022.0,Female,21.0,2020.0,BCSE,No,Yes,Offline,Yes,Yes,Advance,No,No,Yes,Single,Yes,Family,No,No,Excellent,1.0,3.5,2.0,1.0,99.0,Programming,1.0,Data Science,4.5,4.0,75,False,80000.0
+424,2021.0,Female,20.0,2020.0,BCSE,Yes,No,Offline,Yes,Yes,Intermediate,No,No,Yes,Married,Yes,Family,No,No,Poor,2.0,4.0,1.0,3.0,98.0,Programming,3.0,Networking,3.75,0.0,11,False,60000.0
+425,2021.0,Male,22.0,2019.0,BCSE,Yes,No,Offline,Yes,Yes,Intermediate,No,No,No,In a relationship,No,Bachelor,No,No,Good,2.0,3.0,3.0,2.0,90.0,"Programming, Web development",2.0,Software,3.33,3.33,12,False,20000.0
+426,2021.0,Male,20.0,2020.0,BCSE,Yes,No,Online,Yes,Yes,Basic,Yes,No,Yes,Single,Yes,Bachelor,No,Yes,Average,3.0,4.0,1.0,1.5,80.0,"Programming, Web development",2.0,Networking,2.81,2.81,35,False,40000.0
+427,2022.0,Male,21.0,2019.0,BCSE,Yes,No,Offline,Yes,Yes,Intermediate,Yes,No,Yes,Single,Yes,Bachelor,Yes,No,Poor,2.0,3.0,3.0,4.0,90.0,data entry,0.0,Software,2.18,2.08,11,False,35000.0
+429,2020.0,Male,23.0,2018.0,BCSE,No,Yes,Offline,Yes,No,Intermediate,No,No,No,Single,No,Family,No,No,Poor,8.0,0.0,2.0,3.0,70.0,"Web development skill(Backend),",6.0,Software,3.7,3.75,70,False,20000.0
+430,2018.0,Female,24.0,2016.0,BCSE,No,No,Online,Yes,Yes,Intermediate,No,No,Yes,Engaged,No,Bachelor,Yes,No,Average,13.0,2.0,2.0,1.0,90.0,Networking,1.0,Data Science,3.62,3.0,140,False,25000.0
+431,2022.0,Male,20.0,2020.0,BCSE,No,Yes,Offline,Yes,Yes,Basic,No,No,Yes,Single,No,Family,Yes,Yes,Average,3.0,3.3333333333333335,2.0,3.0,100.0,Programming,2.0,Data Science,3.18,3.18,11,False,35000.0
+432,2022.0,Female,21.0,2020.0,BCSE,Yes,Yes,Online,Yes,No,Basic,No,No,No,Single,Yes,Family,Yes,Yes,Poor,2022.0,3.0,2.0,8.0,98.0,Programming,1.0,Data Science,3.55,3.59,11,False,100000.0
+433,2020.0,Male,23.0,2020.0,BCSE,Yes,No,Offline,Yes,Yes,Basic,No,No,No,Single,Yes,Bachelor,No,No,Excellent,3.0,4.0,2.0,2.0,100.0,"Programming, Web development",6.0,Machine Learning / Deep Learning,3.58,3.75,23,False,15000.0
+434,2022.0,Male,22.0,2020.0,BCSE,Yes,No,Offline,Yes,Yes,Basic,No,No,No,Single,No,Bachelor,Yes,No,Poor,2.0,2.0,1.0,8.0,90.0,Programming,3.0,Software,3.88,3.88,12,False,10000.0
+435,2022.0,Male,20.0,2020.0,BCSE,Yes,No,Offline,Yes,Yes,Basic,No,No,No,Single,No,Bachelor,No,No,Poor,2.0,2.0,1.0,10.0,90.0,Programming,3.0,Software,3.0,3.0,12,False,30000.0
+436,2022.0,Male,20.0,2020.0,BCSE,Yes,No,Offline,Yes,Yes,Intermediate,No,Yes,Yes,Single,Yes,Bachelor,No,No,Excellent,2.0,5.0,2.0,1.0,95.0,"Programming, Software Development",2.0,Networking,4.0,4.0,11,False,40000.0
+437,2022.0,Male,22.0,2016.0,BCSE,Yes,Yes,Online,Yes,Yes,Basic,No,No,Yes,In a relationship,Yes,Family,No,No,Average,2.0,2.0,2.0,1.0,80.0,"Programming, Php",2.0,Networking,3.97,3.97,11,False,30000.0
+438,2021.0,Male,22.0,2020.0,BCSE,Yes,Yes,Online,Yes,Yes,Intermediate,No,No,Yes,Single,Yes,Bachelor,No,No,Average,3.0,3.0,2.0,1.0,75.0,Programming,2.0,Machine Learning / Deep Learning,3.79,3.69,25,False,100000.0
+439,2019.0,Male,22.0,2018.0,BCSE,No,No,Offline,Yes,Yes,Intermediate,Yes,No,Yes,In a relationship,No,Bachelor,No,No,Average,11.0,6.5,2.0,2.0,90.0,"Web development skill(Backend),",1.0,Software,2.96,2.89,111,False,50000.0
+440,2021.0,Male,21.0,2020.0,BCSE,Yes,No,Offline,No,Yes,Intermediate,No,No,Yes,Single,Yes,Bachelor,Yes,No,Excellent,5.0,5.0,2.0,2.0,95.0,"Programming, Software Development",3.0,Software,3.77,3.86,49,False,30000.0
+441,2019.0,Male,25.0,2017.0,BCSE,No,No,Offline,Yes,Yes,Intermediate,No,No,No,Single,No,Family,No,No,Average,11.0,1.5,2.0,1.0,90.0,"Programming, Software Development",4.0,Artificial Intelligence,3.44,3.48,124,True,50000.0
+443,2021.0,Female,21.0,2019.0,BCSE,Yes,Yes,Online,Yes,Yes,Intermediate,No,No,Yes,Single,No,Family,No,No,Good,3.0,2.0,2.0,2.0,85.0,Programming,2.0,Machine Learning / Deep Learning,3.56,3.66,23,False,25000.0
+444,2020.0,Male,19.0,2019.0,BCSE,Yes,Yes,Offline,Yes,Yes,Basic,No,No,Yes,Single,No,Family,No,No,Good,2.0,3.0,2.0,1.0,100.0,Programming,1.0,Software,3.56,3.56,12,False,40000.0
+447,2022.0,Male,20.0,2020.0,BCSE,Yes,Yes,Online,Yes,Yes,Basic,Yes,No,No,Single,No,Family,No,No,Average,2.0,1.0,1.0,5.0,80.0,nan,0.0,Software,3.25,3.2,11,False,40000.0
+448,2022.0,Male,19.0,2021.0,BCSE,Yes,No,Offline,Yes,Yes,Basic,No,No,Yes,Single,Yes,Bachelor,No,No,Poor,1.0,4.5,2.0,5.0,85.0,I have no,2.0,Machine Learning / Deep Learning,0.0,0.0,0,False,50000.0
+449,2021.0,Male,22.0,2019.0,BCSE,Yes,No,Offline,Yes,Yes,Intermediate,No,No,Yes,Single,Yes,Family,No,No,Average,22.0,2.0,2.0,3.0,80.0,Programming,2.0,Data Science,3.7,3.4,39,False,50000.0
+450,2021.0,Female,20.0,2020.0,BCSE,Yes,No,Offline,Yes,No,Intermediate,No,No,No,Single,No,Family,No,No,Average,22.0,1.0,1.0,2.0,100.0,Programming,0.0,Data Science,3.38,3.58,25,False,80000.0
+451,2021.0,Male,21.0,2019.0,BCSE,Yes,No,Online,Yes,Yes,Intermediate,No,No,Yes,Single,Yes,Bachelor,No,No,Average,2022.0,1.0,2.0,2.0,80.0,"Programming, Web development",3.0,Software,3.78,3.9,49,False,40000.0
+452,2019.0,Female,24.0,2016.0,BCSE,No,No,Offline,Yes,Yes,Intermediate,No,No,Yes,Single,No,Bachelor,No,No,Good,10.0,5.0,2.0,3.0,95.0,"Programming, Networking",2.0,Machine Learning / Deep Learning,3.4,3.5,106,False,20000.0
+453,2019.0,Male,24.0,2017.0,BCSE,No,No,Offline,Yes,Yes,Intermediate,No,No,Yes,Single,Yes,Family,No,No,Average,10.0,2.0,1.0,3.0,80.0,"Programming, Software Development",5.0,"Software, App",2.58,2.93,106,False,65000.0
+454,2020.0,Male,21.0,2019.0,BCSE,No,No,Online,Yes,Yes,Advance,No,No,Yes,In a relationship,No,Bachelor,Yes,No,Average,8.0,1.5,2.0,1.0,100.0,"Programming, Web development",1.0,Data Science,3.96,3.7,85,False,25000.0
+455,2021.0,Female,21.0,2020.0,BCSE,Yes,Yes,Offline,Yes,Yes,Intermediate,No,No,No,Single,No,Family,No,No,Good,3.0,3.5,2.0,2.0,88.0,Programming,2.0,Software,3.58,3.76,25,False,40000.0
+456,2021.0,Male,20.0,2020.0,BCSE,Yes,No,Online,Yes,Yes,Intermediate,No,No,Yes,In a relationship,Yes,Bachelor,No,No,Good,3.0,2.0,2.0,4.0,99.0,Programming,2.0,Data Science,3.79,3.91,23,False,50000.0
+458,2021.0,Male,22.0,2020.0,BCSE,Yes,No,Offline,Yes,Yes,Intermediate,Yes,No,Yes,Single,No,Bachelor,No,No,Poor,4.0,3.0,2.0,2.0,95.0,"Programming, Web development",4.0,Artificial Intelligence,1.12,1.88,32,True,60000.0
+459,2021.0,Female,21.0,2019.0,BCSE,Yes,Yes,Online,Yes,Yes,Intermediate,No,No,No,Single,No,Family,No,No,Good,3.0,4.0,3.0,1.0,99.0,Programming,2.0,Software,3.72,3.67,25,False,35000.0
+460,2022.0,Male,20.0,2020.0,BCSE,No,No,Offline,Yes,No,Basic,No,No,Yes,Single,Yes,Family,No,No,Poor,2.0,5.5,3.0,1.0,95.0,Programming,2.0,Software,4.55,0.0,11,False,35000.0
+461,2020.0,Female,22.0,2018.0,BCSE,No,No,Offline,Yes,Yes,Intermediate,No,No,No,Single,No,Family,No,No,Average,8.0,4.0,2.0,2.0,98.0,Programming,2.0,Data Science,2.83,2.82,65,False,25000.0
+462,2022.0,Female,20.0,2020.0,BCSE,Yes,Yes,Offline,Yes,Yes,Basic,No,No,Yes,Single,No,Family,Yes,No,Good,2.0,2.5,2.0,2.0,95.0,Networking,1.0,Networking,3.88,3.88,11,False,35000.0
+463,2022.0,Male,21.0,2020.0,BCSE,Yes,No,Offline,Yes,Yes,Intermediate,No,No,No,Single,Yes,Bachelor,Yes,No,Average,2.0,1.5,2.0,4.0,90.0,Networking,2.0,Machine Learning / Deep Learning,4.0,3.39,12,False,25000.0
+464,2020.0,Female,21.0,2019.0,BCSE,No,Yes,Offline,Yes,Yes,Intermediate,No,No,No,Single,Yes,Family,No,No,Good,8.0,3.0,2.0,3.0,97.0,Web development skill(Backend),1.0,Data Science,3.0,3.66,87,False,150000.0
+465,2018.0,Male,26.0,2018.0,BCSE,No,Yes,Online,Yes,Yes,Intermediate,Yes,Yes,Yes,Single,Yes,Bachelor,No,No,Poor,12.0,8.0,10.0,2.0,90.0,"Web development skill(Frontend),",5.0,Networking,2.44,2.44,90,False,20000.0
+466,2021.0,Male,21.0,2020.0,BCSE,Yes,No,Offline,Yes,Yes,Intermediate,No,No,Yes,Single,No,Family,No,No,Average,3.0,3.0,2.0,1.0,98.0,"Programming, Web development",1.0,Data Science,2.82,3.0,23,False,25000.0
+467,2022.0,Female,21.0,2019.0,BCSE,Yes,Yes,Offline,Yes,Yes,Intermediate,No,No,No,Single,No,Family,No,No,Good,2.0,2.5,2.0,1.0,100.0,Programming,1.0,Software,3.9,3.9,11,False,50000.0
+468,2022.0,Male,21.0,2020.0,BCSE,Yes,No,Online,Yes,Yes,Basic,No,No,Yes,Single,Yes,Bachelor,Yes,No,Poor,2.0,5.0,1.0,12.0,98.0,Programming,2.0,"Software, Hardware",3.33,3.33,12,False,20000.0
+469,2022.0,Female,20.0,2020.0,BCSE,No,No,Offline,Yes,Yes,Basic,No,No,Yes,Single,Yes,Bachelor,No,No,Poor,2.0,3.0,3.0,2.0,97.0,Programming,2.0,Software,4.7,0.0,11,False,35000.0
+470,2022.0,Male,20.0,2020.0,BCSE,Yes,Yes,Offline,Yes,No,Intermediate,No,No,Yes,Single,Yes,Family,No,No,Excellent,2.0,4.0,2.0,3.0,90.0,"Programming, Web development",2.0,Data Science,3.98,3.98,11,False,22000.0
+471,2022.0,Female,21.0,2020.0,BCSE,Yes,No,Offline,Yes,No,Basic,No,No,No,Single,No,Bachelor,No,No,Good,1.0,2.0,2.0,1.0,100.0,"Programming, Web development",1.0,Software,3.4,3.8,11,False,60000.0
+472,2022.0,Male,22.0,2019.0,BCSE,Yes,Yes,Online,Yes,Yes,Intermediate,No,No,Yes,Single,Yes,Family,No,No,Poor,2.0,3.3475298126064734,1.0,2.0,70.0,Programming,1.0,Networking,3.81,3.81,11,False,400000.0
+473,2022.0,Female,23.0,2021.0,BCSE,Yes,Yes,Offline,Yes,No,Intermediate,No,No,No,Engaged,Yes,Family,Yes,No,Average,2.0,1.5,2.0,3.0,90.0,"Programming, Web development",2.0,Software,3.97,3.97,11,True,20250.0
+474,2022.0,Male,20.0,2020.0,BCSE,Yes,Yes,Offline,Yes,Yes,Basic,No,No,No,Single,Yes,Bachelor,No,No,Poor,2.0,8.0,2.0,8.0,90.0,Programming,2.0,Artificial Intelligence,3.33,3.33,12,False,30000.0
+475,2021.0,Female,21.0,2020.0,BCSE,Yes,No,Offline,Yes,No,Intermediate,No,No,Yes,Single,No,Family,Yes,No,Poor,3.0,3.0,1.0,3.0,70.0,Programming,2.0,Data Science,2.68,2.89,23,False,15000.0
+476,2021.0,Female,20.0,2019.0,BCSE,No,No,Online,Yes,No,Intermediate,No,No,Yes,Single,No,Bachelor,Yes,No,Excellent,2.0,3.0,2.0,2.0,95.0,Programming,1.0,Software,3.84,3.84,11,False,30000.0
+477,2021.0,Female,20.0,2016.0,BCSE,Yes,No,Offline,Yes,No,Advance,No,No,Yes,Single,Yes,Family,No,No,Average,3.0,2.0,2.0,3.0,75.0,Programming,2.0,Networking,3.54,3.69,25,False,20000.0
+478,2021.0,Male,21.0,2020.0,BCSE,No,No,Offline,Yes,Yes,Intermediate,No,No,Yes,Single,No,Bachelor,No,No,Poor,3.0,2.0,2.0,3.0,95.0,Programming,2.0,Software,1.78,3.39,20,False,25000.0
+479,2021.0,Male,19.0,2020.0,BCSE,Yes,Yes,Offline,Yes,Yes,Intermediate,No,No,No,Single,Yes,Family,Yes,No,Poor,3.0,2.0,1.0,3.0,90.0,Programming,1.0,Networking,2.32,2.8,24,False,35000.0
+480,2022.0,Male,20.0,2020.0,BCSE,Yes,No,Offline,Yes,Yes,Basic,No,No,No,Single,No,Bachelor,No,No,Excellent,2.0,3.0,1.0,3.0,90.0,Programming,2.0,Software,4.0,4.0,11,False,50000.0
+482,2022.0,Male,20.0,2020.0,BCSE,No,No,Offline,Yes,Yes,Basic,No,No,Yes,Single,No,Bachelor,No,No,Excellent,2.0,5.0,2.0,0.5,90.0,Programming,2.0,"Software, BCS ",3.8,3.8,12,False,20000.0
+483,2021.0,Male,22.0,2019.0,BCSE,No,Yes,Online,Yes,Yes,Basic,No,No,No,Single,No,Family,No,No,Poor,5.0,0.0,0.0,3.0,0.0,"Programming, Web development",6.0,Machine Learning / Deep Learning,2.08,2.91,49,False,30000.0
+484,2022.0,Male,20.0,2020.0,BCSE,No,No,Offline,Yes,No,Basic,No,No,Yes,Single,Yes,Bachelor,No,No,Average,2.0,2.5,4.0,1.0,95.0,"Programming, Volunteering.",2.0,Data Science,3.05,3.05,12,False,25000.0
+485,2022.0,Male,21.0,2020.0,BCSE,Yes,Yes,Online,Yes,Yes,Advance,No,No,Yes,Single,Yes,Family,No,No,Average,2.0,3.0,2.0,5.0,90.0,"Programming, Networking",0.0,Data Science,3.45,3.45,12,False,30000.0
+487,2022.0,Male,20.0,2020.0,BCSE,Yes,Yes,Offline,Yes,Yes,Basic,Yes,Yes,Yes,Single,No,Bachelor,No,No,Poor,22.0,4.0,2.0,3.0,100.0,Programming,2.0,Software,2.73,2.73,12,False,20000.0
+488,2018.0,Male,22.0,2018.0,BCSE,No,No,Offline,Yes,Yes,Intermediate,No,No,Yes,Single,Yes,Bachelor,No,No,Average,11.0,1.5,2.0,2.0,80.0,"Web development skill(Backend),",3.0,Software,3.2,3.29,132,False,40000.0
+489,2019.0,Female,20.0,2019.0,BCSE,Yes,No,Offline,Yes,Yes,Intermediate,No,No,Yes,Single,Yes,Family,No,No,Excellent,8.0,6.0,2.0,2.0,100.0,"Programming, Software Development",2.0,Software,3.96,3.94,85,False,100000.0
+490,2020.0,Male,22.0,2019.0,BCSE,Yes,Yes,Offline,Yes,Yes,Intermediate,No,No,No,Single,No,Family,No,No,Poor,8.0,3.3475298126064734,2.0,6.0,60.0,Nothing properly,2.0,Machine Learning / Deep Learning,3.56,3.69,87,False,40000.0
+491,2022.0,Male,23.0,2019.0,BCSE,Yes,Yes,Offline,Yes,Yes,Basic,No,No,No,Single,No,Family,No,No,Poor,1.0,2.0,1.0,8.0,100.0,Networking,1.0,Data Science,0.0,0.0,0,False,40000.0
+492,2022.0,Female,19.0,2020.0,BCSE,Yes,Yes,Offline,Yes,Yes,Basic,No,No,No,Single,Yes,Family,No,No,Good,2.0,2.5,2.0,1.0,100.0,"Programming, Drawing",1.0,Software,3.89,3.89,11,False,70000.0
+493,2022.0,Female,20.0,2020.0,BCSE,Yes,Yes,Offline,Yes,No,Intermediate,No,No,Yes,Single,Yes,Family,No,No,Poor,1.0,2.0,1.0,7.0,100.0,Networking,1.0,Data Science,0.0,0.0,0,False,15000.0
+494,2021.0,Female,26.0,2014.0,BCSE,Yes,No,Offline,Yes,Yes,Basic,No,No,No,Married,No,Family,No,No,Poor,3.0,4.5,3.5,3.0,50.0,Programming,1.0,Software,3.89,3.36,23,False,80000.0
+495,2022.0,Male,20.0,2020.0,BCSE,Yes,Yes,Offline,Yes,Yes,Basic,No,No,No,Single,No,Family,No,No,Poor,2.0,3.0,1.0,2.0,10.0,Programming,1.0,Cyber Security,3.68,3.68,14,False,24000.0
+497,2022.0,Male,19.0,2020.0,BCSE,Yes,Yes,Offline,Yes,Yes,Intermediate,Yes,No,Yes,Single,Yes,Family,No,No,Average,2.0,5.0,2.0,2.0,98.0,"Programming, Software Development",2.0,Data Science,2.93,2.93,11,False,35000.0
+498,2022.0,Male,20.0,2020.0,BCSE,Yes,No,Online,Yes,Yes,Basic,No,No,No,Single,No,Family,No,No,Excellent,2.0,4.0,3.0,2.0,100.0,Programming,2.0,Artificial Intelligence,3.81,3.81,12,False,50000.0
+499,2021.0,Female,19.0,2020.0,BCSE,No,Yes,Offline,Yes,No,Intermediate,No,No,No,Single,No,Family,Yes,Yes,Poor,2.0,3.5,2.0,2.0,98.0,Programming,1.0,Data Science,3.37,0.0,11,False,25000.0
+500,2022.0,Male,19.0,2020.0,BCSE,Yes,No,Offline,Yes,Yes,Intermediate,Yes,No,Yes,Married,No,Family,No,No,Good,2.0,3.0,1.0,3.0,100.0,"Programming, Strating....",1.0,confuse,3.25,3.25,10,False,25000.0
+501,2022.0,Male,20.0,2020.0,BCSE,Yes,No,Online,Yes,Yes,Basic,No,No,No,Single,No,Family,No,No,Average,2.0,3.0,2.0,3.0,85.0,Programming,2.0,Artificial Intelligence,2.89,2.89,11,False,30000.0
+502,2022.0,Male,22.0,2019.0,BCSE,No,No,Offline,Yes,Yes,Basic,Yes,No,No,Engaged,Yes,Bachelor,Yes,No,Poor,2.0,2.0,1.0,3.0,95.0,"Programming, Software Development",1.0,Networking,1.62,1.45,11,False,40000.0
+503,2022.0,Male,20.0,2020.0,BCSE,No,Yes,Offline,Yes,No,Intermediate,No,No,Yes,Single,No,Family,No,No,Poor,2.0,2.5,2.0,4.0,98.0,I have no,2.0,Data Science,3.73,0.0,11,False,35000.0
+504,2022.0,Male,20.0,2020.0,BCSE,Yes,No,Offline,Yes,Yes,Intermediate,No,No,No,Single,No,Bachelor,No,No,Good,2.0,2.5,2.0,1.0,90.0,"Programming, Web development",4.0,Data Science,3.18,3.39,11,False,25000.0
+506,2022.0,Male,19.0,2020.0,BCSE,Yes,No,Online,Yes,Yes,Basic,Yes,No,No,Single,No,Bachelor,Yes,No,Average,2.0,30.0,1.0,2.0,90.0,Programming,1.0,Software,2.9,2.9,11,False,60000.0
+507,2022.0,Male,18.0,2020.0,BCSE,Yes,No,Offline,Yes,Yes,Basic,No,No,Yes,Single,No,Family,No,No,Good,2.0,6.0,3.0,2.0,95.0,"Programming, Web development",2.0,Software,3.48,3.48,12,False,25000.0
+508,2022.0,Male,20.0,2020.0,BCSE,Yes,No,Offline,Yes,Yes,Basic,Yes,No,No,Single,No,Family,No,No,Good,2.0,15.0,2.0,4.0,95.0,Web development skill(Backend),3.0,Web developing ,3.6,3.6,11,False,25000.0
+509,2021.0,Male,21.0,2019.0,BCSE,No,No,Online,Yes,Yes,Basic,No,No,Yes,Single,No,Bachelor,No,No,Average,2.0,2.0,3.0,3.0,90.0,"Programming, Web development",2.0,Data Science,3.13,3.17,11,False,40000.0
+511,2022.0,Male,19.0,2020.0,BCSE,Yes,Yes,Offline,Yes,Yes,Intermediate,No,No,Yes,Single,No,Family,No,No,Average,2.0,2.0,1.0,1.0,95.0,"Programming, Software Development",2.0,Data Science,3.13,3.13,11,False,40000.0
+512,2022.0,Male,20.0,2020.0,BCSE,Yes,No,Online,Yes,Yes,Intermediate,No,No,Yes,Single,No,Bachelor,No,No,Excellent,2.0,3.0,2.0,2.0,100.0,Programming,1.0,Data Science,3.85,3.85,12,False,30000.0
+513,2022.0,Male,21.0,2020.0,BCSE,Yes,Yes,Online,Yes,Yes,Intermediate,No,No,Yes,Single,Yes,Family,Yes,No,Good,2.0,4.5,2.0,1.0,100.0,Programming,1.0,Artificial Intelligence,3.6,3.6,11,False,30000.0
+514,2022.0,Female,18.0,2020.0,BCSE,Yes,No,Online,Yes,Yes,Intermediate,No,No,Yes,Single,Yes,Family,No,No,Poor,2.0,2.0,2.0,1.0,100.0,"Programming, Software Development",1.0,Software,3.54,0.0,11,False,14000.0
+515,2022.0,Male,20.0,2020.0,BCSE,Yes,No,Offline,Yes,Yes,Basic,No,No,No,Single,No,Bachelor,No,No,Average,2.0,1.0,2.0,4.0,95.0,Programming,3.0,Software,3.54,3.55,11,False,25000.0
+516,2022.0,Male,19.0,2020.0,BCSE,No,No,Online,Yes,Yes,Intermediate,Yes,No,No,Single,No,Bachelor,No,No,Poor,2.0,3.0,2.0,4.0,95.0,Programming,6.0,Software,2.1,2.1,12,False,10000.0
+517,2022.0,Male,20.0,2020.0,BCSE,Yes,No,Offline,Yes,Yes,Basic,No,No,Yes,Single,Yes,Bachelor,No,No,Poor,2.0,3.0,2.0,5.0,90.0,Programming,1.0,"Software, Hardware",2.5,2.5,12,False,25000.0
+518,2019.0,Male,24.0,2017.0,BCSE,Yes,No,Offline,Yes,Yes,Intermediate,No,No,No,In a relationship,Yes,Bachelor,No,No,Excellent,11.0,8.0,1.0,1.0,90.0,"Programming, Web development",5.0,Data Science,3.31,3.76,139,False,30000.0
+519,2022.0,Male,21.0,2020.0,BCSE,No,No,Online,Yes,Yes,Advance,No,No,Yes,Single,No,Bachelor,No,No,Poor,2.0,1.0,2.0,4.0,80.0,"Cyber security, Networking,",0.0,Networking,3.75,0.0,12,False,50000.0
+520,2021.0,Male,21.0,2020.0,BCSE,Yes,No,Online,Yes,Yes,Intermediate,No,No,Yes,Single,No,Bachelor,Yes,No,Good,2.0,6.0,3.0,2.0,98.0,Programming,3.0,Software,3.7,3.7,13,False,25000.0
+521,2021.0,Male,21.0,2020.0,BCSE,No,No,Online,Yes,Yes,Intermediate,No,No,Yes,Single,No,Bachelor,Yes,No,Poor,2.0,3.0,3.0,1.0,97.0,Programming,3.0,Machine Learning / Deep Learning,3.5,0.0,13,False,33000.0
+522,2020.0,Female,20.0,2020.0,BCSE,Yes,Yes,Offline,Yes,Yes,Basic,Yes,No,No,Single,No,Family,No,No,Good,2.0,4.0,2.0,4.0,90.0,Programming,2.0,Hardware,3.7,3.7,11,False,60000.0
+523,2022.0,Male,20.0,2020.0,BCSE,Yes,No,Offline,Yes,Yes,Basic,Yes,Yes,Yes,Single,No,Bachelor,No,No,Poor,2.0,3.0,2.0,3.0,70.0,Programming,2.0,Software,3.24,3.24,11,False,40000.0
+524,2019.0,Female,22.0,2018.0,BCSE,No,Yes,Offline,Yes,Yes,Intermediate,Yes,No,No,Single,No,Family,No,No,Poor,11.0,2.5,1.5,2.0,99.0,Programming,1.0,Software,2.3,2.8,113,False,60000.0
+525,2019.0,Female,22.0,2018.0,BCSE,No,No,Offline,Yes,No,Intermediate,No,No,No,Engaged,No,Family,No,No,Poor,8.0,2.0,1.0,3.0,70.0,Web development skill(Frontend),2.0,Machine Learning / Deep Learning,3.87,3.6,141,False,70000.0
+526,2020.0,Male,22.0,2020.0,BCSE,Yes,Yes,Offline,Yes,Yes,Intermediate,No,No,Yes,Single,Yes,Family,No,Yes,Poor,3.0,3.0,2.0,4.0,37.0,Programming,1.0,Artificial Intelligence,3.24,3.5,27,False,20250.0
+527,2021.0,Male,19.0,2020.0,BCSE,No,No,Offline,Yes,No,Basic,No,No,No,Single,No,Family,No,No,Good,2.0,3.3475298126064734,0.0,3.0,85.0,Programming,2.0,Software,3.65,3.39,11,False,25000.0
+528,2021.0,Male,21.0,2019.0,BCSE,Yes,No,Offline,Yes,Yes,Intermediate,No,No,Yes,Single,Yes,Bachelor,No,No,Average,3.0,5.0,2.0,3.0,80.0,"Programming, Networking, Digital",2.0,Networking,3.52,3.5,21,False,25000.0
+529,2022.0,Male,20.0,2020.0,BCSE,Yes,No,Offline,Yes,Yes,Basic,No,No,No,Single,No,Bachelor,No,No,Poor,2.0,3.0,1.0,2.0,95.0,Programming,4.0,Data Science,2.73,2.73,11,False,21000.0
+530,2021.0,Male,24.0,2020.0,BCSE,Yes,No,Offline,Yes,Yes,Basic,No,No,Yes,Single,No,Family,No,No,Excellent,3.0,3.0,4.0,1.0,90.0,Programming,2.0,Machine Learning / Deep Learning,3.79,3.88,23,True,13000.0
+531,2019.0,Female,23.0,2016.0,BCSE,Yes,No,Offline,Yes,Yes,Basic,No,No,No,Engaged,No,Bachelor,No,No,Poor,11.0,2.5,2.0,1.0,70.0,Nothing,0.0,Machine Learning / Deep Learning,3.96,3.91,116,False,30000.0
+533,2022.0,Female,21.0,2020.0,BCSE,No,Yes,Offline,Yes,No,Intermediate,No,No,No,Single,Yes,Family,Yes,No,Good,2.0,7.0,2.0,0.5,100.0,Programming,2.0,Software,3.4,3.4,12,False,15000.0
+534,2019.0,Female,22.0,2018.0,BCSE,No,Yes,Online,Yes,Yes,Intermediate,No,No,No,Single,No,Family,No,No,Good,11.0,2.5,4.5,1.0,90.0,"Programming, Software Development",2.0,Software,3.49,3.39,126,False,20000.0
+535,2022.0,Male,23.0,2020.0,BCSE,No,Yes,Online,Yes,Yes,Intermediate,No,No,No,Single,Yes,Family,No,No,Excellent,2.0,6.0,2.0,1.0,100.0,Programming,2.0,Software,3.85,3.85,12,False,30000.0
+536,2020.0,Male,21.0,2018.0,BCSE,No,Yes,Offline,Yes,Yes,Intermediate,Yes,No,No,Single,Yes,Family,No,No,Poor,8.0,4.0,2.0,1.0,90.0,Web development skill(Frontend),2.0,Software,2.02,2.4,71,False,35000.0
+537,2021.0,Female,26.0,2014.0,BCSE,Yes,No,Offline,Yes,Yes,Basic,No,No,No,Married,No,Family,No,No,Poor,3.0,5.5,3.5,3.0,50.0,Programming,2.0,Software,3.89,3.38,23,False,80000.0
+538,2022.0,Male,22.0,2020.0,BCSE,Yes,Yes,Online,Yes,Yes,Intermediate,No,No,Yes,Single,No,Family,No,No,Good,2.0,2.5,1.0,1.0,90.0,Its on learning,3.0,Software,3.93,3.93,12,False,55000.0
+539,2021.0,Female,20.0,2020.0,BCSE,No,Yes,Offline,Yes,Yes,Basic,No,No,No,Single,No,Family,No,No,Poor,2.0,5.0,2.0,2.0,99.0,Programming,1.0,Machine Learning / Deep Learning,3.9,0.0,11,False,20000.0
+540,2022.0,Male,20.0,2020.0,BCSE,Yes,Yes,Offline,Yes,Yes,Intermediate,Yes,No,Yes,Single,No,Bachelor,No,No,Good,2.0,3.0,3.0,3.0,95.0,Programming,1.0,Software,3.47,3.47,12,False,30000.0
+541,2022.0,Female,20.0,2019.0,BCSE,No,Yes,Offline,Yes,Yes,Intermediate,No,No,Yes,Single,Yes,Family,No,No,Good,2.0,2.5,2.0,2.0,90.0,Graphics designing,1.0,Software,3.7,3.39,12,False,30000.0
+542,2022.0,Male,20.0,2020.0,BCSE,Yes,Yes,Offline,Yes,Yes,Intermediate,No,No,No,Single,Yes,Family,Yes,No,Poor,2.0,4.5,2.0,2.0,100.0,Programming,2.0,Networking,3.45,0.0,11,False,20000.0
+543,2022.0,Male,22.0,2020.0,BCSE,Yes,Yes,Offline,Yes,Yes,Intermediate,Yes,No,Yes,Single,No,Family,No,No,Good,2.0,3.0,2.0,2.0,98.0,Programming,1.0,Software,3.73,3.73,11,False,75000.0
+544,2021.0,Male,21.0,2019.0,BCSE,Yes,Yes,Online,Yes,Yes,Intermediate,No,No,Yes,Single,Yes,Bachelor,Yes,Yes,Good,3.0,4.0,4.0,2.0,95.0,"Programming, Web development",3.0,Data Science,3.73,3.68,26,False,35000.0
+545,2022.0,Female,22.0,2020.0,BCSE,Yes,Yes,Online,Yes,Yes,Intermediate,No,No,Yes,Single,No,Bachelor,No,No,Poor,2.0,3.0,2.0,1.0,95.0,"Programming, Networking",2.0,Networking,3.65,0.0,11,True,20000.0
+546,2022.0,Female,21.0,2020.0,BCSE,Yes,Yes,Offline,Yes,Yes,Basic,No,No,Yes,Single,No,Family,No,No,Good,2.0,4.5,2.0,3.0,100.0,Programming,2.0,Software,3.45,3.39,11,False,35000.0
+547,2022.0,Male,21.0,2020.0,BCSE,Yes,Yes,Offline,Yes,Yes,Basic,No,No,Yes,Single,No,Bachelor,No,No,Average,2.0,4.5,2.0,3.0,100.0,Programming,2.0,Software,2.58,3.39,11,False,35000.0
+548,2021.0,Female,20.0,2020.0,BCSE,Yes,No,Online,Yes,No,Advance,Yes,No,Yes,Single,No,Bachelor,Yes,No,Poor,3.0,4.5,4.5,2.0,98.0,Programming,5.0,Networking,1.87,3.5,32,False,20000.0
+549,2020.0,Male,21.0,2019.0,BCSE,No,No,Offline,Yes,Yes,Intermediate,No,No,No,Single,No,Family,No,No,Poor,7.0,1.0,1.0,2.0,93.0,"Programming, Software Development",1.0,Artificial Intelligence,0.0,0.0,0,False,40000.0
+550,2020.0,Female,20.0,2019.0,BCSE,Yes,Yes,Online,Yes,Yes,Intermediate,No,No,Yes,Single,Yes,Family,No,No,Excellent,7.0,4.0,2.0,1.0,98.0,Programming,3.0,Artificial Intelligence,3.96,3.99,76,False,25000.0
+551,2019.0,Male,22.0,2019.0,BCSE,Yes,Yes,Online,Yes,Yes,Intermediate,No,No,No,Single,No,Family,Yes,No,Good,8.0,4.0,2.0,1.0,90.0,working on web,2.0,Software,3.68,3.73,84,False,25000.0
+552,2019.0,Male,20.0,2019.0,BCSE,Yes,No,Offline,Yes,Yes,Basic,Yes,No,No,Married,Yes,Bachelor,No,No,Poor,9.0,5.0,2.0,10.0,50.0,Programming,2.0,Networking,0.35,2.3,90,False,50000.0
+553,2019.0,Male,22.0,2017.0,BCSE,No,Yes,Offline,Yes,Yes,Intermediate,No,No,Yes,Single,Yes,Family,No,No,Poor,9.0,4.0,2.0,4.0,90.0,"Programming, Software Development",2.0,Data Science,2.04,2.86,93,False,50000.0
+554,2020.0,Male,21.0,2019.0,BCSE,Yes,Yes,Offline,Yes,Yes,Advance,No,No,No,Single,No,Family,No,No,Poor,8.0,0.5,1.0,2.0,100.0,"Programming, Web development",1.0,Software,3.74,3.67,90,False,30000.0
+555,2020.0,Female,21.0,2019.0,BCSE,No,No,Offline,Yes,Yes,Intermediate,No,No,No,Single,No,Bachelor,No,No,Excellent,8.0,4.5,2.5,2.0,95.0,Programming,1.0,Software,3.75,3.75,110,False,23000.0
+556,2020.0,Female,22.0,2018.0,BCSE,No,No,Offline,Yes,Yes,Intermediate,No,No,Yes,Single,No,Bachelor,No,No,Good,8.0,2.0,3.0,1.0,90.0,Programming,2.0,Data Science,3.3,3.26,86,False,50000.0
+557,2019.0,Male,23.0,2019.0,BCSE,Yes,No,Offline,Yes,Yes,Intermediate,No,No,Yes,Single,Yes,Bachelor,Yes,No,Good,8.0,5.0,3.0,4.0,98.0,Programming,3.0,Networking,3.72,3.45,90,False,25000.0
+558,2019.0,Male,24.0,2018.0,BCSE,No,No,Offline,Yes,Yes,Intermediate,No,No,Yes,Single,Yes,Bachelor,No,No,Good,8.0,4.0,2.0,2.0,88.0,Programming,2.0,Machine Learning / Deep Learning,3.21,3.39,85,False,40000.0
+559,2020.0,Female,21.0,2018.0,BCSE,Yes,Yes,Offline,Yes,Yes,Intermediate,No,No,No,Married,Yes,Family,No,No,Average,7.0,1.0,1.0,2.0,100.0,Nothing much,0.0,Data Science,3.64,3.65,76,False,60000.0
+560,2020.0,Female,22.0,2018.0,BCSE,Yes,Yes,Offline,Yes,Yes,Advance,No,No,No,In a relationship,No,Family,Yes,No,Average,8.0,3.3475298126064734,1.0,5.0,90.0,"E-commerce, Digital marketing",2.0,Networking,2.86,3.42,87,False,50000.0
+561,2019.0,Male,22.0,2018.0,BCSE,Yes,Yes,Offline,Yes,Yes,Intermediate,No,No,Yes,Single,No,Family,No,No,Excellent,8.0,4.0,2.0,1.0,90.0,Programming,2.0,Data Science,3.78,3.88,93,False,30000.0
+562,2016.0,Male,24.0,2014.0,BCSE,No,Yes,Offline,Yes,Yes,Basic,Yes,No,No,Single,Yes,Bachelor,No,No,Poor,13.0,5.0,4.0,5.0,99.0,Software Development skill,2.0,Artificial Intelligence,2.66,2.76,115,False,50000.0
+563,2020.0,Female,21.0,2019.0,BCSE,No,Yes,Offline,Yes,Yes,Advance,No,No,No,Married,Yes,Family,No,No,Average,8.0,2.0,2.0,3.0,90.0,Programming,1.0,Networking,3.04,2.87,85,False,100000.0
+564,2020.0,Male,20.0,2019.0,BCSE,No,No,Offline,Yes,Yes,Intermediate,No,No,No,Single,No,Family,No,No,Poor,8.0,1.5,1.5,4.0,80.0,Programming,1.0,Networking,1.76,2.55,64,False,35000.0
+565,2020.0,Male,22.0,2019.0,BCSE,Yes,Yes,Online,Yes,Yes,Advance,No,No,Yes,Single,No,Family,No,No,Good,8.0,3.0,3.0,2.0,98.0,"Programming, Web development",2.0,"Software, Blockchain Engineering",3.15,3.71,84,False,5000.0
+566,2020.0,Male,22.0,2019.0,BCSE,Yes,Yes,Offline,Yes,Yes,Intermediate,No,No,Yes,Single,No,Bachelor,No,No,Good,8.0,2.0,2.0,1.0,100.0,"Programming, Software Development",4.0,Machine Learning / Deep Learning,4.0,3.62,86,False,50000.0
+567,2022.0,Female,20.0,2020.0,BCSE,No,Yes,Offline,Yes,Yes,Intermediate,No,No,No,Single,No,Family,No,No,Good,2.0,3.0,1.0,2.0,100.0,Programming,3.0,Software,3.58,3.58,14,False,45000.0
+568,2022.0,Male,21.0,2019.0,BCSE,No,Yes,Offline,Yes,Yes,Intermediate,No,No,No,Single,Yes,Family,Yes,No,Good,8.0,6.0,2.0,2.0,95.0,Programming,3.0,Software,3.4,3.4,11,False,30000.0
+569,2020.0,Male,22.0,2019.0,BCSE,No,Yes,Online,Yes,Yes,Advance,Yes,No,No,Single,No,Family,Yes,No,Poor,8.0,2.0,1.0,16.0,78.0,"Programming, Cyber security,",2.0,Data Science,2.44,2.77,76,False,30000.0
+570,2020.0,Male,22.0,2019.0,BCSE,Yes,Yes,Online,Yes,Yes,Advance,No,No,No,Single,Yes,Family,No,No,Excellent,7.0,6.0,3.0,1.0,97.0,"Programming, Web development",1.0,Data Science,3.94,3.91,75,False,40000.0
+571,2018.0,Male,24.0,2016.0,BCSE,Yes,No,Offline,Yes,Yes,Intermediate,No,No,Yes,Single,Yes,Bachelor,Yes,No,Average,10.0,30.0,1.0,0.5,80.0,Teaching,0.0,Teaching,3.0,2.85,90,False,50000.0
+572,2020.0,Female,21.0,2019.0,BCSE,Yes,Yes,Offline,Yes,Yes,Intermediate,No,No,No,Engaged,No,Family,Yes,No,Average,8.0,1.0,1.0,3.0,85.0,Programming,1.0,Data Science,3.32,3.27,88,False,50000.0
+573,2022.0,Male,22.0,2020.0,BCSE,Yes,Yes,Offline,Yes,Yes,Basic,No,No,Yes,Single,No,Family,No,No,Average,2.0,2.0,1.0,5.0,90.0,Programming,2.0,Software,2.8,2.8,11,False,30000.0
+574,2020.0,Female,22.0,2018.0,BCSE,No,No,Offline,Yes,Yes,Intermediate,No,No,Yes,Single,Yes,Bachelor,No,No,Good,6.0,3.5,2.0,3.0,99.0,Web development skill(Frontend),2.0,Artificial Intelligence,3.39,3.33,70,False,40000.0
+576,2017.0,Female,26.0,2013.0,BCSE,Yes,Yes,Online,Yes,Yes,Intermediate,No,No,Yes,Married,No,Family,No,No,Average,11.0,1.0,1.0,1.0,100.0,Networking,2.0,Networking,3.2,3.44,117,False,40000.0
+577,2020.0,Female,21.0,2019.0,BCSE,Yes,No,Offline,Yes,Yes,Intermediate,No,No,Yes,Single,Yes,Bachelor,No,No,Average,2022.0,2.0,5.0,2.0,95.0,Programming,1.0,Data Science,3.31,2.9,70,False,20000.0
+578,2018.0,Male,23.0,2017.0,BCSE,No,Yes,Online,No,Yes,Intermediate,Yes,No,Yes,Single,Yes,Family,No,No,Average,14.0,5.5,2.0,4.0,80.0,"Programming, Web development",1.0,UI/UX,2.96,3.06,136,False,18000.0
+579,2022.0,Male,20.0,2020.0,BCSE,Yes,Yes,Offline,Yes,Yes,Basic,No,No,No,Single,No,Family,No,No,Good,2.0,3.0,2.0,4.0,100.0,Programming,2.0,Software,3.68,3.68,11,False,35000.0
+580,2022.0,Female,20.0,2018.0,BCSE,No,Yes,Online,Yes,Yes,Basic,No,No,Yes,Single,Yes,Family,No,No,Poor,2.0,4.0,2.0,6.0,100.0,Programming,2.0,Networking,0.0,3.78,11,False,4000.0
+581,2020.0,Male,21.0,2019.0,BCSE,Yes,No,Offline,Yes,Yes,Intermediate,No,No,No,Single,Yes,Bachelor,Yes,No,Good,7.0,4.0,3.0,1.0,95.0,Programming,3.0,Data Science,3.87,3.68,86,False,15000.0
+583,2022.0,Male,21.0,2020.0,BCSE,Yes,Yes,Offline,Yes,Yes,Intermediate,No,No,Yes,Single,No,Family,No,No,Excellent,2.0,3.0,2.0,1.0,100.0,Programming,1.0,Software,3.9,3.9,11,False,20000.0
+584,2018.0,Male,24.0,2017.0,BCSE,No,No,Online,Yes,Yes,Advance,No,No,No,Engaged,No,Family,No,No,Average,13.0,2.5,2.0,2.0,90.0,"Web development skill(Backend),",4.0,Artificial Intelligence,2.65,2.97,130,False,25000.0
+585,2020.0,Male,22.0,2019.0,BCSE,No,No,Offline,Yes,Yes,Intermediate,No,No,No,Single,No,Bachelor,No,No,Good,8.0,2.0,1.0,3.0,100.0,"Programming, Cyber security",1.0,Cybersecurity ,3.29,3.65,100,False,100000.0
+586,2020.0,Female,20.0,2019.0,BCSE,No,Yes,Online,Yes,Yes,Intermediate,No,No,Yes,Single,Yes,Family,No,No,Good,8.0,3.5,2.0,2.0,97.0,Web development skill(Frontend),2.0,Machine Learning / Deep Learning,3.14,3.62,95,False,48400.0
+587,2017.0,Male,24.0,2016.0,BCSE,No,No,Offline,Yes,Yes,Intermediate,Yes,Yes,Yes,Single,No,Family,Yes,No,Poor,17.0,4.5,2.0,8.0,80.0,"Programming, Software Development",10.0,UI/UX,3.15,3.39,140,False,30000.0
+588,2020.0,Female,21.0,2019.0,BCSE,Yes,Yes,Online,Yes,Yes,Intermediate,No,No,Yes,Single,No,Family,No,No,Good,8.0,2.0,2.0,2.0,100.0,Web development skill(Frontend),3.0,Software,3.46,3.55,88,False,80000.0
+589,2020.0,Female,22.0,2019.0,BCSE,No,No,Online,Yes,Yes,Intermediate,No,No,Yes,Single,No,Family,No,No,Average,8.0,1.5,1.0,3.0,99.0,Software Development skill,0.0,Software,3.32,3.17,85,False,40000.0
+590,2020.0,Female,21.0,2019.0,BCSE,Yes,Yes,Offline,Yes,Yes,Intermediate,No,No,No,Single,No,Family,No,No,Good,2022.0,3.5,1.0,4.0,95.0,Programming,2.0,Data Science,3.21,3.36,76,False,25000.0
+591,2022.0,Male,19.0,2020.0,BCSE,Yes,No,Offline,Yes,Yes,Basic,No,No,Yes,Single,No,Bachelor,No,No,Excellent,2.0,5.5,2.0,1.5,100.0,Programming,4.0,Artificial Intelligence,3.93,3.93,11,False,15000.0
+592,2019.0,Male,24.0,2017.0,BCSE,No,No,Offline,Yes,Yes,Intermediate,No,No,No,Single,No,Family,No,No,Excellent,11.0,6.0,2.0,1.0,90.0,"Programming, Web development",3.0,Networking,3.94,3.76,130,True,40000.0
+593,2021.0,Female,22.0,2021.0,BCSE,No,No,Online,Yes,Yes,Intermediate,Yes,No,Yes,Single,Yes,Bachelor,No,No,Poor,3.0,4.0,4.0,3.0,95.0,Programming,2.0,Software,2.87,2.31,24,False,200000.0
+594,2021.0,Male,21.0,2020.0,BCSE,No,No,Offline,Yes,Yes,Basic,No,No,Yes,Single,No,Bachelor,No,No,Good,5.0,3.0,3.0,2.0,100.0,Programming,2.0,Software,3.31,3.27,49,False,30000.0
+595,2022.0,Female,19.0,2020.0,BCSE,Yes,Yes,Online,Yes,Yes,Intermediate,No,No,Yes,Single,Yes,Family,No,Yes,Excellent,2.0,5.0,2.0,1.0,99.0,Programming,1.0,Data Science,4.0,4.0,11,False,35000.0
+596,2022.0,Male,20.0,2020.0,BCSE,Yes,No,Offline,Yes,Yes,Basic,No,No,No,Single,No,Bachelor,No,No,Poor,2.0,0.0,0.0,4.0,100.0,Programming,1.0,Data Science,4.6,4.6,12,False,20000.0
+597,2021.0,Male,20.0,2020.0,BCSE,Yes,No,Online,Yes,Yes,Intermediate,Yes,No,Yes,Single,No,Bachelor,Yes,No,Poor,3.0,1.0,1.0,2.0,75.0,Programming,1.0,Machine Learning / Deep Learning,2.08,2.68,20,False,50000.0
+598,2021.0,Female,22.0,2020.0,BCSE,No,Yes,Offline,Yes,Yes,Basic,Yes,No,Yes,Single,No,Family,No,No,Poor,3.0,6.0,2.0,3.0,80.0,Programming,2.0,Software,2.62,2.64,18,True,5000.0
+599,2022.0,Male,19.0,2020.0,BCSE,Yes,Yes,Offline,Yes,Yes,Basic,No,No,Yes,Single,Yes,Bachelor,No,No,Poor,2022.0,2.0,1.0,12.0,100.0,"Programming, Web development",2.0,Machine Learning / Deep Learning,3.89,3.89,12,False,35000.0
+600,2018.0,Female,23.0,2016.0,BCSE,No,Yes,Offline,Yes,Yes,Advance,Yes,No,Yes,In a relationship,No,Family,No,No,Poor,14.0,2.0,1.0,20.0,70.0,Networking,1.0,Machine Learning / Deep Learning,2.75,2.88,111,False,70000.0
+601,2020.0,Male,22.0,2018.0,BCSE,No,No,Online,No,Yes,Intermediate,No,No,No,Single,No,Family,No,No,Excellent,8.0,7.5,2.0,2.0,98.0,"Programming, Software Development",3.0,Data Science,4.0,3.97,87,False,30000.0
+602,2020.0,Male,22.0,2018.0,BCSE,Yes,No,Online,Yes,Yes,Intermediate,No,No,No,Single,No,Bachelor,No,No,Good,8.0,3.0,2.0,2.0,95.0,"Programming, Web development",2.0,Software,3.57,3.57,90,False,40000.0
+603,2020.0,Female,22.0,2018.0,BCSE,Yes,No,Offline,Yes,Yes,Intermediate,No,No,Yes,Single,No,Bachelor,Yes,No,Good,8.0,2.5,2.0,2.0,98.0,Software Development skill,0.0,Software,3.19,3.41,90,False,20000.0
+604,2019.0,Male,23.0,2018.0,BCSE,Yes,No,Offline,Yes,Yes,Intermediate,No,No,No,Single,No,Bachelor,No,No,Excellent,11.0,8.5,5.0,1.5,99.0,"Programming, Web development",3.0,Software,3.6,3.9,130,False,20000.0
+605,2020.0,Female,20.0,2019.0,BCSE,No,Yes,Offline,Yes,Yes,Intermediate,Yes,No,Yes,Single,No,Family,No,No,Poor,7.0,6.0,2.0,6.0,85.0,Software Development skill,3.0,Machine Learning / Deep Learning,2.88,2.88,68,False,100000.0
+606,2022.0,Male,20.0,2020.0,BCSE,Yes,No,Offline,Yes,No,Basic,Yes,No,Yes,Single,No,Bachelor,No,No,Poor,2.0,3.0,2.0,6.0,90.0,Programming,2.0,Software,2.74,2.74,23,False,20000.0
+607,2021.0,Female,20.0,2019.0,BCSE,No,Yes,Offline,Yes,No,Basic,Yes,No,No,Single,No,Family,No,No,Poor,3.0,5.0,3.0,3.0,50.0,Programming,3.0,Hardware,1.41,2.55,25,False,10000.0
+608,2019.0,Female,22.0,2017.0,BCSE,No,No,Offline,Yes,Yes,Intermediate,No,No,Yes,Single,No,Bachelor,No,No,Good,11.0,5.0,2.0,3.0,100.0,Web development skill(Frontend),2.0,Machine Learning / Deep Learning,3.42,3.32,122,False,40000.0
+609,2019.0,Female,22.0,2017.0,BCSE,No,No,Offline,Yes,Yes,Intermediate,No,No,Yes,Single,No,Bachelor,No,No,Average,11.0,5.0,2.0,3.0,99.0,Web development skill(Frontend),2.0,Machine Learning / Deep Learning,3.1,3.08,118,False,40000.0
+610,2020.0,Male,21.0,2019.0,BCSE,Yes,No,Online,Yes,Yes,Advance,No,No,No,Single,No,Bachelor,No,No,Average,8.0,1.5,2.0,3.0,90.0,"Programming, Web development",2.0,Machine Learning / Deep Learning,3.96,3.86,87,False,120000.0
+611,2022.0,Male,20.0,2020.0,BCSE,Yes,No,Online,Yes,Yes,Intermediate,No,No,Yes,Single,No,Bachelor,No,No,Poor,2.0,3.5,2.0,2.0,70.0,Programming,1.0,Data Science,3.29,3.29,11,False,37000.0
+612,2022.0,Female,22.0,2017.0,BCSE,Yes,Yes,Offline,Yes,Yes,Basic,No,No,No,Single,No,Family,No,No,Excellent,2022.0,3.0,3.0,3.0,100.0,Programming,2.0,Software,3.75,3.75,12,False,50000.0
+613,2020.0,Female,21.0,2019.0,BCSE,Yes,No,Offline,Yes,Yes,Intermediate,No,No,Yes,Single,No,Bachelor,No,No,Excellent,8.0,5.0,2.0,2.0,100.0,"Programming, Web development",2.0,Software,3.66,3.8,87,False,50000.0
+615,2019.0,Male,21.0,2019.0,BCSE,Yes,No,Offline,Yes,Yes,Intermediate,No,No,Yes,Single,No,Bachelor,No,No,Good,8.0,4.5,2.5,1.0,90.0,"Cyber security, Networking",2.0,Networking,3.88,3.71,92,False,30000.0
+616,2020.0,Male,22.0,2018.0,BCSE,Yes,Yes,Online,Yes,Yes,Intermediate,No,No,No,Single,Yes,Bachelor,No,No,Good,8.0,2.0,2.0,1.0,90.0,Programming,2.0,Data Science,4.0,3.89,75,False,30000.0
+618,2018.0,Male,25.0,2016.0,BCSE,Yes,Yes,Online,Yes,Yes,Intermediate,Yes,Yes,Yes,Single,No,Family,No,No,Poor,13.0,2.0,2.0,3.0,90.0,Programming,2.0,Artificial Intelligence,2.4,2.41,86,False,50000.0
+620,2021.0,Female,22.0,2018.0,BCSE,Yes,No,Offline,Yes,Yes,Basic,Yes,No,Yes,Married,No,Family,Yes,No,Average,2.0,4.0,2.0,3.0,80.0,Programming,2.0,Networking,2.86,2.86,15,False,50000.0
+621,2021.0,Male,20.0,2020.0,BCSE,Yes,No,Online,Yes,Yes,Intermediate,No,No,No,Single,Yes,Bachelor,Yes,No,Average,3.0,1.0,1.0,3.0,80.0,Programming,0.0,UI/UX,2.63,3.07,27,False,25000.0
+622,2020.0,Female,21.0,2018.0,BCSE,No,Yes,Online,Yes,Yes,Intermediate,No,No,Yes,Single,No,Family,Yes,No,Good,8.0,3.0,2.0,1.0,96.0,Web development skill(Backend),2.0,Machine Learning / Deep Learning,3.48,3.74,87,False,20000.0
+623,2022.0,Male,19.0,2020.0,BCSE,Yes,Yes,Offline,Yes,Yes,Intermediate,No,No,No,Single,No,Family,No,No,Average,2.0,1.5,1.0,4.0,99.0,Programming,1.0,Artificial Intelligence,3.75,3.75,12,False,30000.0
+624,2019.0,Male,21.0,2019.0,BCSE,Yes,Yes,Offline,Yes,Yes,Intermediate,No,No,Yes,Single,Yes,Family,No,No,Good,8.0,2.5,2.0,1.0,95.0,Programming,2.0,Artificial Intelligence,3.94,3.88,90,False,30000.0
+625,2022.0,Female,21.0,2019.0,BCSE,Yes,Yes,Offline,Yes,No,Intermediate,No,No,Yes,Single,No,Family,No,No,Poor,1.0,2.0,1.0,5.0,100.0,Networking,1.0,Software,0.0,0.0,00,False,40000.0
+626,2022.0,Female,20.0,2020.0,BCSE,Yes,No,Offline,Yes,Yes,Basic,No,No,Yes,Single,No,Family,No,No,Good,2022.0,2.0,1.0,2.0,99.0,"Programming, Web development",2.0,Artificial Intelligence,4.0,4.0,13,False,25000.0
+627,2020.0,Female,21.0,2018.0,BCSE,Yes,No,Offline,Yes,Yes,Intermediate,No,No,Yes,Engaged,No,Family,Yes,No,Average,8.0,2.5,2.0,2.0,80.0,Web development skill(Backend),1.0,Networking,3.5,3.63,87,False,90000.0
+628,2022.0,Male,19.0,2020.0,BCSE,Yes,No,Online,Yes,Yes,Basic,No,No,No,Single,No,Family,No,No,Poor,2.0,3.3475298126064734,1.0,2.0,85.0,Cyber security,1.0,Software,1.91,1.75,6,False,300000.0
+629,2022.0,Male,20.0,2021.0,BCSE,Yes,Yes,Offline,Yes,Yes,Basic,No,No,No,Single,No,Family,No,No,Good,2.0,2.5,2.5,1.0,90.0,i don't,1.0,Artificial Intelligence,3.85,3.85,11,False,30000.0
+630,2020.0,Male,22.0,2019.0,BCSE,No,Yes,Offline,Yes,Yes,Basic,No,No,Yes,Single,Yes,Bachelor,No,No,Poor,8.0,1.0,1.0,2.0,95.0,Video editing and,2.0,Machine Learning / Deep Learning,1.97,2.77,70,False,40000.0
+631,2022.0,Male,20.0,2020.0,BCSE,Yes,Yes,Offline,Yes,Yes,Intermediate,No,No,Yes,Single,No,Family,No,No,Good,2.0,2.0,1.0,2.0,98.0,Programming,3.0,Networking,3.51,3.51,11,False,40000.0
+632,2022.0,Male,21.0,2019.0,BCSE,No,No,Offline,Yes,Yes,Basic,No,No,Yes,Single,No,Bachelor,No,No,Excellent,2.0,3.0,2.0,2.0,95.0,Programming,2.0,Artificial Intelligence,3.85,3.85,11,False,20000.0
+633,2022.0,Female,20.0,2020.0,BCSE,Yes,Yes,Offline,Yes,Yes,Basic,No,No,Yes,Single,No,Family,No,No,Average,2.0,3.0,3.0,5.0,90.0,Programming,2.0,Software,4.0,4.0,11,False,50000.0
+634,2022.0,Male,19.0,2020.0,BCSE,No,No,Offline,Yes,Yes,Basic,No,No,Yes,Single,No,Bachelor,No,No,Good,2.0,4.0,2.0,0.75,90.0,Programming,1.0,Artificial Intelligence,3.21,3.21,11,False,40000.0
+635,2020.0,Female,22.0,2019.0,BCSE,Yes,No,Offline,Yes,Yes,Intermediate,No,No,Yes,Single,Yes,Family,No,No,Good,8.0,3.0,2.0,2.0,95.0,"Software Development skill,",2.0,Networking,3.15,3.65,84,False,50000.0
+636,2022.0,Male,21.0,2020.0,BCSE,Yes,No,Offline,Yes,Yes,Basic,Yes,Yes,Yes,In a relationship,Yes,Bachelor,Yes,No,Average,2.0,4.0,4.0,1.0,80.0,Programming,1.0,"Software, Hardware",3.1,3.1,14,False,20000.0
+637,2019.0,Male,23.0,2016.0,BCSE,Yes,No,Offline,Yes,Yes,Intermediate,No,No,Yes,Single,No,Bachelor,No,No,Good,10.0,3.3475298126064734,2.0,2.0,90.0,Mentoring,3.0,Machine Learning / Deep Learning,3.22,3.47,95,False,13500.0
+638,2021.0,Female,22.0,2019.0,BCSE,Yes,Yes,Offline,Yes,Yes,Intermediate,No,No,No,Single,No,Family,No,No,Poor,3.0,3.0,2.0,4.0,70.0,Programming,2.0,Machine Learning / Deep Learning,3.52,3.77,23,False,25000.0
+639,2021.0,Female,20.0,2020.0,BCSE,Yes,No,Offline,Yes,Yes,Intermediate,No,No,Yes,Single,No,Family,No,No,Good,3.0,2.5,2.0,2.0,85.0,Programming,1.0,Software,3.24,3.32,23,False,80000.0
+640,2019.0,Male,23.0,2017.0,BCSE,No,Yes,Offline,Yes,Yes,Intermediate,No,No,No,Single,Yes,Bachelor,Yes,Yes,Excellent,11.0,5.0,2.5,0.0,90.0,"Programming, Software Development",4.0,Machine Learning / Deep Learning,3.94,3.95,126,False,25000.0
+641,2020.0,Female,22.0,2018.0,BCSE,No,No,Online,Yes,Yes,Intermediate,No,No,No,Single,Yes,Family,No,No,Poor,8.0,4.5,2.0,7.0,80.0,Graphics design,1.0,Machine Learning / Deep Learning,2.5,2.85,80,False,65000.0
+642,2020.0,Female,21.0,2018.0,BCSE,No,Yes,Offline,Yes,Yes,Basic,No,No,No,Single,No,Bachelor,Yes,No,Average,8.0,3.0,1.0,3.0,95.0,graphic design,5.0,Data Science,2.65,2.85,70,False,35000.0
+643,2021.0,Male,20.0,2020.0,BCSE,Yes,Yes,Online,Yes,No,Intermediate,No,No,No,Single,No,Family,No,No,Poor,2.0,1.0,2.0,6.0,80.0,Software Development skill,1.0,Software,2.91,2.91,11,False,25000.0
+645,2020.0,Male,21.0,2019.0,BCSE,Yes,Yes,Offline,Yes,Yes,Basic,No,No,No,Single,Yes,Family,No,No,Good,7.0,8.5,2.0,1.0,100.0,Web development skill(Frontend),1.0,Data Science,3.67,3.48,75,False,25000.0
+646,2022.0,Female,21.0,2019.0,BCSE,Yes,No,Offline,Yes,Yes,Intermediate,No,No,No,Single,No,Bachelor,No,No,Excellent,2.0,5.0,2.0,2.0,99.0,Programming,2.0,Software,4.0,4.0,12,False,30000.0
+647,2022.0,Male,21.0,2020.0,BCSE,Yes,Yes,Offline,Yes,Yes,Basic,No,No,Yes,Single,Yes,Family,No,No,Good,2.0,12.5,2.0,4.0,95.0,"Programming, Web development",1.0,Machine Learning / Deep Learning,3.92,3.92,12,False,35000.0
+648,2019.0,Male,23.0,2018.0,BCSE,No,No,Online,Yes,Yes,Advance,No,No,Yes,Single,No,Bachelor,No,No,Poor,11.0,6.0,2.0,6.0,90.0,Web development skill(Frontend),5.0,UI/UX,3.02,3.05,123,False,40000.0
+649,2020.0,Female,21.0,2019.0,BCSE,No,Yes,Online,Yes,Yes,Advance,No,No,No,Single,No,Family,No,No,Good,8.0,13.5,2.0,1.0,100.0,"Programming, Web development",2.0,Networking,3.77,3.69,88,False,5000.0
+650,2021.0,Male,21.0,2020.0,BCSE,No,Yes,Offline,Yes,Yes,Intermediate,No,No,Yes,Single,Yes,Family,No,No,Good,4.0,2.5,1.0,2.0,96.0,Programming,1.0,Data Science,3.89,3.7,35,False,8090.0
+651,2014.0,Female,25.0,2013.0,BCSE,No,Yes,Offline,Yes,Yes,Intermediate,Yes,No,Yes,Married,No,Family,No,No,Average,15.0,4.0,3.0,1.0,90.0,Networking,2.0,Networking,3.06,2.86,140,False,40000.0
+652,2019.0,Male,21.0,2019.0,BCSE,No,Yes,Online,Yes,Yes,Intermediate,Yes,No,No,Single,Yes,Family,Yes,No,Poor,8.0,1.0,2.0,4.0,57.0,Programming,3.0,Machine Learning / Deep Learning,3.66,3.01,77,False,45000.0
+653,2020.0,Female,22.0,2018.0,BCSE,Yes,Yes,Offline,Yes,Yes,Basic,Yes,No,Yes,Single,No,Bachelor,No,No,Poor,8.0,3.0,1.0,3.0,100.0,Networking,4.0,Data Science,2.15,2.54,70,False,25000.0
+654,2017.0,Male,24.0,2017.0,BCSE,Yes,Yes,Online,Yes,Yes,Intermediate,No,No,No,Single,No,Family,No,No,Average,9.0,1.0,1.0,1.0,85.0,"Programming, Web development",2.0,Software,3.39,3.29,90,False,40000.0
+655,2019.0,Female,22.0,2018.0,BCSE,No,No,Offline,Yes,Yes,Intermediate,No,No,Yes,Single,No,Family,No,No,Good,11.0,3.3475298126064734,1.0,2.0,95.0,Web development skill(Backend),2.0,Artificial Intelligence,3.78,3.54,125,False,60000.0
+656,2017.0,Male,25.0,2016.0,BCSE,No,Yes,Online,Yes,Yes,Intermediate,No,No,Yes,Single,Yes,Family,No,No,Good,8.0,6.0,3.0,4.0,90.0,"Software Development skill,",4.0,Software,3.51,3.51,147,False,100000.0
+657,2020.0,Male,22.0,2016.0,BCSE,No,Yes,Offline,Yes,Yes,Intermediate,No,No,Yes,Single,No,Bachelor,Yes,No,Poor,7.0,2.0,1.5,2.0,60.0,Programming,1.0,Networking,2.92,2.9,58,False,20000.0
+658,2019.0,Female,21.0,2019.0,BCSE,No,Yes,Offline,Yes,Yes,Advance,Yes,No,Yes,Engaged,Yes,Bachelor,No,No,Poor,8.0,5.0,2.0,3.0,90.0,Networking,2.0,Networking,2.13,2.45,87,False,40000.0
+659,2020.0,Male,22.0,2019.0,BCSE,No,No,Offline,Yes,Yes,Intermediate,No,No,No,Single,No,Bachelor,Yes,No,Average,2022.0,2.0,1.0,2.0,80.0,"Programming, Web development",1.0,Networking,3.4,2.8,80,False,35000.0
+661,2020.0,Female,21.0,2019.0,BCSE,Yes,Yes,Offline,Yes,Yes,Intermediate,No,No,Yes,Single,Yes,Family,Yes,No,Average,8.0,2.5,2.0,1.0,80.0,Machine Learning,3.0,Machine Learning / Deep Learning,3.4,3.5,87,False,40000.0
+662,2021.0,Male,20.0,2020.0,BCSE,No,Yes,Offline,Yes,Yes,Basic,No,No,Yes,Single,Yes,Family,No,No,Average,2022.0,1.5,1.0,1.0,100.0,Market Analysis,1.0,Data Science,2.59,3.01,24,False,40000.0
+663,2020.0,Female,21.0,2019.0,BCSE,Yes,No,Offline,Yes,Yes,Intermediate,No,No,Yes,Single,Yes,Family,No,No,Good,8.0,2.5,1.0,3.0,97.0,Programming,1.0,Software,3.78,3.77,87,False,15000.0
+664,2022.0,Male,20.0,2020.0,BCSE,Yes,Yes,Online,Yes,Yes,Basic,No,No,No,Single,No,Family,No,No,Poor,2.0,2.0,1.0,10.0,95.0,Programming,2.0,Networking,1.75,3.39,11,False,30000.0
+665,2020.0,Male,22.0,2019.0,BCSE,No,No,Offline,Yes,Yes,Intermediate,No,No,No,Single,Yes,Bachelor,Yes,No,Poor,7.0,0.0,0.0,2.0,100.0,Programming,0.0,Data Science,3.4,3.65,75,False,50000.0
+666,2021.0,Female,21.0,2021.0,BCSE,Yes,No,Offline,Yes,Yes,Basic,Yes,Yes,Yes,Single,No,Bachelor,No,No,Poor,3.0,7.0,7.0,3.0,99.0,Programming,1.0,Machine Learning / Deep Learning,1.52,1.64,8,False,60000.0
+667,2019.0,Female,22.0,2018.0,BCSE,No,Yes,Offline,Yes,Yes,Advance,No,No,Yes,Single,Yes,Family,Yes,No,Good,11.0,2.0,1.0,4.0,90.0,"Programming, Networking",3.0,Data Science,3.66,3.37,123,False,60000.0
+668,2020.0,Male,20.0,2019.0,BCSE,No,No,Offline,Yes,Yes,Intermediate,Yes,No,No,Single,Yes,Bachelor,No,No,Average,8.0,1.0,3.0,2.0,90.0,"Web development skill(Frontend),",3.0,Web Development,3.5,3.12,90,False,25000.0
+669,2019.0,Female,23.0,2017.0,BCSE,No,Yes,Offline,Yes,Yes,Intermediate,No,No,Yes,Single,Yes,Family,No,No,Poor,11.0,2.5,1.5,4.0,70.0,"Programming, Web development",2.0,Networking,3.59,3.55,123,False,50000.0
+670,2021.0,Male,20.0,2019.0,BCSE,Yes,No,Offline,Yes,Yes,Basic,No,No,Yes,Single,No,Bachelor,No,No,Average,3.0,4.0,2.0,3.0,100.0,Programming,3.0,Data Science,3.03,3.03,23,False,7000.0
+671,2020.0,Male,23.0,2018.0,BCSE,Yes,No,Offline,Yes,Yes,Basic,No,No,Yes,Single,No,Bachelor,Yes,No,Good,8.0,2.5,3.5,2.0,90.0,Programming,1.0,Data Science,3.94,3.9,91,False,20000.0
+672,2021.0,Male,21.0,2020.0,BCSE,Yes,Yes,Offline,Yes,Yes,Intermediate,No,No,Yes,Single,Yes,Family,No,No,Good,2.0,3.5,2.0,2.0,95.0,"Programming, Web development",3.0,Hardware,4.0,3.39,12,False,40000.0
+673,2020.0,Female,22.0,2019.0,BCSE,No,Yes,Offline,Yes,Yes,Intermediate,No,No,Yes,Single,No,Family,No,No,Good,8.0,3.0,2.0,4.0,97.0,Programming,3.0,Hardware,3.49,3.44,80,False,45000.0
+675,2019.0,Male,24.0,2018.0,BCSE,No,Yes,Online,Yes,Yes,Intermediate,No,No,Yes,Single,Yes,Family,No,No,Poor,11.0,3.0,2.0,20.0,90.0,"Web development skill(Frontend),",6.0,Networking,3.45,3.34,117,False,19000.0
+676,2020.0,Male,20.0,2019.0,BCSE,No,No,Offline,Yes,Yes,Intermediate,No,No,No,Single,No,Family,Yes,No,Good,6.0,2.5,2.0,4.0,90.0,"Programming, Cyber security",2.0,Networking,3.58,3.5,72,False,50000.0
+677,2019.0,Female,21.0,2018.0,BCSE,No,No,Online,Yes,Yes,Advance,Yes,Yes,Yes,Married,No,Family,No,No,Poor,11.0,4.0,3.0,3.0,80.0,Programming,1.0,Networking,2.96,2.61,96,False,100000.0
+678,2021.0,Female,21.0,2019.0,BCSE,Yes,No,Offline,Yes,Yes,Intermediate,No,No,Yes,Single,Yes,Bachelor,No,No,Good,3.0,2.0,1.0,2.0,90.0,Programming,1.0,Software,3.38,3.53,24,False,40000.0
+679,2021.0,Female,20.0,2020.0,BCSE,Yes,No,Offline,Yes,Yes,Intermediate,No,No,Yes,Single,Yes,Bachelor,No,No,Average,3.0,2.0,1.0,3.0,95.0,Programming,1.0,Software,3.12,3.07,24,False,50000.0
+681,2019.0,Female,20.0,2019.0,BCSE,No,No,Offline,Yes,Yes,Basic,No,No,Yes,Single,No,Family,No,No,Good,2022.0,4.0,2.0,1.0,90.0,Web development skill(Frontend),1.0,Data Science,3.1,3.27,88,False,45000.0
+682,2021.0,Male,23.0,2020.0,BCSE,Yes,Yes,Offline,Yes,Yes,Intermediate,No,No,No,Single,No,Family,No,No,Average,2.0,1.0,2.0,1.0,95.0,"Programming, Software Development",2.0,Artificial Intelligence,3.92,3.92,11,True,20000.0
+683,2018.0,Male,24.0,2017.0,BCSE,No,No,Offline,Yes,Yes,Advance,Yes,No,No,In a relationship,No,Family,No,No,Poor,14.0,3.0,3.0,5.0,95.0,Programming,2.0,Data Science,2.76,2.64,136,False,25000.0
+684,2019.0,Female,22.0,2018.0,BCSE,Yes,No,Offline,Yes,Yes,Intermediate,No,No,Yes,Single,Yes,Bachelor,Yes,No,Poor,10.0,1.5,1.0,6.0,70.0,learning python,1.0,Machine Learning / Deep Learning,3.52,3.78,112,False,25000.0
+685,2019.0,Male,23.0,2017.0,BCSE,Yes,No,Offline,No,Yes,Intermediate,No,No,No,In a relationship,Yes,Bachelor,No,No,Excellent,11.0,3.5,2.0,1.0,90.0,Web development skill(Backend),3.0,Software,4.0,3.9,123,False,25000.0
+686,2020.0,Male,23.0,2019.0,BCSE,Yes,Yes,Offline,Yes,Yes,Advance,No,No,No,Single,No,Family,No,No,Excellent,8.0,3.5,1.0,3.0,90.0,Programming,2.0,Data Science,3.84,3.78,90,True,20000.0
+687,2019.0,Female,22.0,2018.0,BCSE,No,Yes,Offline,Yes,Yes,Intermediate,No,No,No,Single,No,Family,No,No,Poor,11.0,1.0,1.0,6.0,86.0,"Programming, Web development",2.0,UI/UX,3.44,3.46,125,False,300000.0
+689,2022.0,Male,21.0,2020.0,BCSE,Yes,Yes,Offline,Yes,Yes,Basic,No,No,Yes,Single,Yes,Bachelor,No,No,Poor,2.0,4.0,1.0,2.0,100.0,Programming,2.0,Software,2.98,0.0,11,False,30000.0
+690,2022.0,Male,20.0,2020.0,BCSE,Yes,No,Offline,Yes,Yes,Basic,No,No,No,Single,No,Bachelor,No,No,Poor,2.0,3.5,2.0,6.0,100.0,Programming,3.0,Data Science,3.43,3.39,12,False,25000.0
+691,2022.0,Male,21.0,2020.0,BCSE,Yes,No,Offline,Yes,Yes,Advance,No,No,Yes,Single,Yes,Bachelor,No,No,Excellent,2.0,9.0,3.0,3.0,90.0,"Programming, vedio editing",2.0,Software,3.98,3.98,28,False,40000.0
+692,2013.0,Female,26.0,2012.0,BCSE,No,Yes,Offline,Yes,Yes,Basic,Yes,No,Yes,Married,Yes,Family,No,No,Average,9.0,3.0,2.0,2.0,90.0,Networking,3.0,Networking,3.08,3.15,89,False,50000.0
+693,2019.0,Female,22.0,2017.0,BCSE,No,No,Online,Yes,Yes,Intermediate,No,No,Yes,Single,Yes,Family,Yes,No,Average,11.0,2.0,2.0,2.0,100.0,"Programming, Cyber security",5.0,Machine Learning / Deep Learning,3.1,3.16,122,False,20000.0
+694,2021.0,Male,19.0,2020.0,BCSE,No,Yes,Offline,Yes,Yes,Basic,Yes,No,No,Single,No,Family,No,No,Poor,4.0,3.5,4.0,1.0,95.0,Problem solving,1.0,Software,2.37,2.46,31,False,50000.0
+695,2022.0,Male,20.0,2018.0,BCSE,Yes,No,Offline,Yes,Yes,Intermediate,No,No,No,Single,Yes,Bachelor,No,No,Good,1.0,4.0,2.0,2.0,85.0,Programming,2.0,Artificial Intelligence,5.0,3.39,85.0,False,30000.0
+696,2022.0,Male,21.0,2019.0,BCSE,Yes,No,Offline,Yes,Yes,Basic,No,No,No,Single,No,Bachelor,No,No,Average,2.0,1.5,2.0,2.0,90.0,Programming,1.0,Software,3.58,3.58,12,False,40000.0
+697,2019.0,Male,22.0,2019.0,BCSE,Yes,Yes,Offline,Yes,Yes,Advance,No,Yes,Yes,Single,Yes,Bachelor,Yes,Yes,Good,8.0,4.0,2.0,3.0,100.0,"Programming, Networking",4.0,Networking,3.36,3.47,87,False,80000.0
+700,2022.0,Male,19.0,2021.0,BCSE,Yes,Yes,Offline,Yes,Yes,Basic,No,No,Yes,Single,Yes,Bachelor,No,No,Poor,1.0,3.5,2.0,2.0,100.0,"Web development skill(Frontend),",2.0,Networking,0.0,0.0,0,False,20000.0
+701,2021.0,Male,22.0,2020.0,BCSE,No,Yes,Offline,Yes,Yes,Intermediate,Yes,No,Yes,Single,Yes,Bachelor,Yes,No,Poor,5.0,3.0,3.0,3.0,90.0,Programming,2.0,Software,2.9,2.19,36,False,60000.0
+702,2022.0,Male,20.0,2019.0,BCSE,No,No,Offline,Yes,Yes,Intermediate,No,No,Yes,Single,Yes,Bachelor,No,No,Good,2.0,4.0,2.0,3.0,90.0,Programming,1.0,Artificial Intelligence,3.32,3.25,12,False,30000.0
+703,2020.0,Male,22.0,2019.0,BCSE,No,No,Offline,Yes,Yes,Intermediate,Yes,No,Yes,Single,No,Bachelor,No,No,Poor,8.0,6.0,2.0,2.0,0.0,"Programming, Web development",1.0,Data Science,3.3,3.15,90,False,36000.0
+704,2019.0,Male,23.0,2017.0,BCSE,No,No,Offline,Yes,Yes,Intermediate,No,No,No,Single,No,Bachelor,No,No,Excellent,10.0,4.0,2.0,3.0,95.0,"Programming, Web development",6.0,Data Science,3.92,3.78,123,False,30000.0
+705,2014.0,Female,25.0,2013.0,BCSE,No,No,Online,Yes,Yes,Intermediate,Yes,Yes,Yes,Married,No,Family,Yes,Yes,Poor,24.0,1.0,1.0,12.0,80.0,"Software Development skill,",4.0,Software,2.8,2.5,115,False,20000.0
+706,22022.0,Male,21.0,2020.0,BCSE,Yes,No,Online,Yes,No,Intermediate,Yes,No,Yes,Single,Yes,Bachelor,No,No,Average,2.0,4.5,2.0,3.0,98.0,Programming,2.0,Software,3.33,2.9,12,False,18000.0
+707,2020.0,Male,22.0,2017.0,BCSE,Yes,No,Offline,Yes,Yes,Intermediate,No,No,No,Single,No,Bachelor,No,No,Good,8.0,3.0,2.0,3.0,87.0,Web development skill(Frontend),3.0,Data Science,3.54,3.4,87,False,30000.0
+708,2020.0,Male,23.0,2018.0,BCSE,Yes,Yes,Offline,Yes,Yes,Intermediate,No,No,No,Single,No,Bachelor,No,No,Excellent,8.0,5.0,6.0,2.0,98.0,Programming,2.0,Networking,3.66,3.81,87,False,38000.0
+709,2019.0,Male,24.0,2018.0,BCSE,No,No,Offline,Yes,Yes,Intermediate,No,No,Yes,Single,Yes,Bachelor,No,No,Average,11.0,2.0,2.0,2.0,80.0,Software Development skill,3.0,Software,3.78,3.13,124,False,15000.0
+710,2020.0,Male,21.0,2019.0,BCSE,No,No,Offline,Yes,Yes,Intermediate,No,No,Yes,Single,Yes,Family,Yes,No,Excellent,8.0,5.0,4.0,3.0,99.0,Programming,1.0,Software,3.82,3.81,89,False,15000.0
+711,2019.0,Female,23.0,2018.0,BCSE,Yes,Yes,Offline,Yes,Yes,Intermediate,No,No,Yes,Single,Yes,Bachelor,Yes,No,Excellent,11.0,4.5,1.0,1.0,95.0,Networking,4.0,Networking,4.0,3.93,118,False,50000.0
+712,2022.0,Male,19.0,2020.0,BCSE,Yes,No,Offline,Yes,Yes,Basic,No,No,Yes,Single,Yes,Bachelor,Yes,No,Average,2.0,4.0,2.0,3.0,80.0,Programming,2.0,Data Science,3.54,3.54,11,False,20000.0
+713,2022.0,Male,21.0,2019.0,BCSE,Yes,No,Offline,Yes,Yes,Basic,No,No,Yes,Single,No,Bachelor,No,No,Poor,2.0,4.0,2.0,2.0,95.0,Programming,2.0,Software,2.55,2.55,11,False,20000.0
+715,2019.0,Female,22.0,2017.0,BCSE,No,No,Online,Yes,Yes,Intermediate,No,No,No,Single,No,Bachelor,No,No,Average,11.0,3.0,1.0,5.0,90.0,"Software Development skill,",2.0,Software,3.65,3.59,1,False,30000.0
+716,2020.0,Female,21.0,2019.0,BCSE,Yes,Yes,Offline,Yes,Yes,Intermediate,No,No,No,Single,No,Family,No,No,Good,8.0,3.5,2.0,4.0,100.0,Programming,2.0,Machine Learning / Deep Learning,3.62,3.62,85,False,30000.0
+717,2019.0,Male,20.0,2018.0,BCSE,No,Yes,Offline,Yes,Yes,Basic,No,No,No,Single,No,Family,No,No,Good,9.0,2.0,2.0,1.0,90.0,Learning frontend,1.0,Networking,3.7,3.45,101,False,30000.0
+718,2020.0,Female,21.0,2019.0,BCSE,Yes,Yes,Online,Yes,Yes,Intermediate,No,No,Yes,Single,Yes,Family,No,No,Good,22.0,3.5,2.0,2.0,95.0,Programming,1.0,Software,3.5,3.5,89,False,55000.0
+719,2022.0,Male,21.0,2020.0,BCSE,Yes,Yes,Online,Yes,Yes,Intermediate,No,No,Yes,Single,No,Family,No,No,Good,2.0,5.0,2.0,3.0,100.0,Programming,4.0,Competitive programming ,3.48,3.48,11,False,50000.0
+720,2019.0,Male,22.0,2018.0,BCSE,No,No,Offline,Yes,No,Intermediate,No,No,Yes,In a relationship,Yes,Bachelor,No,No,Average,10.0,3.3475298126064734,2.0,3.0,100.0,"Networking, Graphics Design",2.0,Networking,3.01,2.92,112,False,50000.0
+721,2018.0,Male,25.0,2016.0,BCSE,Yes,Yes,Offline,Yes,Yes,Intermediate,No,No,Yes,Single,Yes,Family,No,No,Good,11.0,4.0,2.0,3.0,100.0,Web development skill(Backend),2.0,Software,3.86,3.56,129,False,60000.0
+722,2019.0,Male,23.0,2017.0,BCSE,Yes,Yes,Online,Yes,Yes,Intermediate,No,No,Yes,In a relationship,No,Family,No,No,Poor,10.0,4.0,4.0,10.0,98.0,"Programming, Web development",2.0,Software,3.38,3.81,117,False,15000.0
+723,2020.0,Female,22.0,2019.0,BCSE,Yes,Yes,Offline,Yes,Yes,Intermediate,No,No,Yes,Married,No,Family,No,No,Good,8.0,5.0,1.0,2.0,90.0,Programming,1.0,Software,3.07,3.42,75,False,500000.0
+724,2019.0,Female,23.0,2017.0,BCSE,Yes,Yes,Offline,Yes,Yes,Intermediate,No,No,No,Single,No,Family,No,No,Good,11.0,3.5,2.0,4.0,96.0,"Programming, Networking",3.0,Networking,3.59,3.56,119,False,20000.0
+725,2019.0,Male,25.0,2017.0,BCSE,No,No,Offline,Yes,Yes,Intermediate,No,No,Yes,Single,Yes,Bachelor,No,No,Poor,11.0,2.0,1.0,6.0,90.0,"Programming, Web development",4.0,Software,2.59,3.06,130,False,50000.0
+726,2019.0,Male,23.0,2018.0,BCSE,No,No,Offline,Yes,Yes,Intermediate,Yes,No,No,Single,No,Bachelor,No,No,Good,11.0,2.0,2.0,2.0,99.0,"Web development skill(Backend),",0.0,Networking,3.3,3.24,130,False,15000.0
+727,2019.0,Female,22.0,2018.0,BCSE,Yes,Yes,Offline,Yes,Yes,Intermediate,No,No,Yes,Single,Yes,Family,No,No,Poor,11.0,4.0,4.0,10.0,99.0,"Web development skill(Frontend),",2.0,Networking,3.72,3.78,127,False,25000.0
+728,2022.0,Male,19.0,2020.0,BCSE,Yes,Yes,Offline,Yes,Yes,Basic,No,No,Yes,Single,No,Family,No,No,Excellent,8.0,3.0,2.0,2.0,100.0,Programming,1.0,Data Science,3.9,3.9,11,False,40000.0
+729,2018.0,Male,23.0,2016.0,BCSE,No,No,Offline,Yes,Yes,Basic,Yes,Yes,Yes,Single,Yes,Bachelor,No,No,Poor,13.0,2.0,2.0,5.0,75.0,Programming,1.0,Hardware,2.55,2.65,120,False,20000.0
+730,2021.0,Male,20.0,2020.0,BCSE,Yes,No,Offline,Yes,Yes,Basic,No,No,No,Single,No,Bachelor,No,No,Average,22.0,4.0,2.0,2.0,85.0,"Programming, Web development",3.0,Data Science,3.0,2.8,36,False,20000.0
+731,2021.0,Male,22.0,2021.0,BCSE,Yes,No,Online,Yes,Yes,Basic,Yes,No,Yes,Single,No,Bachelor,No,No,Poor,8.0,4.0,4.0,2.0,80.0,Programming,1.0,Software,2.0,2.59,24,True,25000.0
+732,2019.0,Female,22.0,2018.0,BCSE,Yes,No,Offline,Yes,Yes,Intermediate,No,No,Yes,Single,No,Bachelor,Yes,No,Excellent,11.0,5.5,2.0,2.0,95.0,"Programming, Software Development",4.0,Data Science,3.96,3.9,135,False,200000.0
+733,2022.0,Male,20.0,2020.0,BCSE,Yes,Yes,Offline,Yes,Yes,Intermediate,No,No,Yes,Single,No,Bachelor,No,No,Average,2.0,2.0,4.0,1.0,80.0,"Programming, Game development",1.0,Networking,3.7,3.7,10,False,25000.0
+734,2022.0,Male,19.0,2020.0,BCSE,No,No,Online,Yes,Yes,Basic,No,No,No,Single,No,Family,No,No,Poor,22.0,5.0,2.0,7.0,90.0,"Programming, Web development",3.0,Artificial Intelligence,3.3,3.39,11,False,35000.0
+735,2020.0,Male,22.0,2019.0,BCSE,No,No,Offline,Yes,Yes,Intermediate,No,No,No,Single,Yes,Bachelor,Yes,No,Good,7.0,3.0,2.0,2.0,95.0,"Programming, Web development",2.0,Data Science,3.2,3.51,80,False,100000.0
+736,2021.0,Male,21.0,2020.0,BCSE,Yes,Yes,Offline,Yes,Yes,Intermediate,No,No,Yes,Single,No,Family,No,No,Good,3.0,5.0,2.0,3.0,90.0,Web development skill(Frontend),4.0,Artificial Intelligence,3.57,3.67,23,False,35000.0
+737,2019.0,Female,22.0,2018.0,BCSE,No,Yes,Offline,Yes,Yes,Intermediate,No,No,Yes,Single,Yes,Family,No,No,Average,8.0,3.0,2.0,1.0,100.0,Programming,1.0,Software,3.37,3.11,140,False,40000.0
+738,2021.0,Male,21.0,2020.0,BCSE,Yes,No,Offline,Yes,Yes,Advance,Yes,No,Yes,Single,Yes,Bachelor,No,No,Average,3.0,4.5,2.0,1.0,97.0,Programming,2.0,Software,3.17,2.85,20,False,30000.0
+739,2022.0,Male,19.0,2020.0,BCSE,No,No,Offline,Yes,Yes,Basic,No,No,Yes,Single,No,Bachelor,No,No,Average,8.0,1.0,1.0,1.0,90.0,Programming,1.0,Networking,3.5,3.45,11,False,10000.0
+740,2022.0,Male,20.0,2020.0,BCSE,No,No,Offline,Yes,Yes,Basic,No,No,Yes,Single,No,Bachelor,No,No,Excellent,22.0,4.5,2.0,1.0,90.0,Programming,3.0,Artificial Intelligence,3.78,3.78,28,False,25000.0
+741,2019.0,Male,25.0,2017.0,BCSE,Yes,Yes,Offline,Yes,Yes,Intermediate,No,No,Yes,Single,Yes,Bachelor,Yes,No,Good,10.0,2.5,2.0,1.0,100.0,"Programming, Software Development",3.0,Machine Learning / Deep Learning,3.9,3.59,128,False,40000.0
+742,2021.0,Male,21.0,2020.0,BCSE,No,Yes,Offline,Yes,Yes,Intermediate,No,No,No,Single,No,Family,No,No,Poor,3.0,4.0,2.0,4.0,50.0,Programming,1.0,Data Science,2.94,2.5,23,False,20000.0
+743,2021.0,Female,21.0,2020.0,BCSE,Yes,Yes,Offline,Yes,Yes,Basic,No,No,No,Single,No,Family,No,No,Average,5.0,3.0,2.0,5.0,80.0,Programming,2.0,Software,2.89,2.8,65,False,20000.0
+744,2021.0,Female,22.0,2020.0,BCSE,No,No,Offline,Yes,Yes,Intermediate,No,No,No,Single,No,Bachelor,No,No,Poor,4.0,4.0,4.0,2.0,90.0,Programming,1.0,Software,1.8,2.56,23,True,20000.0
+745,2020.0,Female,22.0,2019.0,BCSE,No,No,Online,Yes,Yes,Intermediate,No,No,No,Single,No,Bachelor,No,No,Average,8.0,4.0,3.0,3.0,85.0,Programming,4.0,Hardware,2.78,3.75,78,False,30000.0
+746,2022.0,Female,20.0,2021.0,BCSE,No,No,Offline,Yes,No,Basic,Yes,No,Yes,Single,No,Family,No,No,Poor,6.0,1.0,5.0,2.0,100.0,Programming,4.0,Data Science,1.45,2.38,50,False,30000.0
+747,2019.0,Female,25.0,2018.0,BCSE,No,No,Online,Yes,Yes,Intermediate,No,No,Yes,In a relationship,Yes,Bachelor,No,No,Poor,10.0,5.0,3.0,2.0,100.0,Cyber security,2.0,Data Science,2.45,3.54,140,False,34000.0
+748,2019.0,Male,23.0,2019.0,BCSE,Yes,No,Offline,Yes,No,Advance,No,No,No,Single,Yes,Family,No,No,Poor,10.0,6.0,3.0,4.0,80.0,Programming,1.0,Software,1.45,2.45,126,False,35000.0
+749,2021.0,Female,20.0,2019.0,BCSE,No,No,Offline,Yes,Yes,Intermediate,No,No,No,Single,No,Family,No,No,Poor,6.0,3.0,2.0,7.0,100.0,Machine Learning,2.0,Hardware,2.0,3.19,78,False,35000.0
+750,2020.0,Male,24.0,2018.0,BCSE,Yes,No,Offline,Yes,Yes,Advance,No,No,Yes,Single,No,Bachelor,No,No,Poor,11.0,1.0,2.0,8.0,100.0,Programming,2.0,Hardware,2.89,3.99,140,False,36000.0
+751,2020.0,Female,20.0,2019.0,BCSE,No,No,Offline,Yes,Yes,Intermediate,No,No,Yes,In a relationship,No,Bachelor,No,No,Poor,10.0,2.0,1.0,8.0,70.0,Cyber security,1.0,Data Science,2.88,3.75,141,False,36000.0
+752,2021.0,Male,20.0,2020.0,BCSE,No,No,Offline,Yes,Yes,Basic,Yes,No,Yes,Single,Yes,Bachelor,No,No,Poor,7.0,3.0,2.0,7.0,60.0,Programming,2.0,Software,1.87,2.98,101,False,37000.0
+753,2020.0,Male,20.0,2020.0,BCSE,No,No,Offline,Yes,No,Advance,Yes,No,Yes,Single,Yes,Family,No,No,Poor,9.0,1.0,1.0,3.0,54.0,Networking,3.0,Hardware,2.44,3.53,127,False,39000.0
+754,2019.0,Female,22.0,2019.0,BCSE,No,No,Offline,Yes,No,Intermediate,No,No,Yes,Single,No,Family,Yes,No,Average,10.0,4.0,2.0,2.0,90.0,Programming,1.0,Software,2.8,3.65,126,False,40000.0
+755,2019.0,Male,21.0,2019.0,BCSE,No,No,Online,Yes,Yes,Intermediate,No,No,Yes,Single,No,Family,No,No,Poor,7.0,5.0,3.0,2.0,100.0,Programming,2.0,Artificial Intelligence,2.11,3.47,103,False,40000.0
+756,2022.0,Male,22.0,2021.0,BCSE,No,No,Offline,Yes,Yes,Advance,No,No,No,Married,No,Bachelor,No,No,Poor,5.0,4.0,1.0,3.0,87.0,Machine Learning,2.0,Data Science,2.37,3.49,67,False,41000.0
+757,2021.0,Male,23.0,2019.0,BCSE,No,No,Offline,Yes,Yes,Intermediate,Yes,No,No,Married,No,Family,No,No,Average,9.0,3.0,1.0,3.0,87.0,Networking,2.0,Hardware,2.75,3.8,116,False,44000.0
+758,2021.0,Female,21.0,2020.0,BCSE,No,No,Online,Yes,Yes,Intermediate,No,No,Yes,In a relationship,No,Bachelor,No,No,Poor,9.0,3.0,2.0,4.0,100.0,Cyber security,3.0,Software,1.98,2.91,117,False,44000.0
+759,2020.0,Female,20.0,2020.0,BCSE,No,No,Online,Yes,Yes,Intermediate,No,No,Yes,Single,Yes,Family,No,No,Average,11.0,2.0,1.0,3.0,100.0,Networking,2.0,Hardware,2.64,3.7,143,False,44000.0
+760,2019.0,Male,22.0,2018.0,BCSE,No,No,Online,Yes,Yes,Intermediate,No,No,No,Single,Yes,Bachelor,No,No,Poor,9.0,5.0,2.0,11.0,77.0,Networking,6.0,UI/UX,1.77,2.66,133,False,45000.0
+761,2022.0,Female,21.0,2020.0,BCSE,No,No,Offline,Yes,Yes,Intermediate,No,No,No,Single,Yes,Family,No,No,Poor,5.0,5.0,2.0,7.0,95.0,Programming,1.0,Data Science,2.19,2.77,42,False,45000.0
+762,2021.0,Male,22.0,2020.0,BCSE,Yes,No,Online,Yes,Yes,Advance,Yes,Yes,Yes,In a relationship,Yes,Bachelor,No,No,Poor,6.0,5.0,5.0,7.0,70.0,Web development skill(Frontend),3.0,Hardware,2.19,3.19,63,False,45000.0
+763,2020.0,Female,20.0,2020.0,BCSE,No,No,Online,Yes,Yes,Intermediate,Yes,No,No,Single,No,Bachelor,Yes,No,Poor,8.0,3.0,1.0,9.0,86.0,Programming,2.0,Data Science,1.98,2.98,119,False,45000.0
+764,2021.0,Female,20.0,2020.0,BCSE,No,No,Offline,Yes,Yes,Intermediate,Yes,No,No,In a relationship,Yes,Family,No,No,Poor,9.0,4.0,2.0,2.0,78.0,Machine Learning,4.0,Data Science,1.83,2.9,97,False,45000.0
+765,2020.0,Female,21.0,2019.0,BCSE,No,No,Online,Yes,Yes,Intermediate,No,No,Yes,In a relationship,No,Bachelor,No,No,Poor,9.0,3.0,1.0,9.0,100.0,Web development skill(Backend),2.0,Software,1.87,2.82,139,False,46000.0
+766,2020.0,Female,25.0,2019.0,BCSE,No,No,Online,Yes,Yes,Intermediate,No,No,No,Single,No,Bachelor,No,No,Poor,11.0,1.0,1.0,3.0,68.0,Programming,2.0,UI/UX,2.65,3.71,143,False,49000.0
+767,2020.0,Female,23.0,2018.0,BCSE,Yes,No,Offline,Yes,Yes,Advance,Yes,No,Yes,Single,No,Family,No,No,Poor,11.0,6.0,2.0,4.0,90.0,Programming,5.0,Software,2.19,3.45,122,False,50000.0
+768,2022.0,Male,24.0,2019.0,BCSE,Yes,No,Offline,Yes,Yes,Intermediate,No,No,Yes,Single,No,Family,No,No,Average,4.0,3.0,2.0,4.0,100.0,Networking,1.0,Software,2.5,3.4,46,False,50000.0
+769,2020.0,Male,25.0,2019.0,BCSE,No,No,Offline,Yes,Yes,Intermediate,Yes,No,No,In a relationship,No,Bachelor,No,No,Average,11.0,2.0,1.0,3.0,100.0,Networking,4.0,Hardware,2.82,3.85,143,False,50000.0
+770,2020.0,Female,22.0,2020.0,BCSE,No,No,Online,Yes,Yes,Basic,Yes,No,No,In a relationship,No,Bachelor,No,No,Poor,8.0,2.0,1.0,2.0,50.0,Cyber security,2.0,Data Science,1.34,2.68,98,False,50000.0
+771,2022.0,Female,19.0,2021.0,BCSE,No,No,Offline,Yes,Yes,Basic,No,No,Yes,Single,No,Bachelor,No,No,Average,5.0,1.0,1.0,4.0,78.0,Programming,2.0,UI/UX,2.68,3.79,80,False,50000.0
+772,2019.0,Female,22.0,2017.0,BCSE,No,No,Online,Yes,Yes,Intermediate,Yes,No,No,In a relationship,Yes,Family,No,No,Poor,10.0,2.0,1.0,1.0,80.0,Networking,1.0,Data Science,1.97,2.98,79,False,52000.0
+773,2021.0,Female,20.0,2020.0,BCSE,Yes,No,Offline,Yes,Yes,Advance,No,No,No,Single,No,Family,No,No,Average,9.0,5.0,2.0,3.0,100.0,Web development skill(Backend),4.0,Data Science,2.76,3.86,127,False,52000.0
+774,2019.0,Female,25.0,2019.0,BCSE,No,No,Offline,Yes,Yes,Advance,No,No,Yes,Single,Yes,Family,No,No,Poor,10.0,4.0,2.0,7.0,45.0,Programming,2.0,Software,1.72,2.79,140,False,54000.0
+775,2020.0,Male,21.0,2020.0,BCSE,No,No,Offline,Yes,Yes,Basic,No,No,No,Single,Yes,Bachelor,No,No,Average,10.0,2.0,2.0,2.0,100.0,Cyber security,4.0,Data Science,2.62,3.75,136,False,55000.0
+776,2021.0,Female,20.0,2020.0,BCSE,No,No,Offline,Yes,Yes,Advance,No,No,No,In a relationship,No,Bachelor,No,No,Poor,7.0,2.0,1.0,2.0,87.0,Networking,4.0,Hardware,1.51,2.59,99,False,55000.0
+777,2022.0,Female,22.0,2021.0,BCSE,No,No,Offline,Yes,No,Intermediate,Yes,No,No,Single,No,Bachelor,No,No,Poor,5.0,2.0,3.0,2.0,95.0,Networking,2.0,Hardware,1.45,2.53,65,False,55000.0
+778,2022.0,Male,21.0,2021.0,BCSE,No,No,Offline,Yes,No,Intermediate,No,No,No,Single,No,Bachelor,No,No,Poor,5.0,2.0,1.0,4.0,100.0,Machine Learning,2.0,UI/UX,2.16,3.24,66,False,57000.0
+779,2022.0,Male,21.0,2021.0,BCSE,No,No,Offline,Yes,Yes,Intermediate,Yes,No,No,Married,Yes,Family,No,No,Average,6.0,2.0,1.0,2.0,100.0,Web development skill(Frontend),2.0,Software,2.56,3.62,143,False,58000.0
+780,2019.0,Male,21.0,2018.0,BCSE,Yes,No,Offline,Yes,Yes,Advance,No,No,Yes,Single,No,Bachelor,No,No,Poor,11.0,1.0,1.0,7.0,100.0,Programming,3.0,UI/UX,1.97,3.1,144,False,59000.0
+781,2020.0,Female,23.0,2019.0,BCSE,No,No,Offline,Yes,Yes,Intermediate,Yes,No,No,In a relationship,Yes,Family,No,No,Poor,7.0,2.0,2.0,3.0,90.0,Networking,1.0,Data Science,2.33,3.31,32,False,60000.0
+782,2020.0,Female,20.0,2020.0,BCSE,No,No,Offline,Yes,Yes,Intermediate,Yes,No,No,Single,No,Bachelor,No,No,Poor,11.0,2.0,1.0,3.0,100.0,Networking,2.0,Hardware,1.6,2.68,143,False,60000.0
+783,2021.0,Male,20.0,2021.0,BCSE,No,No,Offline,Yes,Yes,Intermediate,No,No,No,In a relationship,Yes,Bachelor,No,No,Poor,7.0,4.0,3.0,6.0,80.0,Machine Learning,3.0,Hardware,2.11,3.22,97,False,60000.0
+784,2021.0,Female,20.0,2021.0,BCSE,No,No,Online,Yes,Yes,Basic,Yes,Yes,No,Single,Yes,Bachelor,No,No,Poor,7.0,3.0,1.0,7.0,100.0,Programming,2.0,Software,1.19,2.16,103,False,60000.0
+785,2020.0,Male,21.0,2019.0,BCSE,No,No,Online,Yes,Yes,Advance,No,No,Yes,Single,No,Bachelor,No,No,Average,9.0,4.0,2.0,5.0,100.0,Machine Learning,2.0,Software,2.65,3.78,121,False,61000.0
+786,2020.0,Male,20.0,2020.0,BCSE,No,No,Offline,Yes,Yes,Intermediate,Yes,No,Yes,In a relationship,Yes,Bachelor,No,No,Average,10.0,2.0,2.0,2.0,100.0,Artificial Intelligence,1.0,Data Science,2.67,3.7,135,False,61000.0
+787,2020.0,Male,24.0,2019.0,BCSE,No,No,Online,Yes,Yes,Intermediate,Yes,No,No,Single,No,Family,No,No,Poor,11.0,3.0,3.0,3.0,46.0,Cyber security,2.0,Data Science,2.44,3.51,144,False,64000.0
+788,2020.0,Male,24.0,2019.0,BCSE,No,No,Offline,Yes,Yes,Advance,Yes,No,Yes,In a relationship,Yes,Bachelor,No,No,Poor,11.0,3.0,3.0,3.0,75.0,Networking,1.0,Hardware,1.65,2.68,143,False,65000.0
+789,2020.0,Male,25.0,2019.0,BCSE,No,No,Offline,Yes,Yes,Intermediate,No,No,No,Single,Yes,Bachelor,No,No,Average,10.0,2.0,2.0,3.0,78.0,Cyber security,2.0,Data Science,2.54,3.61,78,False,65000.0
+790,2020.0,Male,20.0,2020.0,BCSE,No,No,Online,Yes,Yes,Advance,Yes,No,No,Married,Yes,Family,No,No,Average,11.0,2.0,1.0,2.0,100.0,Cyber security,2.0,Data Science,2.5,3.61,143,False,65000.0
+791,2021.0,Female,20.0,2020.0,BCSE,No,No,Online,Yes,Yes,Intermediate,No,No,No,In a relationship,Yes,Family,No,No,Poor,6.0,4.0,2.0,8.0,100.0,Web development skill(Frontend),2.0,Software,2.07,3.39,84,False,66000.0
+792,2020.0,Female,20.0,2020.0,BCSE,No,No,Online,Yes,Yes,Advance,No,No,Yes,Single,No,Family,No,No,Poor,8.0,4.0,2.0,6.0,100.0,Web development skill(Backend),1.0,UI/UX,1.77,2.64,119,False,66000.0
+793,2021.0,Male,20.0,2020.0,BCSE,Yes,No,Offline,Yes,Yes,Intermediate,No,No,No,Single,No,Bachelor,No,No,Poor,7.0,3.0,1.0,5.0,90.0,Networking,2.0,Hardware,2.11,3.21,102,False,66000.0
+794,2022.0,Female,21.0,2021.0,BCSE,No,No,Offline,Yes,No,Intermediate,Yes,No,Yes,Single,Yes,Bachelor,No,No,Poor,5.0,2.0,1.0,2.0,46.0,Artificial Intelligence,4.0,Data Science,2.33,3.41,63,False,66000.0
+795,2022.0,Female,20.0,2021.0,BCSE,No,No,Offline,Yes,Yes,Basic,Yes,No,Yes,In a relationship,Yes,Bachelor,No,No,Average,5.0,3.0,1.0,3.0,100.0,Web development skill(Frontend),4.0,Software,2.77,3.84,58,False,66000.0
+796,2019.0,Male,21.0,2018.0,BCSE,Yes,No,Offline,Yes,Yes,Advance,No,No,Yes,Single,No,Family,No,No,Average,11.0,5.0,4.0,2.0,100.0,Programming,3.0,Software,2.87,3.98,140,False,67000.0
+797,2019.0,Male,22.0,2017.0,BCSE,No,No,Online,Yes,Yes,Intermediate,No,No,No,Single,No,Bachelor,No,No,Poor,10.0,4.0,1.0,7.0,100.0,Web development skill(Backend),2.0,Software,2.19,3.43,140,False,68000.0
+798,2020.0,Male,22.0,2019.0,BCSE,No,No,Offline,Yes,Yes,Advance,No,No,Yes,Single,No,Family,No,No,Poor,10.0,2.0,1.0,8.0,100.0,Artificial Intelligence,2.0,Hardware,2.11,3.39,132,False,68000.0
+799,2020.0,Male,25.0,2019.0,BCSE,No,No,Offline,Yes,Yes,Intermediate,No,No,Yes,Single,Yes,Bachelor,Yes,No,Poor,11.0,1.0,2.0,2.0,51.0,Artificial Intelligence,4.0,Data Science,2.51,3.57,143,False,68000.0
+800,2020.0,Male,22.0,2019.0,BCSE,No,No,Online,Yes,Yes,Basic,No,No,No,Single,Yes,Bachelor,No,No,Poor,9.0,3.0,2.0,3.0,100.0,Networking,2.0,Hardware,2.22,3.38,124,False,68000.0
+801,2021.0,Female,20.0,2020.0,BCSE,No,No,Offline,Yes,Yes,Intermediate,Yes,No,No,Single,No,Bachelor,No,No,Poor,8.0,2.0,2.0,2.0,34.0,Cyber security,3.0,Data Science,1.86,2.91,102,False,68000.0
+802,2021.0,Female,22.0,2021.0,BCSE,No,No,Offline,Yes,No,Basic,No,No,No,Married,Yes,Family,No,No,Poor,9.0,1.0,1.0,8.0,50.0,Artificial Intelligence,1.0,Data Science,1.87,2.95,140,False,68000.0
+803,2022.0,Female,21.0,2021.0,BCSE,Yes,No,Online,Yes,Yes,Basic,No,No,Yes,Single,No,Bachelor,No,No,Average,8.0,5.0,2.0,3.0,87.0,Cyber security,2.0,Data Science,2.88,3.91,127,False,68000.0
+804,2020.0,Female,23.0,2018.0,BCSE,No,No,Online,Yes,Yes,Intermediate,Yes,Yes,No,Single,No,Family,No,No,Poor,10.0,3.0,3.0,6.0,99.0,Web development skill(Backend),1.0,Data Science,1.91,3.39,123,False,70000.0
+805,2021.0,Female,20.0,2020.0,BCSE,No,No,Online,Yes,Yes,Intermediate,No,No,No,In a relationship,No,Family,No,No,Poor,8.0,3.0,3.0,2.0,100.0,Programming,2.0,UI/UX,1.81,2.9,101,False,70000.0
+806,2022.0,Male,20.0,2020.0,BCSE,No,No,Offline,Yes,Yes,Intermediate,Yes,No,Yes,Single,No,Family,Yes,No,Poor,6.0,2.0,2.0,2.0,56.0,Programming,2.0,UI/UX,1.72,2.8,80,False,70000.0
+807,2021.0,Female,20.0,2020.0,BCSE,No,No,Offline,Yes,Yes,Intermediate,No,No,Yes,In a relationship,No,Bachelor,No,No,Poor,9.0,1.0,1.0,3.0,76.0,Web development skill(Backend),2.0,Software,1.56,2.63,104,False,70000.0
+808,2021.0,Female,24.0,2021.0,BCSE,No,No,Offline,Yes,Yes,Basic,No,No,No,Single,Yes,Family,Yes,No,Poor,6.0,1.0,1.0,4.0,100.0,Programming,2.0,Software,2.23,3.39,98,False,70000.0
+809,2022.0,Female,21.0,2021.0,BCSE,No,No,Offline,Yes,Yes,Intermediate,Yes,No,Yes,In a relationship,No,Bachelor,No,No,Average,6.0,2.0,1.0,3.0,100.0,Networking,2.0,Hardware,2.67,3.74,77,False,70000.0
+810,2022.0,Female,19.0,2022.0,BCSE,No,No,Online,Yes,Yes,Intermediate,No,No,No,In a relationship,No,Bachelor,Yes,No,Poor,3.0,4.0,3.0,4.0,63.0,Web development skill(Frontend),2.0,Software,1.65,2.87,35,False,70000.0
+811,2021.0,Female,20.0,2020.0,BCSE,No,No,Online,Yes,Yes,Advance,No,No,Yes,In a relationship,No,Family,No,No,Poor,9.0,2.0,1.0,6.0,90.0,Machine Learning,2.0,Software,2.44,3.88,132,False,71000.0
+812,2022.0,Male,20.0,2021.0,BCSE,No,No,Offline,Yes,Yes,Intermediate,Yes,No,No,Married,Yes,Family,No,No,Poor,6.0,4.0,2.0,3.0,68.0,Networking,4.0,Hardware,1.56,2.63,70,False,74000.0
+813,2020.0,Female,21.0,2019.0,BCSE,No,No,Offline,Yes,Yes,Intermediate,No,No,No,In a relationship,No,Bachelor,Yes,No,Poor,10.0,6.0,4.0,4.0,80.0,Networking,4.0,Hardware,2.21,3.21,145,False,75000.0
+814,2020.0,Male,20.0,2020.0,BCSE,No,No,Offline,Yes,Yes,Intermediate,No,No,No,In a relationship,No,Bachelor,No,No,Average,11.0,1.0,3.0,3.0,100.0,Networking,1.0,Hardware,2.61,3.68,143,False,75000.0
+815,2021.0,Female,24.0,2019.0,BCSE,No,No,Offline,Yes,Yes,Basic,No,No,Yes,In a relationship,No,Bachelor,No,No,Poor,10.0,3.0,3.0,2.0,100.0,Artificial Intelligence,2.0,Data Science,2.41,3.5,136,False,76000.0
+816,2021.0,Female,20.0,2020.0,BCSE,No,No,Online,Yes,Yes,Advance,Yes,No,No,Single,Yes,Family,No,No,Poor,9.0,2.0,3.0,3.0,100.0,Cyber security,2.0,Data Science,1.57,2.66,121,False,76000.0
+817,2021.0,Male,20.0,2020.0,BCSE,Yes,No,Offline,Yes,Yes,Advance,Yes,No,Yes,In a relationship,Yes,Bachelor,No,No,Average,9.0,4.0,1.0,2.0,100.0,Machine Learning,2.0,Data Science,2.73,3.8,121,False,76000.0
+818,2020.0,Male,22.0,2020.0,BCSE,No,No,Offline,Yes,Yes,Advance,Yes,No,Yes,Married,No,Family,Yes,No,Average,9.0,2.0,1.0,2.0,100.0,Networking,4.0,Hardware,2.87,3.93,121,False,76000.0
+819,2022.0,Male,20.0,2021.0,BCSE,No,No,Online,Yes,Yes,Intermediate,No,No,No,Single,No,Bachelor,No,No,Poor,5.0,3.0,2.0,3.0,100.0,Networking,3.0,Hardware,1.56,2.66,71,False,76000.0
+820,2022.0,Male,25.0,2018.0,BCSE,No,No,Online,Yes,Yes,Advance,No,No,No,Single,No,Bachelor,Yes,No,Poor,6.0,3.0,2.0,8.0,100.0,Programming,3.0,UI/UX,2.87,3.98,143,False,77000.0
+821,2021.0,Male,23.0,2019.0,BCSE,No,No,Online,Yes,Yes,Advance,No,No,No,Single,No,Bachelor,No,No,Poor,8.0,3.0,1.0,7.0,89.0,Machine Learning,1.0,Data Science,1.79,2.85,104,False,77000.0
+822,2019.0,Male,21.0,2019.0,BCSE,Yes,No,Online,Yes,Yes,Advance,No,No,No,Single,No,Family,No,No,Average,10.0,7.0,3.0,3.0,100.0,Programming,2.0,UI/UX,2.88,3.93,139,False,77000.0
+823,2020.0,Female,22.0,2019.0,BCSE,No,No,Offline,Yes,Yes,Intermediate,Yes,No,No,In a relationship,No,Bachelor,Yes,No,Average,9.0,4.0,2.0,2.0,100.0,Artificial Intelligence,1.0,Data Science,2.78,3.84,120,False,77000.0
+824,2021.0,Female,22.0,2020.0,BCSE,Yes,No,Online,Yes,Yes,Basic,No,No,No,In a relationship,Yes,Family,Yes,Yes,Poor,6.0,1.5,1.0,4.0,98.0,Cyber security,3.0,Hardware,2.36,3.19,70,False,77000.0
+825,2020.0,Female,21.0,2020.0,BCSE,No,No,Offline,Yes,Yes,Intermediate,No,No,Yes,Single,No,Family,No,No,Poor,7.0,3.0,2.0,4.0,100.0,Machine Learning,3.0,Software,2.03,3.15,65,False,78000.0
+826,2018.0,Female,25.0,2018.0,BCSE,Yes,No,Offline,Yes,Yes,Basic,Yes,No,Yes,Single,Yes,Bachelor,No,No,Average,11.0,5.0,3.0,1.0,78.0,Artificial Intelligence,4.0,nan,2.83,3.9,143,False,79000.0
+827,2020.0,Female,20.0,2019.0,BCSE,Yes,No,Offline,Yes,Yes,Advance,No,No,No,Single,Yes,Family,No,No,Poor,7.0,5.0,3.0,4.0,100.0,Networking,1.0,UI/UX,2.44,3.78,88,False,79000.0
+828,2021.0,Male,20.0,2020.0,BCSE,No,No,Offline,Yes,Yes,Intermediate,No,No,Yes,Single,No,Family,No,No,Poor,7.0,5.0,3.0,5.0,50.0,Web development skill(Backend),3.0,UI/UX,1.66,2.99,97,False,79000.0
+829,2019.0,Male,21.0,2018.0,BCSE,No,Yes,Offline,Yes,Yes,Advance,No,No,No,Single,Yes,Family,No,No,Average,10.0,6.0,4.0,3.0,80.0,Cyber security,2.0,UI/UX,2.54,3.76,126,False,80000.0
+830,2020.0,Female,22.0,2019.0,BCSE,Yes,No,Online,Yes,Yes,Intermediate,No,No,No,Single,No,Family,No,No,Average,11.0,2.0,1.0,4.0,99.0,Programming,1.0,Hardware,2.79,3.59,125,False,80000.0
+831,2019.0,Male,20.0,2019.0,BCSE,No,No,Offline,Yes,Yes,Basic,Yes,Yes,Yes,In a relationship,No,Bachelor,No,No,Poor,11.0,2.0,1.0,6.0,77.0,Cyber security,2.0,Hardware,1.55,2.67,144,False,80000.0
+832,2021.0,Male,21.0,2020.0,BCSE,No,No,Offline,Yes,Yes,Advance,Yes,No,No,Single,No,Family,Yes,No,Poor,8.0,4.0,2.0,2.0,100.0,Networking,2.0,Data Science,1.25,2.57,101,False,80000.0
+833,2020.0,Female,20.0,2020.0,BCSE,No,No,Offline,Yes,Yes,Advance,No,No,No,Single,No,Bachelor,No,No,Average,10.0,4.0,2.0,2.0,100.0,Networking,2.0,Hardware,2.56,3.61,131,False,80000.0
+834,2022.0,Male,20.0,2021.0,BCSE,No,No,Offline,Yes,Yes,Intermediate,Yes,No,No,Single,Yes,Family,No,No,Average,8.0,3.0,1.0,3.0,100.0,Networking,1.0,Hardware,2.64,3.7,99,False,81000.0
+835,2020.0,Male,20.0,2020.0,BCSE,Yes,No,Offline,Yes,Yes,Advance,No,No,No,Married,Yes,Family,Yes,No,Poor,10.0,4.0,2.0,7.0,78.0,Cyber security,2.0,Data Science,1.45,2.67,142,False,82000.0
+836,2020.0,Male,21.0,2018.0,BCSE,No,No,Offline,Yes,Yes,Basic,No,No,No,In a relationship,No,Bachelor,Yes,No,Poor,10.0,3.0,2.0,3.0,70.0,Programming,3.0,UI/UX,1.56,2.87,133,False,85000.0
+837,2022.0,Female,21.0,2021.0,BCSE,Yes,No,Offline,Yes,Yes,Intermediate,No,No,Yes,In a relationship,No,Family,No,No,Poor,6.0,6.0,4.0,5.0,70.0,Programming,5.0,UI/UX,2.1,3.37,86,False,85000.0
+838,2022.0,Female,20.0,2022.0,BCSE,No,No,Online,Yes,No,Intermediate,No,No,No,Married,No,Family,No,No,Poor,3.0,2.0,1.0,3.0,60.0,Artificial Intelligence,1.0,Hardware,2.1,3.28,77,False,85000.0
+839,2021.0,Female,20.0,2020.0,BCSE,No,No,Online,Yes,Yes,Intermediate,Yes,No,Yes,Married,No,Family,No,No,Poor,10.0,2.0,2.0,2.0,100.0,Artificial Intelligence,4.0,Data Science,1.54,2.64,137,False,86000.0
+840,2019.0,Male,24.0,2019.0,BCSE,No,No,Offline,Yes,Yes,Basic,Yes,Yes,Yes,In a relationship,Yes,Family,Yes,No,Poor,10.0,1.5,3.0,2.0,80.0,Programming,1.0,Software,2.39,3.43,45,False,87000.0
+841,2020.0,Female,21.0,2020.0,BCSE,No,No,Online,Yes,Yes,Advance,No,No,No,Married,No,Family,No,No,Average,8.0,4.0,3.0,2.0,80.0,Cyber security,3.0,UI/UX,2.51,3.87,103,False,87000.0
+842,2020.0,Male,21.0,2020.0,BCSE,Yes,No,Offline,Yes,Yes,Basic,No,No,No,Single,Yes,Bachelor,No,No,Average,11.0,2.0,2.0,1.0,79.0,Machine Learning,2.0,Data Science,2.81,3.89,143,False,87000.0
+843,2021.0,Female,20.0,2020.0,BCSE,No,No,Offline,Yes,Yes,Advance,No,No,Yes,Single,No,Bachelor,No,No,Poor,9.0,2.0,1.0,2.0,88.0,Programming,1.0,UI/UX,2.45,3.54,117,False,88000.0
+844,2021.0,Male,20.0,2021.0,BCSE,No,No,Offline,Yes,Yes,Intermediate,Yes,No,No,Single,Yes,Family,Yes,No,Average,8.0,3.0,1.0,3.0,100.0,Artificial Intelligence,2.0,Data Science,2.66,3.72,98,False,88000.0
+845,2020.0,Female,21.0,2019.0,BCSE,Yes,No,Offline,No,Yes,Intermediate,No,No,Yes,In a relationship,Yes,Family,Yes,No,Poor,9.0,6.0,1.0,4.0,80.0,Programming,1.0,UI/UX,2.04,3.23,145,False,89000.0
+846,2021.0,Male,21.0,2020.0,BCSE,No,No,Online,Yes,Yes,Advance,No,Yes,No,Single,Yes,Bachelor,No,No,Poor,8.0,4.0,2.0,6.0,100.0,Web development skill(Backend),2.0,Software,2.29,3.56,100,False,89000.0
+847,2021.0,Male,20.0,2020.0,BCSE,No,No,Offline,Yes,Yes,Advance,No,No,Yes,Single,No,Family,No,No,Poor,8.0,4.0,2.0,7.0,88.0,Machine Learning,3.0,Software,2.55,3.77,137,False,89000.0
+848,2018.0,Male,22.0,2017.0,BCSE,Yes,No,Offline,Yes,Yes,Advance,No,No,Yes,Single,Yes,Bachelor,Yes,No,Good,11.0,4.0,2.0,2.0,100.0,Programming,3.0,UI/UX,2.9,3.89,135,False,90000.0
+849,2019.0,Male,25.0,2018.0,BCSE,No,No,Offline,Yes,Yes,Intermediate,No,No,No,In a relationship,Yes,Bachelor,No,No,Poor,11.0,3.0,2.0,3.0,100.0,Web development skill(Backend),2.0,Software,2.34,3.42,143,False,90000.0
+850,2020.0,Male,21.0,2019.0,BCSE,No,No,Online,Yes,Yes,Advance,No,No,Yes,Married,No,Family,No,No,Poor,10.0,4.0,2.0,4.0,100.0,Cyber security,2.0,Data Science,2.08,3.11,138,False,90000.0
+851,2021.0,Female,20.0,2020.0,BCSE,No,No,Online,Yes,Yes,Advance,No,No,Yes,Married,No,Family,No,No,Poor,9.0,3.0,1.0,10.0,100.0,Networking,3.0,Hardware,2.51,3.5,130,False,90000.0
+852,2022.0,Female,21.0,2021.0,BCSE,No,No,Online,Yes,Yes,Intermediate,No,No,No,Single,No,Family,No,No,Poor,5.0,3.0,1.0,8.0,100.0,Machine Learning,3.0,Software,2.13,3.33,107,False,90000.0
+853,2019.0,Male,25.0,2018.0,BCSE,No,No,Offline,Yes,Yes,Intermediate,No,Yes,No,Single,No,Bachelor,No,No,Poor,11.0,2.0,1.0,2.0,35.0,Cyber security,1.0,Data Science,1.43,2.56,143,False,91000.0
+854,2022.0,Female,20.0,2020.0,BCSE,No,No,Offline,Yes,Yes,Intermediate,Yes,No,No,Married,Yes,Family,No,No,Poor,4.0,2.0,3.0,3.0,100.0,Programming,1.0,UI/UX,1.26,2.33,59,False,93000.0
+855,2021.0,Female,20.0,2020.0,BCSE,No,No,Offline,Yes,Yes,Advance,Yes,No,Yes,Single,No,Bachelor,No,No,Poor,9.0,2.0,3.0,3.0,56.0,Networking,4.0,Hardware,1.56,2.6,130,False,95000.0
+856,2020.0,Male,23.0,2019.0,BCSE,No,No,Offline,Yes,Yes,Basic,No,No,No,Single,No,Bachelor,No,No,Poor,10.0,2.0,3.0,1.0,100.0,Programming,4.0,UI/UX,1.75,2.81,137,False,98000.0
+857,2019.0,Male,25.0,2018.0,BCSE,No,No,Offline,Yes,Yes,Basic,No,No,No,Married,Yes,Family,No,No,Poor,11.0,2.0,1.0,7.0,100.0,Programming,3.0,Software,1.76,2.87,144,False,100000.0
+858,2021.0,Male,21.0,2019.0,BCSE,No,No,Online,Yes,Yes,Intermediate,Yes,No,Yes,Single,Yes,Bachelor,No,No,Poor,5.0,6.0,4.0,4.0,100.0,Cyber security,2.0,Data Science,1.34,2.53,96,False,100000.0
+859,2020.0,Male,21.0,2019.0,BCSE,No,No,Offline,Yes,Yes,Advance,No,No,Yes,Single,No,Bachelor,No,No,Good,8.0,5.0,3.0,4.0,100.0,Programming,3.0,UI/UX,2.91,3.95,119,False,100000.0
+860,2020.0,Male,22.0,2019.0,BCSE,No,No,Online,Yes,Yes,Intermediate,Yes,No,No,In a relationship,Yes,Family,Yes,No,Poor,10.0,2.0,3.0,2.0,45.0,Networking,4.0,Hardware,2.46,3.52,140,False,100000.0
+861,2021.0,Female,20.0,2020.0,BCSE,No,No,Offline,Yes,Yes,Intermediate,No,No,No,In a relationship,No,Bachelor,No,No,Poor,5.0,3.0,1.0,7.0,70.0,Cyber security,3.0,Software,1.67,2.98,75,False,100000.0
+862,2023.0,Female,20.0,2021.0,BCSE,Yes,No,Offline,Yes,Yes,Intermediate,No,No,Yes,In a relationship,Yes,Family,Yes,Yes,Average,2.0,2.0,4.0,2.0,100.0,Programming,3.0,Hardware,2.66,4.0,12,False,100000.0
+863,2018.0,Male,24.0,2018.0,BCSE,No,No,Online,Yes,Yes,Advance,Yes,No,No,Single,Yes,Family,No,No,Poor,10.0,1.0,3.0,3.0,65.0,Artificial Intelligence,2.0,Data Science,2.65,3.68,140,False,110000.0
+864,2022.0,Male,20.0,2020.0,BCSE,No,No,Offline,Yes,Yes,Intermediate,No,No,No,Single,No,Family,No,No,Average,6.0,2.0,1.0,5.0,100.0,Networking,4.0,Hardware,2.8,3.91,77,False,110000.0
+865,2021.0,Female,20.0,2020.0,BCSE,No,No,Offline,Yes,Yes,Intermediate,No,No,No,Married,Yes,Family,No,No,Poor,8.0,5.0,3.0,6.0,100.0,Networking,1.0,Hardware,1.46,2.67,101,False,110000.0
+866,2021.0,Female,21.0,2020.0,BCSE,No,No,Offline,Yes,Yes,Intermediate,Yes,No,No,Single,No,Bachelor,No,No,Poor,10.0,2.0,3.0,2.0,89.0,Programming,4.0,UI/UX,1.67,2.73,134,False,110000.0
+867,2022.0,Male,20.0,2021.0,BCSE,No,No,Offline,Yes,Yes,Advance,Yes,No,No,Single,Yes,Bachelor,No,No,Poor,6.0,3.0,3.0,3.0,62.0,Artificial Intelligence,1.0,Data Science,1.35,2.58,77,False,114000.0
+868,2021.0,Male,21.0,2020.0,BCSE,No,No,Offline,Yes,Yes,Advance,No,No,No,In a relationship,No,Family,No,No,Average,7.0,3.0,1.0,2.0,78.0,Web development skill(Backend),2.0,Software,2.56,3.66,88,False,115000.0
+869,2022.0,Female,19.0,2022.0,BCSE,No,No,Online,Yes,Yes,Advance,No,No,No,Single,No,Family,No,No,Average,3.0,1.0,1.0,5.0,100.0,Cyber security,3.0,UI/UX,2.67,3.78,32,False,115000.0
+870,2022.0,Female,20.0,2020.0,BCSE,No,No,Offline,Yes,Yes,Advance,No,No,Yes,Single,Yes,Bachelor,No,No,Poor,5.0,2.0,2.0,1.0,41.0,Machine Learning,2.0,Data Science,2.56,3.61,68,False,116000.0
+871,2020.0,Male,25.0,2019.0,BCSE,No,No,Offline,Yes,Yes,Intermediate,Yes,No,No,Single,No,Bachelor,No,No,Average,10.0,2.0,3.0,2.0,86.0,Networking,2.0,Hardware,2.67,3.75,140,False,117000.0
+872,2022.0,Male,20.0,2021.0,BCSE,No,No,Offline,Yes,Yes,Basic,No,No,Yes,In a relationship,No,Bachelor,No,No,Poor,6.0,3.0,3.0,2.0,100.0,Web development skill(Frontend),1.0,Software,2.46,3.55,89,False,120000.0
+873,2020.0,Male,24.0,2019.0,BCSE,No,No,Offline,Yes,Yes,Intermediate,Yes,No,Yes,Married,Yes,Family,No,No,Poor,10.0,1.0,2.0,3.0,83.0,Networking,2.0,Hardware,1.44,2.65,136,False,123000.0
+874,2020.0,Female,24.0,2019.0,BCSE,No,No,Offline,Yes,Yes,Basic,No,No,No,In a relationship,Yes,Bachelor,No,No,Average,11.0,3.0,2.0,1.0,100.0,Web development skill(Backend),4.0,Software,2.53,3.62,143,False,128000.0
+875,2019.0,Female,25.0,2019.0,BCSE,No,No,Offline,Yes,Yes,Basic,No,No,No,Single,Yes,Family,No,No,Average,11.0,2.0,2.0,5.0,100.0,Programming,3.0,Software,2.79,3.88,141,False,130000.0
+876,2021.0,Female,20.0,2020.0,BCSE,Yes,No,Offline,Yes,Yes,Intermediate,Yes,No,Yes,Single,Yes,Family,No,No,Average,9.0,3.0,1.0,3.0,100.0,Web development skill(Backend),4.0,Software,2.75,3.82,103,False,130000.0
+877,2022.0,Male,21.0,2021.0,BCSE,No,No,Offline,Yes,Yes,Advance,Yes,No,No,Married,Yes,Family,Yes,No,Poor,6.0,1.0,3.0,2.0,100.0,Programming,4.0,UI/UX,1.68,2.73,88,False,130000.0
+878,2022.0,Female,20.0,2021.0,BCSE,No,No,Online,Yes,Yes,Intermediate,Yes,No,Yes,Married,No,Family,No,No,Poor,5.0,4.0,1.0,2.0,77.0,Programming,4.0,Software,1.67,2.77,58,False,130000.0
+879,2020.0,Male,20.0,2020.0,BCSE,Yes,No,Offline,Yes,Yes,Advance,No,No,Yes,In a relationship,No,Bachelor,No,No,Poor,10.0,2.0,2.0,3.0,84.0,Web development skill(Backend),4.0,Software,1.76,2.8,122,False,134000.0
+880,2021.0,Female,25.0,2019.0,BCSE,No,No,Online,Yes,Yes,Advance,No,No,Yes,In a relationship,No,Bachelor,No,No,Average,10.0,4.0,2.0,4.0,100.0,Networking,2.0,Hardware,2.88,3.9,139,False,135000.0
+881,2020.0,Male,20.0,2020.0,BCSE,No,No,Offline,Yes,Yes,Basic,Yes,No,No,Single,No,Bachelor,No,No,Average,11.0,2.0,1.0,3.0,100.0,Networking,2.0,Hardware,2.54,3.61,143,False,135000.0
+882,2021.0,Female,22.0,2020.0,BCSE,No,No,Offline,Yes,Yes,Advance,Yes,Yes,No,Married,Yes,Family,No,No,Poor,9.0,4.0,2.0,1.0,100.0,Cyber security,2.0,Data Science,1.76,2.82,121,False,135000.0
+883,2020.0,Male,21.0,2020.0,BCSE,No,No,Offline,Yes,Yes,Intermediate,No,No,No,Single,Yes,Family,Yes,No,Average,8.0,3.0,2.0,2.0,100.0,Artificial Intelligence,2.0,Data Science,2.54,3.64,97,False,135000.0
+884,2019.0,Male,25.0,2018.0,BCSE,No,No,Offline,Yes,Yes,Intermediate,No,No,Yes,Single,Yes,Family,No,No,Poor,11.0,3.0,2.0,2.0,100.0,Networking,1.0,Hardware,1.54,2.68,143,False,144000.0
+885,2021.0,Female,21.0,2020.0,BCSE,No,No,Offline,Yes,Yes,Intermediate,No,No,No,In a relationship,Yes,Bachelor,Yes,No,Poor,9.0,2.0,1.0,2.0,35.0,Machine Learning,2.0,Data Science,1.46,2.5,119,False,144000.0
+886,2019.0,Male,22.0,2019.0,BCSE,Yes,No,Offline,Yes,Yes,Advance,No,No,No,Single,No,Family,No,No,Poor,11.0,6.0,3.0,7.0,100.0,Cyber security,4.0,Data Science,2.91,3.97,141,False,150000.0
+887,2021.0,Female,20.0,2020.0,BCSE,No,No,Online,Yes,Yes,Advance,No,No,No,In a relationship,Yes,Bachelor,No,No,Poor,9.0,3.0,3.0,3.0,100.0,Networking,2.0,Hardware,1.8,2.89,116,False,155000.0
+888,2021.0,Female,20.0,2020.0,BCSE,Yes,No,Offline,Yes,Yes,Intermediate,No,No,No,In a relationship,Yes,Bachelor,No,No,Average,8.0,5.0,2.0,3.0,100.0,Web development skill(Frontend),4.0,Software,2.78,3.8,89,False,158000.0
+889,2021.0,Female,21.0,2021.0,BCSE,Yes,No,Offline,Yes,Yes,Advance,No,No,Yes,Single,Yes,Family,No,No,Poor,5.0,3.0,2.0,8.0,67.0,Programming,2.0,Software,1.65,2.56,64,False,165000.0
+890,2020.0,Female,22.0,2019.0,BCSE,Yes,No,Offline,Yes,Yes,Advance,No,No,No,Single,Yes,Family,No,No,Poor,8.0,2.0,1.0,4.0,100.0,Programming,2.0,UI/UX,2.32,3.87,113,False,170000.0
+891,2020.0,Female,25.0,2019.0,BCSE,No,No,Online,Yes,Yes,Advance,No,No,No,In a relationship,No,Bachelor,No,No,Poor,11.0,3.0,3.0,1.0,35.0,Networking,2.0,Hardware,1.57,2.63,143,False,170000.0
+892,2021.0,Female,20.0,2020.0,BCSE,Yes,No,Offline,Yes,Yes,Intermediate,Yes,No,No,Single,Yes,Family,No,No,Average,8.0,3.0,3.0,3.0,100.0,Artificial Intelligence,4.0,Data Science,2.85,3.93,100,False,190000.0
+893,2020.0,Male,21.0,2020.0,BCSE,No,No,Offline,Yes,Yes,Intermediate,No,No,No,Married,No,Family,No,No,Poor,10.0,3.0,2.0,1.0,68.0,Networking,4.0,Hardware,2.74,3.84,137,False,190000.0
+894,2020.0,Female,22.0,2020.0,BCSE,No,No,Offline,Yes,Yes,Intermediate,No,Yes,No,Single,Yes,Bachelor,No,No,Poor,7.0,3.0,2.0,7.0,100.0,Web development skill(Backend),3.0,UI/UX,2.13,3.03,107,False,235000.0
+895,2021.0,Female,20.0,2021.0,BCSE,Yes,No,Offline,Yes,Yes,Advance,No,No,No,Single,Yes,Family,No,No,Good,5.0,6.0,2.0,1.0,100.0,Programming,4.0,UI/UX,2.91,3.91,81,False,250000.0
+896,2019.0,Female,25.0,2018.0,BCSE,No,No,Offline,Yes,Yes,Intermediate,Yes,No,No,Single,No,Bachelor,No,No,Poor,11.0,3.0,3.0,2.0,100.0,Cyber security,1.0,Data Science,1.43,2.49,143,False,255000.0
+897,2019.0,Male,25.0,2017.0,BCSE,No,No,Offline,Yes,No,Basic,No,No,No,In a relationship,No,Family,No,No,Poor,11.0,2.0,1.0,5.0,86.0,Networking,3.0,Data Science,1.98,2.89,145,False,300000.0
+898,2020.0,Male,23.0,2019.0,BCSE,Yes,No,Offline,Yes,Yes,Basic,No,No,Yes,In a relationship,No,Family,No,No,Average,9.0,1.0,2.0,5.0,100.0,Web development skill(Frontend),1.0,Data Science,2.91,3.89,103,False,10000.0
+899,2020.0,Female,22.0,2019.0,BCSE,Yes,No,Offline,Yes,Yes,Intermediate,No,No,Yes,Single,No,Family,No,No,Average,11.0,2.0,1.0,3.0,95.0,Programming,1.0,Data Science,2.5,3.48,128,False,25000.0
+900,2023.0,Female,21.0,2022.0,BCSE,No,No,Offline,Yes,Yes,Intermediate,No,No,No,Single,Yes,Family,No,No,Average,2.0,5.0,5.0,5.0,100.0,Programming,3.0,Software,2.85,3.65,28,False,25000.0
+901,2020.0,Female,24.0,2019.0,BCSE,No,No,Offline,Yes,Yes,Basic,No,No,No,Single,Yes,Family,Yes,Yes,Poor,9.0,5.0,1.0,6.0,90.0,Networking,2.0,Hardware,2.2,3.5,60,False,28000.0
+902,2020.0,Male,25.0,2019.0,BCSE,Yes,No,Online,Yes,Yes,Advance,No,No,Yes,In a relationship,Yes,Bachelor,No,No,Poor,10.0,3.5,1.0,5.0,99.0,Networking,3.0,Software,2.48,3.48,105,False,30000.0
+903,2020.0,Female,23.0,2019.0,BCSE,No,No,Offline,Yes,Yes,Intermediate,No,No,No,Single,No,Bachelor,No,No,Average,10.0,4.0,1.0,3.0,98.0,Networking,2.0,Hardware,2.87,3.93,138,False,30000.0
+904,2022.0,Male,22.0,2020.0,BCSE,Yes,No,Offline,Yes,No,Intermediate,No,No,Yes,Single,No,Family,No,No,Average,5.0,2.0,2.0,4.0,99.0,Programming,2.0,Hardware,2.56,3.35,54,False,30000.0
+905,2021.0,Female,20.0,2020.0,BCSE,No,No,Offline,Yes,Yes,Intermediate,No,No,Yes,In a relationship,No,Family,No,No,Poor,7.0,4.0,2.0,7.0,100.0,Artificial Intelligence,1.0,Hardware,2.31,3.45,109,False,30000.0
+906,2018.0,Male,25.0,2018.0,BCSE,No,No,Offline,Yes,Yes,Basic,No,Yes,Yes,Married,No,Family,No,No,Poor,11.0,3.0,1.0,3.0,100.0,Cyber security,2.0,Data Science,2.45,3.56,143,False,32000.0
+907,2022.0,Female,19.0,2021.0,BCSE,No,No,Online,Yes,Yes,Intermediate,No,No,Yes,In a relationship,Yes,Family,Yes,No,Poor,7.0,4.0,2.0,5.0,90.0,Artificial Intelligence,2.0,Hardware,2.09,3.34,100,False,34000.0
+908,2019.0,Male,24.0,2018.0,BCSE,No,No,Offline,Yes,Yes,Intermediate,Yes,No,No,Single,Yes,Family,Yes,No,Poor,11.0,3.0,2.0,3.0,65.0,Cyber security,2.0,Data Science,2.45,3.55,144,False,37000.0
+909,2020.0,Female,20.0,2020.0,BCSE,No,No,Online,Yes,Yes,Intermediate,No,No,No,Married,No,Family,No,No,Poor,11.0,2.0,2.0,3.0,72.0,Cyber security,4.0,Data Science,2.67,3.77,143,False,37000.0
+910,2022.0,Male,21.0,2021.0,BCSE,No,No,Offline,Yes,Yes,Advance,No,No,Yes,Single,No,Bachelor,Yes,No,Poor,6.0,1.0,2.0,3.0,42.0,Cyber security,3.0,Data Science,1.89,2.97,97,False,37000.0
+911,2021.0,Female,20.0,2020.0,BCSE,No,No,Online,Yes,No,Basic,No,No,No,Married,Yes,Family,No,No,Poor,8.0,2.0,2.0,3.0,68.0,Web development skill(Frontend),4.0,Software,2.67,3.74,90,False,38000.0
+912,2022.0,Female,22.0,2021.0,BCSE,Yes,No,Offline,Yes,Yes,Intermediate,Yes,No,No,Single,No,Bachelor,No,No,Poor,5.0,2.0,2.0,2.0,47.0,Cyber security,2.0,Data Science,2.74,3.8,68,False,39000.0
+913,2018.0,Female,22.0,2017.0,BCSE,No,No,Online,Yes,Yes,Advance,Yes,No,Yes,Single,No,Family,No,No,Poor,10.0,3.0,2.0,8.0,90.0,Programming,2.0,UI/UX,1.61,2.88,123,False,40000.0
+914,2018.0,Female,24.0,2018.0,BCSE,No,No,Offline,Yes,Yes,Intermediate,Yes,Yes,No,In a relationship,No,Bachelor,No,No,Average,11.0,4.0,2.0,2.0,86.0,Cyber security,4.0,Data Science,2.54,3.63,144,False,40000.0
+915,2020.0,Male,21.0,2020.0,BCSE,No,No,Offline,Yes,Yes,Intermediate,Yes,No,Yes,In a relationship,No,Bachelor,No,No,Poor,10.0,2.0,3.0,3.0,79.0,Cyber security,2.0,Data Science,1.46,2.55,139,False,40000.0
+916,2020.0,Male,20.0,2020.0,BCSE,Yes,No,Offline,Yes,Yes,Intermediate,No,No,No,In a relationship,No,Bachelor,No,No,Average,10.0,2.0,2.0,2.0,100.0,Networking,4.0,Hardware,2.65,3.79,138,False,40000.0
+917,2021.0,Female,21.0,2020.0,BCSE,No,No,Online,Yes,Yes,Advance,No,No,No,Single,Yes,Bachelor,No,No,Poor,9.0,3.0,2.0,3.0,46.0,Artificial Intelligence,2.0,Data Science,1.88,2.92,124,False,42000.0
+918,2022.0,Female,21.0,2021.0,BCSE,Yes,No,Offline,Yes,Yes,Advance,Yes,No,Yes,Married,Yes,Family,No,No,Average,6.0,2.0,1.0,3.0,78.0,Programming,1.0,UI/UX,2.77,3.8,77,False,42000.0
+919,2020.0,Male,20.0,2020.0,BCSE,No,No,Online,Yes,Yes,Intermediate,No,No,No,Single,No,Bachelor,No,No,Poor,5.0,4.0,2.0,6.0,90.0,Machine Learning,2.0,Software,1.98,2.97,66,False,45000.0
+920,2022.0,Male,22.0,2021.0,BCSE,No,No,Online,Yes,Yes,Basic,No,No,Yes,In a relationship,No,Bachelor,No,No,Poor,5.0,2.0,1.0,3.0,23.0,Networking,4.0,Hardware,1.81,2.88,72,False,45000.0
+921,2021.0,Female,20.0,2020.0,BCSE,No,No,Offline,Yes,Yes,Advance,No,No,Yes,In a relationship,No,Bachelor,No,No,Poor,9.0,2.0,3.0,3.0,55.0,Networking,1.0,Hardware,2.87,3.9,125,False,46000.0
+922,2022.0,Male,20.0,2021.0,BCSE,No,No,Offline,Yes,Yes,Intermediate,No,No,Yes,Single,No,Family,No,No,Poor,4.0,11.0,2.0,4.0,100.0,Networking,8.0,Software,1.76,2.67,27,False,46000.0
+923,2022.0,Female,21.0,2021.0,BCSE,No,No,Offline,Yes,Yes,Intermediate,No,No,No,Single,Yes,Bachelor,No,No,Poor,7.0,3.0,2.0,2.0,32.0,Artificial Intelligence,2.0,Data Science,2.34,3.4,109,False,47000.0
+924,2021.0,Female,20.0,2019.0,BCSE,No,No,Offline,Yes,Yes,Intermediate,No,No,Yes,Single,No,Bachelor,No,No,Poor,9.0,5.0,2.0,5.0,100.0,Artificial Intelligence,1.0,Hardware,2.07,3.28,132,False,48000.0
+925,2020.0,Male,23.0,2019.0,BCSE,No,No,Online,Yes,Yes,Intermediate,No,No,No,In a relationship,No,Family,Yes,No,Poor,10.0,2.0,3.0,2.0,89.0,Networking,4.0,Hardware,2.45,3.51,132,False,48000.0
+926,2020.0,Male,20.0,2020.0,BCSE,No,Yes,Offline,Yes,Yes,Intermediate,Yes,No,Yes,Single,No,Bachelor,No,No,Poor,11.0,1.0,1.0,3.0,68.0,Networking,2.0,Hardware,2.66,3.79,135,False,48000.0
+927,2020.0,Female,23.0,2019.0,BCSE,Yes,No,Offline,Yes,Yes,Intermediate,No,No,No,In a relationship,No,Family,No,No,Average,11.0,5.0,3.0,2.0,100.0,Cyber security,4.0,Data Science,2.77,3.85,144,False,49000.0
+928,2022.0,Female,21.0,2021.0,BCSE,No,No,Online,Yes,Yes,Basic,Yes,No,No,Single,No,Family,No,No,Average,6.0,5.0,3.0,3.0,100.0,Networking,2.0,Hardware,2.63,3.7,75,False,49000.0
+929,2020.0,Male,23.0,2018.0,BCSE,Yes,No,Online,Yes,Yes,Advance,No,No,No,In a relationship,Yes,Family,No,No,Average,8.0,3.0,3.0,2.0,80.0,Cyber security,2.0,UI/UX,2.81,3.79,135,False,50000.0
+930,2021.0,Female,21.0,2019.0,BCSE,No,No,Offline,Yes,Yes,Intermediate,No,No,Yes,Single,No,Family,No,No,Poor,6.0,2.0,1.0,3.0,100.0,Programming,1.0,Data Science,2.44,3.44,56,False,50000.0
+931,2021.0,Male,23.0,2019.0,BCSE,No,No,Online,Yes,Yes,Advance,No,No,Yes,Single,Yes,Family,No,No,Poor,7.0,1.0,1.0,5.0,70.0,Cyber security,5.0,Hardware,2.5,3.22,66,False,50000.0
+932,2021.0,Female,21.0,2020.0,BCSE,No,No,Offline,Yes,Yes,Advance,No,No,Yes,In a relationship,Yes,Family,No,No,Poor,7.0,5.0,3.0,6.0,100.0,Programming,1.0,UI/UX,2.55,3.8,112,False,50000.0
+933,2022.0,Female,20.0,2021.0,BCSE,No,No,Offline,Yes,Yes,Basic,No,No,Yes,Single,No,Family,No,No,Poor,5.0,3.0,2.0,5.0,100.0,Programming,2.0,UI/UX,2.22,3.35,79,False,50000.0
+934,2021.0,Female,20.0,2020.0,BCSE,No,No,Offline,Yes,Yes,Basic,No,No,Yes,Single,Yes,Family,No,No,Average,9.0,3.0,3.0,3.0,100.0,Web development skill(Frontend),2.0,Software,2.56,3.64,108,False,53000.0
+935,2020.0,Female,23.0,2019.0,BCSE,No,No,Offline,Yes,Yes,Intermediate,No,No,No,Single,No,Family,No,No,Poor,8.0,3.0,2.0,7.0,100.0,Programming,2.0,Software,1.99,3.0,121,False,55000.0
+936,2020.0,Female,24.0,2019.0,BCSE,No,No,Offline,Yes,Yes,Intermediate,No,No,Yes,Married,No,Family,No,No,Poor,11.0,3.0,2.0,2.0,34.0,Networking,1.0,Hardware,1.56,2.62,143,False,55000.0
+937,2020.0,Female,21.0,2019.0,BCSE,No,No,Offline,Yes,Yes,Advance,No,No,Yes,In a relationship,No,Bachelor,No,No,Average,11.0,4.0,3.0,2.0,79.0,Artificial Intelligence,2.0,Data Science,2.67,3.77,143,False,55000.0
+938,2020.0,Female,20.0,2020.0,BCSE,No,No,Offline,Yes,No,Advance,No,No,No,Single,Yes,Family,No,No,Poor,9.0,4.0,2.0,6.0,100.0,Artificial Intelligence,2.0,Software,2.31,3.44,138,False,55000.0
+939,2020.0,Male,24.0,2019.0,BCSE,No,No,Offline,Yes,Yes,Intermediate,Yes,No,Yes,Married,Yes,Family,No,No,Poor,11.0,2.0,2.0,3.0,76.0,Networking,4.0,Hardware,1.26,2.37,143,False,56000.0
+940,2019.0,Female,25.0,2018.0,BCSE,No,No,Online,Yes,Yes,Basic,No,No,Yes,Single,Yes,Family,No,No,Poor,11.0,1.0,2.0,4.0,66.0,Networking,4.0,Hardware,1.55,2.78,143,False,57000.0
+941,2021.0,Female,20.0,2020.0,BCSE,No,No,Offline,Yes,Yes,Advance,Yes,No,No,In a relationship,Yes,Bachelor,No,No,Average,9.0,2.0,3.0,2.0,100.0,Programming,4.0,UI/UX,2.64,3.71,129,False,59000.0
+942,2021.0,Male,20.0,2020.0,BCSE,No,No,Offline,Yes,Yes,Advance,Yes,No,No,In a relationship,Yes,Bachelor,No,No,Average,10.0,1.0,2.0,2.0,100.0,Programming,2.0,UI/UX,2.76,3.81,134,False,59000.0
+943,2020.0,Male,25.0,2018.0,BCSE,No,No,Offline,Yes,Yes,Basic,No,No,No,Single,Yes,Bachelor,No,No,Poor,8.0,4.0,2.0,7.0,88.0,Cyber security,1.0,Data Science,1.62,2.45,99,False,60000.0
+944,2020.0,Female,23.0,2019.0,BCSE,Yes,No,Online,Yes,Yes,Basic,No,No,No,Single,Yes,Family,No,No,Average,11.0,2.5,2.0,4.0,80.0,Networking,2.0,Software,2.88,3.6,109,False,60000.0
+945,2021.0,Female,23.0,2019.0,BCSE,No,No,Offline,Yes,Yes,Intermediate,Yes,No,Yes,In a relationship,Yes,Family,No,No,Poor,5.0,3.0,2.0,6.0,90.0,Programming,4.0,Software,2.61,3.57,130,False,60000.0
+946,2021.0,Female,23.0,2019.0,BCSE,Yes,No,Offline,Yes,Yes,Intermediate,No,No,Yes,Single,Yes,Family,No,No,Average,7.0,1.0,2.0,2.0,100.0,Networking,2.0,Artificial Intelligence,2.85,3.79,66,False,60000.0
+947,2019.0,Male,23.0,2019.0,BCSE,No,No,Offline,Yes,No,Advance,No,No,No,Single,No,Family,No,No,Poor,12.0,1.0,2.0,10.0,100.0,Networking,1.0,Networking,2.19,3.7,111,False,60000.0
+948,2021.0,Female,22.0,2019.0,BCSE,No,No,Offline,Yes,Yes,Intermediate,Yes,No,Yes,Single,Yes,Bachelor,No,No,Poor,7.0,5.0,2.0,4.0,60.0,Networking,2.0,Software,1.9,2.81,97,False,60000.0
+949,2020.0,Female,21.0,2019.0,BCSE,No,No,Online,Yes,Yes,Advance,No,No,No,Single,Yes,Bachelor,Yes,No,Poor,8.0,5.0,2.0,7.0,75.0,Networking,3.0,Hardware,1.89,3.08,117,False,60000.0
+950,2021.0,Female,21.0,2019.0,BCSE,No,No,Offline,Yes,Yes,Advance,No,No,Yes,In a relationship,No,Bachelor,No,No,Poor,10.0,6.0,3.0,10.0,100.0,Web development skill(Backend),1.0,Software,2.77,3.81,136,False,60000.0
+951,2021.0,Male,22.0,2020.0,BCSE,No,No,Offline,Yes,Yes,Intermediate,No,No,No,Single,Yes,Family,Yes,No,Poor,6.0,1.0,1.0,8.0,95.0,Programming,1.0,Data Science,1.4,2.95,61,False,60000.0
+952,2021.0,Female,20.0,2020.0,BCSE,Yes,No,Offline,Yes,Yes,Advance,No,No,No,Single,No,Bachelor,No,No,Poor,6.0,5.0,3.0,4.0,50.0,Machine Learning,1.0,UI/UX,1.76,2.87,68,False,60000.0
+953,2021.0,Female,20.0,2021.0,BCSE,Yes,No,Offline,Yes,Yes,Advance,No,No,Yes,Married,No,Family,No,No,Average,7.0,5.0,3.0,2.0,100.0,Networking,1.0,Hardware,2.66,3.83,102,False,60000.0
+954,2021.0,Male,20.0,2020.0,BCSE,No,No,Offline,Yes,Yes,Intermediate,Yes,No,Yes,Single,No,Family,No,No,Poor,9.0,2.0,2.0,2.0,35.0,Programming,1.0,UI/UX,1.56,2.62,107,False,62000.0
+955,2022.0,Female,20.0,2021.0,BCSE,No,No,Offline,Yes,Yes,Intermediate,No,No,Yes,Married,No,Family,No,No,Average,5.0,3.0,2.0,3.0,100.0,Networking,4.0,Hardware,2.87,3.91,61,False,62000.0
+956,2019.0,Male,24.0,2019.0,BCSE,Yes,No,Offline,Yes,Yes,Intermediate,Yes,No,No,Single,No,Bachelor,No,No,Poor,10.0,2.0,1.0,7.0,87.0,Cyber security,3.0,Data Science,2.09,3.23,129,False,64000.0
+957,2021.0,Female,20.0,2020.0,BCSE,No,No,Online,Yes,Yes,Advance,No,No,Yes,Single,Yes,Bachelor,No,No,Poor,9.0,4.0,2.0,2.0,86.0,Artificial Intelligence,2.0,Data Science,1.56,2.66,120,False,64000.0
+958,2020.0,Female,21.0,2020.0,BCSE,Yes,No,Offline,Yes,Yes,Intermediate,No,No,No,Married,No,Family,Yes,No,Average,10.0,7.0,3.0,3.0,100.0,Networking,4.0,Hardware,2.78,3.89,138,False,65000.0
+959,2021.0,Male,20.0,2020.0,BCSE,No,No,Offline,Yes,Yes,Intermediate,No,No,Yes,Married,Yes,Family,No,No,Poor,9.0,1.0,1.0,2.0,67.0,Cyber security,2.0,Data Science,2.45,3.51,103,False,65000.0
+960,2022.0,Female,19.0,2022.0,BCSE,No,No,Offline,Yes,Yes,Advance,No,No,No,Single,No,Bachelor,No,No,Average,3.0,3.0,1.0,3.0,95.0,Machine Learning,1.0,Hardware,2.78,3.89,35,False,65000.0
+961,2019.0,Male,24.0,2018.0,BCSE,No,No,Offline,Yes,Yes,Intermediate,No,No,Yes,In a relationship,No,Bachelor,Yes,No,Poor,11.0,5.0,2.0,3.0,100.0,Web development skill(Frontend),2.0,Software,1.67,2.73,143,False,66000.0
+962,2020.0,Male,22.0,2019.0,BCSE,No,No,Offline,Yes,No,Advance,No,No,No,In a relationship,Yes,Bachelor,No,No,Poor,10.0,2.0,2.0,9.0,100.0,Programming,4.0,Software,1.55,2.68,134,False,66000.0
+963,2023.0,Female,19.0,2021.0,BCSE,No,No,Online,Yes,Yes,Advance,No,No,No,In a relationship,No,Family,No,No,Poor,2.0,2.0,2.0,10.0,77.0,Machine Learning,2.0,Software,1.87,2.88,35,False,66000.0
+964,2022.0,Male,21.0,2021.0,BCSE,No,No,Offline,Yes,Yes,Advance,No,No,No,In a relationship,Yes,Bachelor,No,No,Poor,5.0,4.0,2.0,2.0,85.0,Web development skill(Frontend),4.0,Software,1.56,2.63,65,False,66000.0
+965,2021.0,Female,23.0,2019.0,BCSE,No,No,Online,Yes,Yes,Intermediate,No,No,Yes,In a relationship,No,Family,No,No,Poor,7.0,2.0,2.0,6.0,100.0,Programming,1.0,Hardware,2.7,3.5,66,False,67000.0
+966,2021.0,Female,20.0,2020.0,BCSE,No,No,Offline,Yes,No,Intermediate,Yes,No,Yes,Single,No,Family,No,No,Average,9.0,2.0,2.0,2.0,89.0,Networking,4.0,Hardware,2.76,3.8,113,False,67000.0
+967,2021.0,Male,22.0,2021.0,BCSE,No,No,Offline,Yes,Yes,Intermediate,Yes,No,No,Single,Yes,Bachelor,No,No,Poor,8.0,2.0,2.0,3.0,68.0,Cyber security,4.0,Data Science,1.45,2.56,88,False,67000.0
+968,2020.0,Male,20.0,2020.0,BCSE,No,No,Online,Yes,Yes,Advance,No,No,No,Married,Yes,Family,No,No,Poor,8.0,5.0,3.0,6.0,90.0,Programming,2.0,UI/UX,1.55,2.76,77,False,68000.0
+969,2021.0,Male,20.0,2020.0,BCSE,No,No,Offline,Yes,Yes,Intermediate,No,No,No,Single,No,Bachelor,No,No,Average,9.0,2.0,3.0,2.0,87.0,Networking,4.0,Hardware,2.67,3.73,101,False,68000.0
+970,2021.0,Female,21.0,2020.0,BCSE,No,No,Offline,Yes,Yes,Advance,No,No,Yes,Single,Yes,Bachelor,Yes,No,Average,9.0,2.0,2.0,3.0,86.0,Artificial Intelligence,1.0,Data Science,2.86,3.9,119,False,68000.0
+971,2020.0,Female,22.0,2018.0,BCSE,No,No,Offline,Yes,Yes,Intermediate,No,No,No,Single,No,Family,Yes,No,Poor,6.0,4.0,3.0,2.0,80.0,Cyber security,3.0,UI/UX,2.03,3.25,59,False,70000.0
+972,2019.0,Female,22.0,2018.0,BCSE,No,No,Offline,Yes,Yes,Advance,No,No,No,In a relationship,No,Family,No,No,Poor,10.0,4.0,2.0,7.0,95.0,Networking,2.0,Software,2.31,3.65,140,False,70000.0
+973,2021.0,Female,22.0,2019.0,BCSE,Yes,No,Offline,Yes,No,Advance,No,No,No,Single,Yes,Bachelor,No,No,Average,8.0,4.0,3.0,3.0,100.0,Networking,3.0,Hardware,2.66,3.78,109,False,70000.0
+974,2022.0,Female,20.0,2021.0,BCSE,No,No,Online,Yes,Yes,Intermediate,No,No,No,In a relationship,No,Family,No,No,Poor,5.0,6.0,2.0,3.0,100.0,Programming,2.0,Software,2.11,3.26,87,False,70000.0
+975,2022.0,Male,19.0,2021.0,BCSE,No,No,Offline,Yes,Yes,Intermediate,No,No,No,Single,No,Family,No,No,Poor,5.0,3.0,3.0,3.0,100.0,Networking,4.0,Hardware,1.67,2.7,77,False,70000.0
+976,2019.0,Male,23.0,2019.0,BCSE,Yes,No,Offline,Yes,Yes,Advance,No,No,Yes,Single,Yes,Bachelor,No,No,Poor,11.0,3.0,2.0,5.0,97.0,Programming,3.0,UI/UX,2.4,3.44,139,False,71000.0
+977,2021.0,Female,21.0,2020.0,BCSE,No,No,Online,Yes,Yes,Basic,Yes,No,No,Single,No,Family,No,No,Poor,3.0,3.0,2.0,10.0,30.0,Machine Learning,1.0,Hardware,1.55,2.81,34,False,73000.0
+978,2022.0,Female,20.0,2020.0,BCSE,Yes,No,Online,Yes,Yes,Intermediate,No,No,Yes,Single,Yes,Bachelor,No,No,Poor,5.0,5.0,2.0,9.0,90.0,Cyber security,1.0,Data Science,2.55,3.59,72,False,73000.0
+979,2021.0,Male,20.0,2021.0,BCSE,No,No,Offline,Yes,Yes,Intermediate,Yes,No,Yes,In a relationship,Yes,Family,No,No,Poor,9.0,1.0,3.0,3.0,87.0,Web development skill(Frontend),4.0,Software,2.45,3.56,123,False,74000.0
+980,2019.0,Male,21.0,2019.0,BCSE,Yes,No,Offline,Yes,Yes,Advance,No,No,Yes,Single,No,Bachelor,No,No,Average,11.0,6.0,4.0,2.0,100.0,Programming,3.0,UI/UX,2.77,3.87,139,False,75000.0
+981,2021.0,Female,20.0,2020.0,BCSE,No,No,Offline,Yes,Yes,Intermediate,No,No,No,Single,Yes,Bachelor,No,No,Average,8.0,3.0,1.0,3.0,100.0,Programming,2.0,UI/UX,2.53,3.6,95,False,75000.0
+982,2022.0,Female,19.0,2021.0,BCSE,No,No,Online,Yes,Yes,Intermediate,Yes,No,Yes,In a relationship,Yes,Bachelor,Yes,No,Poor,6.0,3.0,1.0,3.0,43.0,Machine Learning,2.0,Data Science,1.65,2.71,73,False,75000.0
+983,2021.0,Female,19.0,2020.0,BCSE,No,No,Online,Yes,Yes,Basic,No,No,No,In a relationship,No,Bachelor,Yes,No,Poor,4.0,3.0,1.0,9.0,70.0,Artificial Intelligence,3.0,Hardware,2.32,3.68,46,False,77000.0
+984,2020.0,Female,20.0,2020.0,BCSE,No,No,Offline,Yes,Yes,Intermediate,No,No,No,Married,Yes,Family,No,No,Average,11.0,1.0,3.0,2.0,76.0,Programming,2.0,UI/UX,2.61,3.7,144,False,77000.0
+985,2020.0,Male,20.0,2020.0,BCSE,No,No,Online,Yes,Yes,Intermediate,Yes,No,No,Single,Yes,Family,No,No,Poor,11.0,2.0,1.0,3.0,54.0,Programming,4.0,UI/UX,1.55,2.61,143,False,77000.0
+986,2021.0,Male,19.0,2021.0,BCSE,No,No,Online,Yes,Yes,Intermediate,No,No,Yes,Single,Yes,Family,No,No,Poor,4.0,4.0,2.0,8.0,100.0,Machine Learning,2.0,Data Science,2.23,3.67,45,False,77000.0
+987,2018.0,Male,25.0,2017.0,BCSE,No,No,Online,Yes,Yes,Advance,Yes,No,Yes,In a relationship,Yes,Bachelor,No,No,Poor,12.0,1.0,3.0,3.0,60.0,Programming,3.0,Software,2.45,3.34,122,False,78000.0
+988,2020.0,Female,22.0,2017.0,BCSE,No,No,Online,Yes,Yes,Intermediate,No,No,No,Married,No,Family,Yes,No,Poor,11.0,1.0,1.0,3.0,90.0,Networking,1.0,Artificial Intelligence,2.11,3.56,132,False,78000.0
+989,2020.0,Male,24.0,2019.0,BCSE,No,No,Offline,Yes,Yes,Intermediate,No,No,No,Single,No,Bachelor,No,No,Poor,10.0,3.0,2.0,5.0,77.0,Artificial Intelligence,1.0,Data Science,1.59,2.62,132,False,78000.0
+990,2019.0,Male,25.0,2019.0,BCSE,No,No,Offline,Yes,Yes,Advance,Yes,No,No,In a relationship,Yes,Family,No,No,Average,11.0,5.0,1.0,3.0,100.0,Web development skill(Frontend),4.0,Software,2.56,3.67,143,False,78000.0
+991,2021.0,Male,20.0,2020.0,BCSE,No,No,Online,Yes,No,Advance,No,No,No,Single,Yes,Bachelor,No,No,Average,6.0,6.0,3.0,3.0,100.0,Networking,1.0,Data Science,2.76,3.77,97,False,78000.0
+992,2021.0,Male,21.0,2020.0,BCSE,No,No,Offline,Yes,Yes,Intermediate,No,No,Yes,Single,Yes,Bachelor,No,No,Average,9.0,2.0,3.0,3.0,100.0,Web development skill(Frontend),4.0,Software,2.76,3.8,124,False,78000.0
+993,2021.0,Male,20.0,2020.0,BCSE,No,No,Offline,Yes,No,Intermediate,No,No,No,Single,No,Bachelor,No,No,Average,8.0,3.0,3.0,2.0,100.0,Cyber security,4.0,Data Science,2.61,3.7,98,False,79000.0
+994,2020.0,Female,20.0,2020.0,BCSE,Yes,No,Offline,Yes,Yes,Basic,No,No,No,In a relationship,No,Family,No,No,Average,11.0,1.0,3.0,3.0,100.0,Programming,4.0,UI/UX,2.75,3.86,143,False,79000.0
+995,2020.0,Male,21.0,2019.0,BCSE,Yes,No,Offline,Yes,Yes,Basic,No,Yes,No,In a relationship,Yes,Family,No,No,Poor,10.0,2.0,3.0,3.0,90.0,Programming,3.0,Data Science,1.98,3.39,125,False,80000.0
+996,2020.0,Male,20.0,2019.0,BCSE,Yes,No,Offline,Yes,Yes,Advance,No,No,No,Single,No,Family,No,No,Average,9.0,6.0,4.0,3.0,100.0,Programming,3.0,UI/UX,2.77,3.87,125,False,80000.0
+997,2022.0,Male,21.0,2021.0,BCSE,No,No,Offline,Yes,Yes,Intermediate,No,No,Yes,Single,Yes,Family,No,No,Poor,5.0,2.0,2.0,5.0,78.0,Artificial Intelligence,2.0,Hardware,1.79,2.82,71,False,80000.0
+998,2022.0,Female,21.0,2021.0,BCSE,No,No,Online,Yes,Yes,Intermediate,Yes,No,No,Single,No,Bachelor,No,No,Poor,6.0,3.0,2.0,2.0,100.0,Artificial Intelligence,2.0,nan,1.88,2.91,74,False,80000.0
+999,2020.0,Male,21.0,2020.0,BCSE,No,No,Online,Yes,Yes,Intermediate,No,No,No,In a relationship,Yes,Bachelor,Yes,No,Poor,8.0,3.0,1.0,7.0,71.0,Machine Learning,1.0,Software,2.38,3.49,109,False,81000.0
+1000,2021.0,Male,20.0,2020.0,BCSE,No,No,Online,Yes,Yes,Intermediate,No,No,Yes,In a relationship,No,Bachelor,No,No,Poor,9.0,4.0,2.0,5.0,100.0,Web development skill(Backend),1.0,Software,2.08,3.21,113,False,83000.0
+1001,2022.0,Female,21.0,2021.0,BCSE,No,No,Online,Yes,Yes,Intermediate,No,No,No,In a relationship,No,Family,No,No,Poor,4.0,5.0,2.0,7.0,70.0,Programming,1.0,Hardware,1.89,3.4,56,False,86000.0
+1002,2021.0,Male,20.0,2019.0,BCSE,No,No,Online,Yes,Yes,Advance,Yes,Yes,Yes,Married,Yes,Family,No,No,Poor,6.0,2.0,1.0,5.0,31.0,Programming,1.0,Software,1.21,2.47,139,False,87000.0
+1003,2020.0,Male,20.0,2019.0,BCSE,No,No,Offline,Yes,Yes,Intermediate,No,No,Yes,Single,Yes,Bachelor,No,No,Poor,8.0,3.0,2.0,6.0,60.0,Machine Learning,2.0,Software,1.81,2.86,117,False,87000.0
+1004,2022.0,Male,20.0,2021.0,BCSE,No,No,Offline,Yes,Yes,Advance,No,No,Yes,Single,Yes,Bachelor,Yes,No,Poor,8.0,5.0,3.0,8.0,100.0,Programming,3.0,UI/UX,2.45,3.68,124,False,87000.0
+1005,2018.0,Male,25.0,2018.0,BCSE,No,No,Offline,Yes,Yes,Intermediate,No,No,Yes,Married,Yes,Family,No,No,Poor,11.0,2.0,2.0,2.0,100.0,Web development skill(Backend),2.0,Software,1.56,2.66,143,False,88000.0
+1006,2020.0,Female,25.0,2019.0,BCSE,No,No,Offline,Yes,Yes,Advance,Yes,No,No,Single,Yes,Bachelor,No,No,Poor,11.0,3.0,1.0,3.0,100.0,Web development skill(Frontend),2.0,Software,1.6,2.68,143,False,88000.0
+1007,2020.0,Female,20.0,2020.0,BCSE,No,No,Online,Yes,Yes,Advance,Yes,No,No,In a relationship,No,Bachelor,No,No,Poor,11.0,3.0,2.0,3.0,56.0,Programming,2.0,UI/UX,1.81,2.89,144,False,88000.0
+1008,2021.0,Female,20.0,2021.0,BCSE,No,No,Offline,Yes,Yes,Intermediate,Yes,No,Yes,Married,No,Family,No,No,Poor,7.0,3.0,3.0,2.0,100.0,Artificial Intelligence,5.0,nan,1.76,2.81,96,False,88000.0
+1009,2020.0,Female,21.0,2020.0,BCSE,No,No,Offline,Yes,Yes,Basic,Yes,No,Yes,Single,No,Bachelor,No,No,Poor,10.0,2.0,1.0,2.0,86.0,Artificial Intelligence,4.0,Data Science,1.57,2.65,135,False,89000.0
+1010,2020.0,Male,24.0,2019.0,BCSE,No,No,Offline,Yes,Yes,Advance,No,No,No,Single,Yes,Bachelor,No,No,Poor,10.0,3.5,4.0,5.0,100.0,Networking,2.0,Hardware,2.05,3.45,85,False,90000.0
+1011,2021.0,Male,20.0,2020.0,BCSE,No,No,Offline,Yes,Yes,Advance,Yes,No,No,Single,No,Family,No,No,Poor,9.0,3.0,2.0,1.0,67.0,Programming,2.0,UI/UX,2.38,3.47,130,False,90000.0
+1012,2021.0,Female,20.0,2020.0,BCSE,No,No,Offline,Yes,No,Advance,Yes,No,No,In a relationship,Yes,Family,No,No,Average,8.0,2.0,2.0,2.0,100.0,Programming,1.0,UI/UX,2.67,3.73,93,False,90000.0
+1013,2022.0,Male,22.0,2021.0,BCSE,No,No,Offline,Yes,Yes,Intermediate,No,No,Yes,Single,No,Bachelor,No,No,Poor,6.0,3.0,1.0,2.0,100.0,Web development skill(Backend),2.0,Software,1.56,2.67,71,False,90000.0
+1014,2021.0,Male,20.0,2020.0,BCSE,No,No,Offline,Yes,Yes,Advance,Yes,No,Yes,In a relationship,Yes,Family,No,No,Poor,9.0,2.0,2.0,3.0,100.0,Networking,1.0,Hardware,1.91,2.96,109,False,94000.0
+1015,2020.0,Male,24.0,2017.0,BCSE,No,No,Online,Yes,Yes,Intermediate,Yes,No,No,In a relationship,Yes,Family,Yes,No,Poor,9.0,3.0,2.0,2.0,70.0,Networking,2.0,UI/UX,1.89,3.18,113,False,95000.0
+1016,2021.0,Female,20.0,2019.0,BCSE,No,No,Offline,Yes,Yes,Advance,No,No,No,Single,No,Family,No,No,Poor,7.0,4.0,2.0,6.0,100.0,Web development skill(Backend),1.0,UI/UX,2.76,3.88,109,False,95000.0
+1017,2020.0,Female,23.0,2019.0,BCSE,No,No,Offline,Yes,Yes,Intermediate,Yes,No,No,In a relationship,Yes,Bachelor,No,No,Average,11.0,3.0,1.0,3.0,100.0,Programming,2.0,nan,2.76,3.84,144,False,96000.0
+1018,2022.0,Male,20.0,2021.0,BCSE,Yes,No,Offline,Yes,Yes,Advance,Yes,No,No,In a relationship,Yes,Bachelor,No,No,Average,6.0,5.0,3.0,2.0,76.0,Programming,1.0,UI/UX,2.7,3.87,78,False,97000.0
+1019,2019.0,Male,22.0,2019.0,BCSE,No,Yes,Offline,Yes,Yes,Intermediate,No,No,No,Single,No,Family,No,No,Average,11.0,2.0,1.0,3.0,100.0,Programming,2.0,UI/UX,2.56,3.64,143,False,98000.0
+1020,2022.0,Male,20.0,2020.0,BCSE,No,No,Online,Yes,Yes,Intermediate,Yes,No,Yes,In a relationship,No,Family,No,No,Poor,5.0,1.0,1.0,2.0,78.0,Networking,1.0,Hardware,1.81,2.84,71,False,98000.0
+1021,2020.0,Male,24.0,2018.0,BCSE,No,No,Offline,Yes,Yes,Basic,No,No,No,Single,No,Family,Yes,No,Poor,8.0,2.0,4.0,8.0,98.0,Networking,3.0,Hardware,2.53,3.36,76,False,100000.0
+1022,2019.0,Female,23.0,2019.0,BCSE,No,No,Offline,Yes,Yes,Basic,Yes,No,Yes,Single,Yes,Bachelor,No,No,Poor,5.0,2.0,1.0,7.0,90.0,Networking,2.0,Hardware,2.54,3.57,84,False,100000.0
+1023,2019.0,Female,22.0,2019.0,BCSE,No,No,Offline,Yes,Yes,Intermediate,No,No,Yes,Single,Yes,Family,No,No,Poor,6.0,4.0,2.0,4.0,80.0,Programming,1.0,Software,2.45,3.5,16,False,100000.0
+1024,2020.0,Female,21.0,2020.0,BCSE,Yes,Yes,Offline,Yes,Yes,Advance,No,No,No,Single,No,Family,No,No,Good,8.0,8.0,3.0,2.0,100.0,Networking,4.0,UI/UX,2.91,4.0,97,False,100000.0
+1025,2022.0,Male,20.0,2021.0,BCSE,No,No,Offline,Yes,Yes,Intermediate,No,No,Yes,Married,Yes,Family,No,No,Poor,6.0,1.0,2.0,2.0,54.0,Networking,4.0,Hardware,2.67,3.77,78,False,100000.0
+1026,2019.0,Female,22.0,2018.0,BCSE,No,No,Offline,Yes,Yes,Intermediate,No,No,Yes,Single,No,Bachelor,No,No,Poor,11.0,5.0,3.0,8.0,77.0,Machine Learning,2.0,Software,2.33,3.88,144,False,110000.0
+1027,2021.0,Male,24.0,2019.0,BCSE,No,No,Online,Yes,Yes,Basic,Yes,No,No,Married,Yes,Family,No,No,Average,10.0,1.0,2.0,3.0,100.0,Networking,4.0,Hardware,2.87,3.91,140,False,110000.0
+1028,2020.0,Female,20.0,2020.0,BCSE,No,No,Online,Yes,No,Advance,No,No,No,In a relationship,Yes,Bachelor,No,No,Poor,10.0,4.0,2.0,9.0,100.0,Artificial Intelligence,4.0,Hardware,2.09,3.23,119,False,110000.0
+1029,2020.0,Female,25.0,2018.0,BCSE,No,No,Online,Yes,Yes,Intermediate,Yes,No,Yes,Married,Yes,Family,No,No,Poor,9.0,3.0,3.0,3.0,77.0,Networking,2.0,Hardware,1.67,2.73,124,False,112000.0
+1030,2022.0,Female,20.0,2021.0,BCSE,No,No,Online,Yes,Yes,Intermediate,Yes,No,No,In a relationship,Yes,Family,No,No,Poor,5.0,1.0,1.0,10.0,45.0,Cyber security,1.0,Data Science,1.15,2.39,75,False,112000.0
+1031,2022.0,Female,21.0,2021.0,BCSE,No,No,Offline,Yes,Yes,Advance,Yes,No,Yes,Married,No,Family,No,No,Average,5.0,2.0,2.0,3.0,100.0,Web development skill(Frontend),4.0,Software,2.56,3.64,68,False,113000.0
+1032,2021.0,Male,20.0,2020.0,BCSE,No,No,Offline,Yes,No,Basic,No,No,No,Single,No,Bachelor,No,No,Poor,7.0,3.0,2.0,3.0,100.0,Programming,3.0,Software,1.99,2.94,88,False,120000.0
+1033,2023.0,Female,19.0,2021.0,BCSE,Yes,No,Offline,Yes,Yes,Intermediate,No,Yes,No,Single,Yes,Bachelor,No,No,Average,2.0,6.0,4.0,4.0,100.0,Cyber security,3.0,Data Science,2.78,3.8,29,False,120000.0
+1034,2020.0,Male,21.0,2019.0,BCSE,No,No,Offline,Yes,Yes,Intermediate,No,No,No,In a relationship,Yes,Bachelor,No,No,Poor,10.0,3.0,2.0,7.0,100.0,Cyber security,1.0,Hardware,2.21,3.3,137,False,122000.0
+1035,2020.0,Male,20.0,2020.0,BCSE,No,No,Offline,Yes,Yes,Advance,No,No,No,In a relationship,No,Bachelor,No,No,Poor,11.0,3.0,3.0,3.0,100.0,Artificial Intelligence,1.0,Data Science,1.46,2.51,143,False,122000.0
+1036,2020.0,Male,20.0,2020.0,BCSE,Yes,No,Offline,Yes,Yes,Intermediate,Yes,No,No,Single,No,Bachelor,Yes,No,Poor,10.0,2.0,2.0,2.0,64.0,Networking,4.0,Hardware,2.67,3.78,136,False,127000.0
+1037,2020.0,Male,21.0,2018.0,BCSE,No,No,Online,Yes,No,Intermediate,No,No,Yes,Single,No,Bachelor,No,No,Poor,9.0,5.0,3.0,7.0,100.0,Networking,2.0,Hardware,2.32,3.78,123,False,130000.0
+1038,2022.0,Female,21.0,2020.0,BCSE,No,No,Offline,Yes,Yes,Intermediate,No,No,No,Married,Yes,Family,No,No,Poor,4.0,4.0,2.0,7.0,79.0,Artificial Intelligence,3.0,Hardware,2.22,3.41,59,False,133000.0
+1039,2022.0,Female,20.0,2020.0,BCSE,No,No,Offline,Yes,Yes,Intermediate,No,No,Yes,Single,No,Bachelor,No,No,Poor,3.0,4.0,2.0,7.0,80.0,Programming,1.0,UI/UX,1.88,2.97,29,False,140000.0
+1040,2020.0,Male,20.0,2020.0,BCSE,No,No,Online,Yes,Yes,Basic,Yes,No,No,Married,No,Bachelor,No,No,Poor,10.0,2.0,1.0,3.0,73.0,Networking,2.0,Hardware,1.45,2.52,135,False,140000.0
+1041,2020.0,Male,25.0,2018.0,BCSE,No,No,Offline,Yes,Yes,Advance,Yes,No,No,Single,Yes,Family,No,No,Poor,9.0,3.0,1.0,2.0,87.0,Networking,4.0,Hardware,1.54,2.62,121,False,144000.0
+1042,2021.0,Male,20.0,2020.0,BCSE,No,No,Offline,Yes,Yes,Intermediate,No,No,Yes,Single,Yes,Family,No,No,Average,8.0,3.0,3.0,3.0,100.0,Networking,1.0,Hardware,2.78,3.86,89,False,145000.0
+1043,2019.0,Male,21.0,2018.0,BCSE,No,No,Offline,Yes,Yes,Intermediate,No,No,No,Single,No,Bachelor,No,No,Poor,11.0,2.0,2.0,3.0,80.0,Programming,4.0,UI/UX,2.1,3.41,139,False,150000.0
+1044,2020.0,Male,24.0,2019.0,BCSE,No,No,Offline,Yes,No,Advance,Yes,No,Yes,Single,No,Family,No,No,Average,11.0,2.0,3.0,2.0,100.0,Networking,1.0,Hardware,2.57,3.63,144,False,150000.0
+1045,2022.0,Female,19.0,2021.0,BCSE,No,No,Offline,Yes,Yes,Intermediate,No,No,No,In a relationship,Yes,Family,No,No,Poor,4.0,5.0,2.0,4.0,100.0,Artificial Intelligence,1.0,Software,2.44,3.59,68,False,155000.0
+1046,2019.0,Male,23.0,2019.0,BCSE,No,No,Online,Yes,Yes,Basic,Yes,Yes,No,Married,No,Family,No,No,Poor,10.0,3.0,1.0,2.0,78.0,Networking,1.0,Hardware,1.67,2.77,139,False,160000.0
+1047,2021.0,Female,21.0,2020.0,BCSE,No,No,Online,Yes,Yes,Advance,No,No,No,In a relationship,Yes,Bachelor,No,No,Poor,6.0,3.0,3.0,5.0,100.0,Artificial Intelligence,1.0,Hardware,1.55,2.61,92,False,165000.0
+1048,2021.0,Female,20.0,2020.0,BCSE,No,No,Offline,Yes,Yes,Intermediate,Yes,No,No,Single,Yes,Family,Yes,No,Poor,9.0,2.0,1.0,2.0,100.0,Cyber security,1.0,Data Science,2.34,3.42,103,False,165000.0
+1049,2021.0,Male,20.0,2020.0,BCSE,No,No,Offline,Yes,Yes,Basic,Yes,No,No,Single,Yes,Family,No,No,Poor,7.0,2.0,1.0,6.0,80.0,Web development skill(Backend),2.0,Hardware,1.54,2.95,90,False,169000.0
+1050,2020.0,Male,21.0,2020.0,BCSE,No,No,Offline,Yes,Yes,Basic,No,No,Yes,In a relationship,No,Family,No,No,Poor,5.0,4.0,3.0,5.0,70.0,Web development skill(Backend),2.0,Software,2.0,3.03,71,False,170000.0
+1051,2020.0,Female,21.0,2018.0,BCSE,No,No,Online,Yes,Yes,Intermediate,Yes,No,Yes,In a relationship,No,Family,No,No,Poor,9.0,2.0,1.0,10.0,50.0,Cyber security,2.0,Hardware,1.35,2.66,105,False,200000.0
+1052,2020.0,Female,20.0,2019.0,BCSE,No,No,Offline,Yes,Yes,Basic,No,No,Yes,Single,No,Family,No,Yes,Average,7.0,6.0,5.0,3.0,100.0,Programming,4.0,Software,2.64,3.34,70,False,200000.0
+1053,2020.0,Female,22.0,2019.0,BCSE,No,No,Offline,Yes,Yes,Intermediate,Yes,No,No,In a relationship,No,Bachelor,No,No,Poor,9.0,3.0,4.0,8.0,50.0,Cyber security,1.0,UI/UX,1.7,3.0,95,False,200000.0
+1054,2020.0,Female,22.0,2019.0,BCSE,No,No,Online,Yes,Yes,Intermediate,No,No,No,In a relationship,No,Family,No,No,Poor,10.0,3.0,2.0,7.0,88.0,Web development skill(Frontend),5.0,Networking,2.9,3.93,125,False,200000.0
+1055,2020.0,Female,21.0,2020.0,BCSE,No,No,Offline,Yes,Yes,Advance,No,No,Yes,Single,No,Bachelor,No,No,Poor,10.0,5.0,2.0,6.0,80.0,Programming,3.0,UI/UX,1.9,3.1,99,False,200000.0
+1056,2020.0,Male,22.0,2019.0,BCSE,No,No,Offline,Yes,Yes,Intermediate,No,No,No,Single,No,Bachelor,No,No,Poor,10.0,3.0,2.0,9.0,75.0,Cyber security,2.0,Hardware,2.01,3.08,126,False,250000.0
+1057,2021.0,Female,20.0,2021.0,BCSE,Yes,No,Offline,Yes,Yes,Advance,No,No,Yes,Single,No,Family,No,No,Poor,7.0,5.0,4.0,2.0,100.0,Programming,4.0,UI/UX,2.33,3.89,104,False,277000.0
+1058,2020.0,Male,20.0,2020.0,BCSE,Yes,Yes,Online,Yes,Yes,Advance,No,No,No,Single,No,Family,No,No,Poor,7.0,6.0,2.0,4.0,70.0,Programming,3.0,Software,1.6,2.9,30,False,20000.0
+1059,2020.0,Male,23.0,2019.0,BCSE,Yes,Yes,Online,Yes,Yes,Intermediate,No,No,No,Single,No,Family,No,No,Average,11.0,4.0,6.0,3.0,96.0,Networking,3.0,Data Science,2.67,3.4,140,False,30000.0
+1060,2022.0,Male,21.0,2021.0,BCSE,No,Yes,Online,Yes,Yes,Intermediate,No,No,Yes,Single,Yes,Bachelor,No,No,Poor,5.0,2.0,1.0,1.0,95.0,Web development skill(Backend),4.0,Software,1.05,2.8,18,False,30000.0
+1061,2022.0,Female,21.0,2021.0,BCSE,No,Yes,Offline,Yes,No,Advance,Yes,No,Yes,In a relationship,Yes,Bachelor,No,No,Poor,6.0,2.0,2.0,3.0,100.0,Programming,2.0,UI/UX,1.47,2.54,88,False,32000.0
+1062,2022.0,Male,23.0,2020.0,BCSE,No,Yes,Offline,Yes,Yes,Basic,Yes,No,Yes,Single,Yes,Bachelor,No,Yes,Poor,5.0,7.0,5.0,1.0,100.0,Programming,3.0,Software,1.58,1.42,14,False,35000.0
+1063,2021.0,Male,23.0,2020.0,BCSE,No,Yes,Offline,Yes,Yes,Basic,No,No,No,Single,Yes,Bachelor,No,No,Poor,5.0,6.0,5.0,4.0,90.0,Web development skill(Backend),5.0,Software,2.45,2.39,40,False,35000.0
+1064,2021.0,Male,19.0,2021.0,BCSE,No,Yes,Online,Yes,Yes,Advance,No,No,No,Single,No,Family,No,No,Poor,8.0,3.0,3.0,2.0,89.0,Cyber security,4.0,Data Science,1.87,2.8,136,False,35000.0
+1065,2020.0,Male,21.0,2019.0,BCSE,No,Yes,Online,Yes,Yes,Intermediate,No,No,No,Single,No,Family,No,No,Poor,9.0,3.0,2.0,8.0,70.0,Programming,1.0,Software,2.33,3.47,128,False,37000.0
+1066,2020.0,Male,24.0,2019.0,BCSE,No,Yes,Offline,Yes,Yes,Advance,Yes,No,No,In a relationship,No,Bachelor,No,No,Average,11.0,1.0,3.0,2.0,100.0,Cyber security,2.0,Data Science,2.9,3.92,144,False,37000.0
+1067,2021.0,Female,19.0,2021.0,BCSE,No,Yes,Offline,Yes,Yes,Advance,Yes,No,No,Single,No,Bachelor,No,No,Poor,6.0,3.0,1.0,5.0,60.0,Cyber security,3.0,Data Science,1.78,2.63,97,False,37000.0
+1068,2020.0,Female,21.0,2019.0,BCSE,No,Yes,Offline,Yes,Yes,Advance,No,No,No,Single,No,Family,No,No,Poor,11.0,4.0,2.0,7.0,100.0,Cyber security,2.0,Software,2.77,3.91,139,False,38000.0
+1069,2021.0,Female,22.0,2021.0,BCSE,No,Yes,Offline,Yes,Yes,Advance,No,No,No,In a relationship,No,Family,No,No,Poor,7.0,4.0,2.0,5.0,100.0,Cyber security,2.0,Hardware,1.98,3.03,111,False,39000.0
+1070,2020.0,Male,23.0,2018.0,BCSE,No,Yes,Online,Yes,Yes,Basic,No,No,Yes,In a relationship,Yes,Bachelor,No,No,Poor,11.0,5.0,2.0,11.0,35.0,Programming,2.0,Software,1.43,2.65,107,False,40000.0
+1071,2021.0,Male,20.0,2020.0,BCSE,Yes,Yes,Offline,Yes,Yes,Advance,No,No,No,Single,No,Family,No,No,Average,9.0,5.0,4.0,3.0,100.0,Cyber security,3.0,Software,2.77,3.96,129,False,42000.0
+1072,2020.0,Female,20.0,2020.0,BCSE,Yes,Yes,Online,Yes,Yes,Advance,Yes,No,No,Married,No,Family,No,No,Poor,11.0,2.0,2.0,3.0,43.0,Networking,4.0,Hardware,2.81,3.9,144,False,43000.0
+1073,2020.0,Female,21.0,2019.0,BCSE,No,Yes,Online,Yes,Yes,Intermediate,No,No,No,In a relationship,No,Bachelor,Yes,No,Poor,11.0,3.0,1.0,3.0,70.0,Programming,2.0,Software,2.1,3.2,137,False,45000.0
+1074,2020.0,Female,25.0,2019.0,BCSE,No,Yes,Offline,Yes,Yes,Intermediate,Yes,No,No,In a relationship,Yes,Bachelor,No,No,Poor,11.0,2.0,2.0,2.0,67.0,Machine Learning,4.0,Data Science,1.87,2.92,144,False,45000.0
+1075,2022.0,Female,22.0,2020.0,BCSE,Yes,Yes,Offline,Yes,Yes,Intermediate,No,No,Yes,Single,Yes,Family,Yes,No,Poor,5.0,1.0,2.0,7.0,100.0,Programming,1.0,Software,2.58,3.74,39,False,45000.0
+1076,2021.0,Female,22.0,2021.0,BCSE,No,Yes,Offline,Yes,Yes,Intermediate,Yes,No,Yes,In a relationship,No,Bachelor,No,No,Poor,6.0,3.0,1.0,7.0,80.0,Cyber security,2.0,Hardware,1.77,2.82,109,False,45000.0
+1077,2018.0,Male,24.0,2018.0,BCSE,No,Yes,Offline,Yes,Yes,Intermediate,Yes,No,Yes,Single,No,Family,No,No,Poor,11.0,3.0,1.0,7.0,88.0,Artificial Intelligence,3.0,Hardware,2.16,3.33,143,False,46000.0
+1078,2020.0,Female,23.0,2018.0,BCSE,Yes,Yes,Offline,Yes,No,Advance,No,No,No,Single,Yes,Family,Yes,No,Average,11.0,1.0,1.0,2.0,100.0,Programming,3.0,Hardware,2.53,3.81,132,False,50000.0
+1079,2022.0,Male,23.0,2020.0,BCSE,No,Yes,Offline,Yes,Yes,Advance,No,No,Yes,In a relationship,No,Family,No,No,Average,8.0,3.0,4.0,3.0,98.0,Web development skill(Frontend),2.0,Software,2.75,3.64,18,False,50000.0
+1080,2020.0,Female,20.0,2020.0,BCSE,No,Yes,Online,Yes,Yes,Advance,No,No,Yes,Single,Yes,Family,No,No,Poor,9.0,3.0,2.0,7.0,70.0,Web development skill(Backend),1.0,UI/UX,2.01,3.15,131,False,50000.0
+1081,2021.0,Female,20.0,2020.0,BCSE,Yes,Yes,Online,Yes,Yes,Intermediate,No,No,Yes,Single,Yes,Family,No,No,Average,9.0,6.0,3.0,3.0,76.0,Artificial Intelligence,3.0,Hardware,2.77,3.8,129,False,50000.0
+1082,2019.0,Female,22.0,2018.0,BCSE,No,Yes,Online,Yes,Yes,Intermediate,No,No,No,Single,No,Bachelor,No,No,Poor,11.0,3.0,2.0,11.0,80.0,Web development skill(Backend),2.0,UI/UX,2.04,3.16,143,False,51000.0
+1083,2021.0,Male,20.0,2020.0,BCSE,Yes,Yes,Online,Yes,Yes,Intermediate,No,No,Yes,Single,No,Family,No,No,Poor,7.0,5.0,3.0,4.0,55.0,Cyber security,2.0,Data Science,2.01,3.13,101,False,51000.0
+1084,2021.0,Female,20.0,2020.0,BCSE,No,Yes,Online,Yes,Yes,Basic,No,No,Yes,In a relationship,Yes,Bachelor,No,No,Poor,8.0,3.0,2.0,3.0,24.0,Programming,4.0,UI/UX,1.87,2.93,117,False,52000.0
+1085,2020.0,Male,24.0,2019.0,BCSE,Yes,Yes,Offline,Yes,Yes,Advance,No,No,No,Married,Yes,Family,No,No,Poor,10.0,6.0,2.0,3.0,100.0,Cyber security,1.0,Data Science,2.02,3.11,134,False,53000.0
+1086,2021.0,Male,21.0,2021.0,BCSE,No,Yes,Offline,Yes,Yes,Intermediate,No,No,Yes,In a relationship,Yes,Bachelor,No,No,Poor,9.0,4.0,2.0,6.0,70.0,Programming,2.0,UI/UX,1.98,2.97,105,False,53000.0
+1087,2020.0,Male,21.0,2019.0,BCSE,No,Yes,Online,Yes,Yes,Advance,No,No,No,Single,Yes,Family,No,No,Average,9.0,3.0,2.0,5.0,100.0,Cyber security,1.0,Software,2.56,3.79,132,False,55000.0
+1088,2019.0,Male,23.0,2019.0,BCSE,No,Yes,Online,Yes,Yes,Intermediate,Yes,No,No,Married,Yes,Family,No,No,Poor,11.0,3.0,1.0,2.0,100.0,Networking,1.0,Hardware,1.54,2.66,143,False,55000.0
+1089,2020.0,Male,23.0,2019.0,BCSE,No,Yes,Offline,Yes,Yes,Intermediate,No,No,No,Single,Yes,Bachelor,No,No,Poor,11.0,3.0,3.0,1.0,100.0,Programming,1.0,Software,1.56,2.65,143,False,55000.0
+1090,2022.0,Female,20.0,2020.0,BCSE,No,Yes,Offline,Yes,Yes,Basic,No,No,Yes,In a relationship,Yes,Family,No,No,Poor,6.0,3.0,2.0,3.0,30.0,Networking,1.0,Hardware,1.88,2.98,77,False,55000.0
+1091,2020.0,Male,22.0,2020.0,BCSE,No,Yes,Offline,Yes,No,Intermediate,No,No,No,Single,No,Bachelor,Yes,No,Average,10.0,1.0,2.0,2.0,100.0,Web development skill(Backend),2.0,Data Science,2.76,3.8,136,False,55000.0
+1092,2022.0,Female,20.0,2021.0,BCSE,No,Yes,Offline,Yes,Yes,Intermediate,No,No,Yes,Single,Yes,Bachelor,No,No,Poor,4.0,3.0,2.0,2.0,85.0,Programming,2.0,Data Science,1.56,2.97,67,False,55000.0
+1093,2019.0,Female,21.0,2018.0,BCSE,No,Yes,Online,Yes,Yes,Intermediate,Yes,No,No,In a relationship,Yes,Bachelor,Yes,No,Poor,10.0,1.0,1.0,9.0,57.0,Cyber security,1.0,Hardware,1.24,2.35,137,False,56000.0
+1094,2020.0,Female,21.0,2019.0,BCSE,No,Yes,Online,Yes,Yes,Advance,No,No,Yes,Single,Yes,Family,No,No,Poor,10.0,5.0,2.0,4.0,90.0,Machine Learning,2.0,Software,1.95,2.92,139,False,58000.0
+1095,2021.0,Female,21.0,2021.0,BCSE,No,Yes,Offline,Yes,Yes,Advance,Yes,No,No,Married,Yes,Family,Yes,No,Poor,9.0,1.0,1.0,2.0,50.0,Cyber security,2.0,Data Science,1.65,2.7,139,False,59000.0
+1096,2018.0,Female,24.0,2016.0,BCSE,No,Yes,Online,Yes,Yes,Intermediate,Yes,No,No,Married,No,Family,No,No,Poor,8.0,3.0,2.0,8.0,89.0,Networking,1.0,Data Science,1.11,2.35,95,False,60000.0
+1097,2020.0,Female,24.0,2018.0,BCSE,No,Yes,Offline,Yes,Yes,Intermediate,No,No,No,Single,No,Bachelor,No,No,Poor,9.0,1.0,2.0,8.0,70.0,Networking,2.0,Hardware,1.71,2.82,118,False,60000.0
+1098,2020.0,Male,23.0,2019.0,BCSE,Yes,Yes,Online,Yes,Yes,Intermediate,Yes,No,Yes,In a relationship,Yes,Bachelor,No,No,Poor,11.0,4.0,2.0,5.0,95.0,Networking,5.0,Data Science,1.33,2.99,104,False,60000.0
+1099,2021.0,Female,20.0,2020.0,BCSE,No,Yes,Offline,Yes,No,Intermediate,Yes,No,Yes,In a relationship,Yes,Bachelor,No,No,Average,9.0,2.0,1.0,3.0,100.0,Artificial Intelligence,2.0,Data Science,2.56,3.63,106,False,60000.0
+1100,2022.0,Male,22.0,2022.0,BCSE,Yes,Yes,Offline,Yes,Yes,Intermediate,No,No,No,Single,No,Bachelor,No,No,Average,3.0,4.0,2.0,3.0,100.0,Web development skill(Frontend),2.0,UI/UX,2.81,3.97,51,False,60000.0
+1101,2020.0,Female,21.0,2020.0,BCSE,Yes,Yes,Offline,Yes,Yes,Advance,No,No,No,In a relationship,No,Bachelor,No,No,Average,10.0,2.0,1.0,1.0,100.0,Artificial Intelligence,1.0,nan,2.73,3.81,135,False,61000.0
+1102,2021.0,Female,19.0,2021.0,BCSE,No,Yes,Offline,Yes,Yes,Intermediate,No,No,No,In a relationship,No,Family,No,No,Poor,6.0,7.0,3.0,3.0,89.0,Programming,1.0,UI/UX,1.88,2.9,132,False,64000.0
+1103,2022.0,Male,23.0,2020.0,BCSE,Yes,Yes,Online,Yes,Yes,Basic,No,No,No,Single,Yes,Family,No,No,Poor,5.0,2.0,3.0,3.0,90.0,Networking,3.0,Hardware,2.33,3.68,43,False,65000.0
+1104,2019.0,Male,24.0,2018.0,BCSE,No,Yes,Online,Yes,Yes,Intermediate,No,No,Yes,Single,No,Bachelor,Yes,No,Poor,11.0,3.0,2.0,5.0,100.0,Web development skill(Frontend),2.0,Software,2.22,3.45,132,False,66000.0
+1105,2021.0,Male,20.0,2020.0,BCSE,No,Yes,Offline,Yes,Yes,Advance,No,No,No,Single,No,Bachelor,No,No,Poor,9.0,2.0,1.0,3.0,45.0,Networking,2.0,Hardware,1.45,2.53,117,False,66000.0
+1106,2022.0,Female,20.0,2021.0,BCSE,No,Yes,Online,Yes,Yes,Intermediate,No,No,No,Single,Yes,Bachelor,Yes,No,Poor,5.0,4.0,2.0,3.0,100.0,Programming,1.0,Software,1.76,2.82,62,False,66000.0
+1107,2022.0,Female,20.0,2021.0,BCSE,Yes,Yes,Offline,Yes,Yes,Intermediate,No,No,Yes,Single,Yes,Family,Yes,No,Average,5.0,5.0,3.0,3.0,100.0,Web development skill(Backend),2.0,Software,2.66,3.79,58,False,67000.0
+1108,2020.0,Female,25.0,2019.0,BCSE,No,Yes,Offline,Yes,Yes,Intermediate,Yes,No,Yes,In a relationship,Yes,Bachelor,No,No,Poor,11.0,2.0,2.0,2.0,43.0,Networking,2.0,Hardware,2.55,3.6,143,False,68000.0
+1109,2020.0,Female,21.0,2020.0,BCSE,No,Yes,Offline,Yes,Yes,Intermediate,No,No,Yes,Married,No,Family,No,No,Average,11.0,4.0,2.0,3.0,87.0,Networking,4.0,Hardware,2.71,3.78,143,False,68000.0
+1110,2022.0,Female,20.0,2021.0,BCSE,No,Yes,Offline,Yes,Yes,Intermediate,No,No,No,In a relationship,No,Bachelor,Yes,No,Poor,5.0,3.0,1.0,8.0,88.0,Web development skill(Frontend),3.0,UI/UX,2.22,3.19,87,False,68000.0
+1111,2021.0,Male,21.0,2021.0,BCSE,No,Yes,Online,Yes,Yes,Intermediate,Yes,Yes,No,In a relationship,Yes,Bachelor,No,No,Poor,4.0,1.0,1.0,7.0,80.0,Machine Learning,1.0,Software,1.95,2.88,43,False,68000.0
+1112,2021.0,Female,22.0,2018.0,BCSE,Yes,Yes,Online,Yes,Yes,Intermediate,No,No,Yes,Single,No,Family,No,No,Average,6.0,2.0,2.0,1.0,100.0,Web development skill(Frontend),2.0,Data Science,2.77,3.56,56,False,70000.0
+1113,2019.0,Male,21.0,2018.0,BCSE,Yes,Yes,Offline,Yes,Yes,Advance,No,No,No,Single,Yes,Bachelor,No,No,Average,8.0,7.0,2.0,2.0,100.0,Machine Learning,2.0,Hardware,2.75,3.93,125,False,70000.0
+1114,2021.0,Female,21.0,2020.0,BCSE,Yes,Yes,Offline,Yes,Yes,Intermediate,No,No,Yes,Single,No,Bachelor,No,No,Poor,6.0,6.0,5.0,6.0,100.0,Networking,6.0,Software,2.61,3.78,35,False,70000.0
+1115,2020.0,Female,22.0,2020.0,BCSE,No,Yes,Online,Yes,Yes,Advance,Yes,No,Yes,In a relationship,No,Family,No,No,Poor,7.0,6.0,2.0,4.0,30.0,Cyber security,1.0,UI/UX,1.35,2.65,105,False,70000.0
+1116,2020.0,Male,20.0,2020.0,BCSE,No,Yes,Offline,Yes,Yes,Advance,Yes,No,No,In a relationship,No,Bachelor,No,No,Poor,10.0,1.0,3.0,2.0,87.0,Networking,1.0,Hardware,2.44,3.56,135,False,70000.0
+1117,2022.0,Female,20.0,2021.0,BCSE,No,Yes,Offline,Yes,Yes,Advance,No,No,Yes,In a relationship,Yes,Bachelor,Yes,No,Poor,6.0,4.0,3.0,2.0,100.0,Web development skill(Frontend),1.0,Software,1.56,2.64,78,False,70000.0
+1118,2022.0,Female,20.0,2021.0,BCSE,No,Yes,Offline,Yes,Yes,Advance,No,No,Yes,In a relationship,No,Bachelor,No,No,Poor,5.0,3.0,3.0,2.0,100.0,Networking,1.0,Hardware,1.76,2.84,58,False,70000.0
+1119,2022.0,Female,20.0,2020.0,BCSE,No,Yes,Offline,Yes,Yes,Intermediate,No,No,Yes,In a relationship,Yes,Family,No,No,Poor,4.0,5.0,3.0,6.0,70.0,Web development skill(Frontend),2.0,Software,1.9,3.13,89,False,71000.0
+1120,2021.0,Male,21.0,2020.0,BCSE,No,Yes,Offline,Yes,Yes,Intermediate,No,No,Yes,Single,No,Family,No,No,Poor,6.0,4.0,2.0,6.0,100.0,Programming,3.0,UI/UX,1.99,3.05,79,False,71000.0
+1121,2022.0,Female,21.0,2021.0,BCSE,No,Yes,Offline,Yes,Yes,Intermediate,Yes,No,No,In a relationship,No,Family,No,No,Poor,7.0,1.0,2.0,2.0,56.0,Artificial Intelligence,2.0,Data Science,2.43,3.55,107,False,71000.0
+1122,2019.0,Female,23.0,2019.0,BCSE,No,Yes,Offline,Yes,Yes,Basic,No,No,No,Single,No,Bachelor,Yes,No,Poor,10.0,5.0,1.0,2.0,91.0,Programming,2.0,Software,1.67,2.74,137,False,74000.0
+1123,2020.0,Female,20.0,2020.0,BCSE,Yes,Yes,Offline,Yes,Yes,Intermediate,Yes,No,No,Married,No,Family,No,No,Average,11.0,4.0,1.0,2.0,100.0,Networking,1.0,Hardware,2.78,3.83,143,False,74000.0
+1124,2020.0,Male,22.0,2019.0,BCSE,Yes,Yes,Offline,Yes,Yes,Advance,No,No,No,Single,No,Bachelor,Yes,No,Poor,9.0,3.0,4.0,6.0,100.0,Programming,3.0,UI/UX,1.81,2.95,137,False,75000.0
+1125,2020.0,Male,20.0,2020.0,BCSE,Yes,Yes,Offline,Yes,Yes,Advance,No,No,No,Single,Yes,Family,No,No,Good,11.0,7.0,4.0,2.0,100.0,Cyber security,3.0,Data Science,2.91,3.97,139,False,75000.0
+1126,2023.0,Male,19.0,2022.0,BCSE,No,Yes,Online,Yes,Yes,Basic,No,No,No,Single,No,Bachelor,No,No,Average,2.0,3.0,1.0,5.0,100.0,Cyber security,1.0,UI/UX,2.65,3.57,27,False,75000.0
+1127,2019.0,Male,24.0,2018.0,BCSE,No,Yes,Online,Yes,Yes,Intermediate,No,No,Yes,Single,No,Family,Yes,No,Poor,11.0,4.0,2.0,6.0,77.0,Cyber security,2.0,Data Science,2.23,3.65,145,False,76000.0
+1128,2020.0,Female,21.0,2019.0,BCSE,No,Yes,Online,Yes,Yes,Basic,No,No,No,Single,No,Family,Yes,No,Poor,7.0,3.0,1.0,6.0,86.0,Web development skill(Backend),3.0,Software,2.13,3.28,98,False,77000.0
+1129,2019.0,Male,23.0,2019.0,BCSE,Yes,Yes,Offline,Yes,Yes,Intermediate,No,No,Yes,Single,Yes,Family,No,No,Average,11.0,5.0,3.0,5.0,100.0,Machine Learning,2.0,Software,2.66,3.85,145,False,77000.0
+1130,2020.0,Female,20.0,2020.0,BCSE,No,Yes,Online,Yes,No,Intermediate,No,No,Yes,Single,Yes,Family,No,No,Average,11.0,3.0,3.0,3.0,100.0,Web development skill(Frontend),4.0,Software,2.87,3.9,143,False,77000.0
+1131,2022.0,Female,20.0,2021.0,BCSE,No,Yes,Online,Yes,Yes,Intermediate,No,No,Yes,In a relationship,Yes,Bachelor,Yes,No,Poor,7.0,2.0,2.0,3.0,67.0,Networking,3.0,Hardware,2.65,3.75,95,False,77000.0
+1132,2021.0,Female,22.0,2021.0,BCSE,No,Yes,Online,Yes,No,Intermediate,No,No,No,In a relationship,Yes,Family,No,No,Poor,10.0,2.0,3.0,1.0,100.0,Web development skill(Backend),2.0,Software,1.38,2.51,134,False,77000.0
+1133,2019.0,Male,25.0,2018.0,BCSE,Yes,Yes,Online,Yes,No,Intermediate,No,No,Yes,Married,No,Family,No,No,Poor,11.0,5.0,3.0,12.0,100.0,Machine Learning,2.0,UI/UX,2.19,3.45,103,False,78000.0
+1134,2020.0,Female,20.0,2019.0,BCSE,No,Yes,Offline,Yes,No,Intermediate,No,No,No,Single,No,Family,No,No,Poor,8.0,3.0,1.0,6.0,80.0,Web development skill(Backend),3.0,Data Science,2.11,3.46,101,False,78000.0
+1135,2020.0,Female,25.0,2019.0,BCSE,No,Yes,Offline,Yes,Yes,Basic,Yes,No,No,Married,Yes,Family,No,No,Poor,11.0,1.0,2.0,2.0,67.0,Machine Learning,4.0,Data Science,1.78,2.8,143,False,78000.0
+1136,2021.0,Female,19.0,2021.0,BCSE,No,Yes,Offline,Yes,Yes,Intermediate,No,No,No,Single,No,Bachelor,No,No,Poor,7.0,3.0,2.0,5.0,100.0,Artificial Intelligence,2.0,Hardware,2.45,3.76,100,False,78000.0
+1137,2021.0,Male,20.0,2020.0,BCSE,No,Yes,Offline,Yes,Yes,Intermediate,Yes,No,No,Single,Yes,Family,No,No,Average,10.0,2.0,3.0,2.0,100.0,Networking,4.0,Hardware,2.67,3.7,132,False,79000.0
+1138,2021.0,Male,21.0,2021.0,BCSE,Yes,Yes,Online,Yes,Yes,Basic,Yes,No,Yes,In a relationship,Yes,Family,No,No,Average,9.0,3.0,3.0,2.0,100.0,Programming,2.0,Data Science,2.61,3.77,123,False,79000.0
+1139,2020.0,Female,25.0,2018.0,BCSE,Yes,Yes,Online,Yes,Yes,Intermediate,No,No,Yes,Married,No,Family,No,No,Poor,12.0,6.0,4.0,6.0,80.0,Web development skill(Frontend),3.0,Software,1.61,2.81,133,False,80000.0
+1140,2020.0,Male,23.0,2019.0,BCSE,No,Yes,Offline,Yes,Yes,Basic,No,No,Yes,Married,No,Bachelor,No,No,Average,9.0,1.0,1.0,5.0,100.0,Networking,1.0,Hardware,2.89,3.89,102,False,80000.0
+1141,2021.0,Female,20.0,2020.0,BCSE,No,Yes,Offline,Yes,Yes,Basic,Yes,No,No,Married,Yes,Family,No,No,Poor,9.0,2.0,2.0,3.0,100.0,Cyber security,4.0,Data Science,1.68,2.71,101,False,80000.0
+1142,2020.0,Male,20.0,2020.0,BCSE,No,Yes,Offline,Yes,Yes,Advance,No,No,Yes,In a relationship,Yes,Bachelor,No,No,Poor,11.0,1.0,1.0,3.0,100.0,Cyber security,2.0,Data Science,1.63,2.7,143,False,80000.0
+1143,2021.0,Male,20.0,2021.0,BCSE,No,Yes,Offline,Yes,Yes,Advance,No,No,Yes,In a relationship,No,Family,No,No,Poor,7.0,2.0,1.0,2.0,95.0,Machine Learning,3.0,Software,1.56,2.64,97,False,80000.0
+1144,2020.0,Male,20.0,2020.0,BCSE,No,Yes,Offline,Yes,Yes,Intermediate,Yes,No,Yes,In a relationship,Yes,Bachelor,No,No,Average,11.0,4.0,1.0,2.0,100.0,Artificial Intelligence,4.0,Data Science,2.75,3.8,143,False,81000.0
+1145,2020.0,Male,22.0,2018.0,BCSE,Yes,Yes,Offline,Yes,No,Advance,No,No,No,Single,No,Family,No,No,Average,7.0,6.0,3.0,3.0,100.0,Web development skill(Backend),3.0,Software,2.56,3.95,115,False,85000.0
+1146,2020.0,Female,22.0,2020.0,BCSE,No,Yes,Offline,Yes,Yes,Intermediate,Yes,No,No,Married,No,Family,No,No,Average,11.0,2.0,3.0,1.0,100.0,Web development skill(Backend),4.0,Software,2.56,3.66,143,False,86000.0
+1147,2019.0,Male,24.0,2018.0,BCSE,No,Yes,Offline,Yes,Yes,Intermediate,Yes,No,No,Single,Yes,Bachelor,No,No,Poor,11.0,5.0,2.0,3.0,89.0,Networking,4.0,Hardware,1.76,2.89,143,False,87000.0
+1148,2020.0,Male,23.0,2019.0,BCSE,No,Yes,Offline,Yes,Yes,Intermediate,Yes,No,No,Single,Yes,Bachelor,No,No,Average,10.0,2.0,2.0,3.0,79.0,Networking,1.0,Hardware,2.87,3.91,139,False,88000.0
+1149,2022.0,Male,20.0,2021.0,BCSE,No,Yes,Offline,Yes,Yes,Basic,No,No,No,In a relationship,Yes,Bachelor,No,No,Poor,7.0,3.0,1.0,2.0,50.0,Artificial Intelligence,4.0,Data Science,1.56,2.63,88,False,88000.0
+1150,2019.0,Male,21.0,2018.0,BCSE,Yes,Yes,Offline,Yes,Yes,Intermediate,No,No,Yes,In a relationship,Yes,Bachelor,Yes,No,Average,11.0,2.0,1.0,4.0,100.0,Machine Learning,2.0,Data Science,2.57,3.88,145,False,89000.0
+1151,2019.0,Male,25.0,2018.0,BCSE,No,Yes,Online,Yes,Yes,Advance,No,No,No,Single,Yes,Family,No,No,Poor,11.0,4.0,2.0,3.0,81.0,Artificial Intelligence,2.0,Data Science,1.5,2.63,143,False,89000.0
+1152,2021.0,Female,20.0,2020.0,BCSE,No,Yes,Offline,Yes,Yes,Intermediate,No,No,No,Single,No,Bachelor,No,No,Average,10.0,3.0,3.0,1.0,100.0,Machine Learning,2.0,Data Science,2.55,3.6,135,False,89000.0
+1153,2022.0,Female,19.0,2021.0,BCSE,Yes,Yes,Offline,Yes,Yes,Advance,No,No,Yes,Single,Yes,Family,No,No,Average,4.0,5.0,2.0,4.0,100.0,Machine Learning,2.0,Hardware,2.56,3.89,29,False,89000.0
+1154,2019.0,Male,24.0,2019.0,BCSE,Yes,Yes,Online,Yes,No,Advance,No,No,Yes,Single,Yes,Family,No,No,Average,11.0,6.0,3.0,2.0,100.0,Artificial Intelligence,1.0,Hardware,2.87,3.94,143,False,90000.0
+1155,2019.0,Female,24.0,2019.0,BCSE,No,No,Offline,Yes,No,Advance,No,No,Yes,Single,Yes,Bachelor,No,No,Poor,11.0,1.0,2.0,5.0,100.0,Networking,2.0,Hardware,2.48,3.78,144,False,90000.0
+1156,2021.0,Male,24.0,2019.0,BCSE,No,Yes,Offline,Yes,Yes,Advance,No,No,No,Single,No,Bachelor,No,No,Poor,6.0,1.0,1.0,10.0,90.0,Networking,1.0,Hardware,1.35,2.65,98,False,90000.0
+1157,2020.0,Male,22.0,2020.0,BCSE,No,Yes,Online,Yes,Yes,Advance,No,No,No,Single,No,Family,No,No,Poor,7.0,5.0,2.0,8.0,100.0,Web development skill(Frontend),2.0,UI/UX,1.56,2.98,99,False,90000.0
+1158,2021.0,Female,20.0,2020.0,BCSE,No,Yes,Offline,Yes,Yes,Intermediate,Yes,No,Yes,Single,Yes,Family,No,No,Poor,8.0,4.0,3.0,4.0,65.0,Artificial Intelligence,2.0,nan,1.66,2.45,105,False,90000.0
+1159,2022.0,Male,20.0,2021.0,BCSE,No,Yes,Offline,Yes,No,Advance,No,No,Yes,In a relationship,No,Family,Yes,No,Poor,5.0,2.0,2.0,3.0,100.0,Web development skill(Backend),2.0,Software,1.86,2.91,60,False,93000.0
+1160,2023.0,Female,19.0,2021.0,BCSE,No,Yes,Offline,Yes,Yes,Intermediate,No,No,No,Single,No,Bachelor,No,No,Average,2.0,4.0,3.0,3.0,100.0,Artificial Intelligence,2.0,Software,2.77,3.83,30,False,95000.0
+1161,2022.0,Female,21.0,2021.0,BCSE,No,Yes,Offline,Yes,Yes,Intermediate,Yes,No,No,In a relationship,No,Bachelor,No,No,Poor,6.0,1.0,2.0,3.0,53.0,Networking,1.0,Hardware,2.81,3.9,83,False,95000.0
+1162,2021.0,Female,21.0,2020.0,BCSE,Yes,Yes,Offline,Yes,Yes,Advance,Yes,No,No,Single,Yes,Family,No,No,Average,9.0,2.0,1.0,3.0,100.0,Artificial Intelligence,2.0,Data Science,2.75,3.81,120,False,96000.0
+1163,2019.0,Male,25.0,2018.0,BCSE,No,Yes,Offline,Yes,Yes,Advance,No,No,Yes,Single,Yes,Bachelor,No,No,Poor,11.0,5.0,1.0,3.0,67.0,Web development skill(Frontend),4.0,Software,1.56,2.63,143,False,97000.0
+1164,2020.0,Male,23.0,2019.0,BCSE,Yes,Yes,Offline,Yes,Yes,Intermediate,No,No,No,Single,No,Family,No,No,Poor,10.0,2.0,1.0,6.0,100.0,Networking,1.0,Hardware,2.91,3.98,91,False,97000.0
+1165,2022.0,Male,21.0,2021.0,BCSE,No,Yes,Offline,Yes,No,Advance,No,No,No,Married,No,Family,No,No,Poor,5.0,2.0,2.0,2.0,54.0,Networking,2.0,Hardware,1.54,2.63,68,False,97000.0
+1166,2019.0,Female,25.0,2018.0,BCSE,No,Yes,Offline,Yes,Yes,Intermediate,Yes,Yes,No,In a relationship,No,Bachelor,No,No,Poor,11.0,3.0,3.0,3.0,87.0,Networking,4.0,Hardware,1.78,2.83,143,False,98000.0
+1167,2022.0,Female,22.0,2019.0,BCSE,Yes,No,Online,Yes,Yes,Advance,Yes,No,Yes,In a relationship,Yes,Family,No,No,Poor,4.0,8.0,1.0,10.0,70.0,Web development skill(Backend),1.0,UI/UX,2.9,3.88,60,False,100000.0
+1168,2020.0,Male,21.0,2019.0,BCSE,No,Yes,Offline,Yes,Yes,Basic,Yes,No,No,In a relationship,Yes,Family,Yes,No,Poor,9.0,3.0,1.0,3.0,56.0,Cyber security,4.0,Data Science,2.67,3.75,116,False,100000.0
+1169,2021.0,Male,20.0,2021.0,BCSE,No,Yes,Online,Yes,No,Intermediate,No,No,No,Single,No,Family,No,No,Poor,8.0,4.0,2.0,5.0,100.0,Cyber security,1.0,Data Science,2.33,3.45,102,False,100000.0
+1170,2020.0,Female,24.0,2018.0,BCSE,No,Yes,Offline,Yes,Yes,Intermediate,No,No,No,In a relationship,Yes,Bachelor,No,No,Poor,9.0,3.0,3.0,3.0,68.0,Networking,4.0,Hardware,2.76,3.56,123,False,110000.0
+1171,2021.0,Male,21.0,2020.0,BCSE,No,Yes,Online,Yes,Yes,Intermediate,Yes,No,No,In a relationship,No,Bachelor,No,No,Poor,6.0,5.0,2.0,9.0,60.0,Web development skill(Frontend),2.0,Machine Learning / Deep Learning,1.23,2.76,89,False,110000.0
+1172,2020.0,Female,22.0,2020.0,BCSE,No,Yes,Online,Yes,Yes,Intermediate,Yes,No,No,Married,No,Family,No,No,Poor,10.0,2.0,3.0,3.0,55.0,Programming,4.0,UI/UX,2.35,3.48,135,False,116000.0
+1173,2020.0,Male,22.0,2019.0,BCSE,No,Yes,Offline,Yes,Yes,Intermediate,Yes,No,Yes,Married,No,Family,No,No,Poor,9.0,4.0,3.0,3.0,76.0,Networking,2.0,Hardware,1.34,2.48,103,False,117000.0
+1174,2019.0,Female,25.0,2018.0,BCSE,Yes,Yes,Offline,Yes,Yes,Intermediate,No,No,Yes,Single,No,Family,No,No,Poor,11.0,6.0,3.0,3.0,90.0,Artificial Intelligence,2.0,Hardware,2.07,3.12,144,False,119000.0
+1175,2020.0,Male,20.0,2020.0,BCSE,No,Yes,Online,Yes,Yes,Advance,Yes,No,No,Single,Yes,Bachelor,No,No,Average,11.0,4.0,1.0,2.0,100.0,Cyber security,1.0,Data Science,2.56,3.6,143,False,120000.0
+1176,2022.0,Female,21.0,2021.0,BCSE,No,Yes,Offline,Yes,Yes,Basic,No,No,Yes,Single,No,Family,No,No,Poor,6.0,3.0,1.0,2.0,63.0,Networking,2.0,Hardware,1.77,2.8,78,False,120000.0
+1177,2022.0,Female,20.0,2021.0,BCSE,No,Yes,Offline,Yes,Yes,Basic,Yes,Yes,No,In a relationship,No,Bachelor,No,No,Poor,6.0,3.0,2.0,3.0,66.0,Networking,4.0,Hardware,2.67,3.77,78,False,120000.0
+1178,2019.0,Female,22.0,2019.0,BCSE,No,Yes,Offline,Yes,Yes,Basic,No,No,Yes,Single,Yes,Bachelor,No,No,Poor,11.0,2.0,1.0,3.0,100.0,Web development skill(Backend),4.0,Software,1.86,2.93,143,False,121000.0
+1179,2022.0,Male,20.0,2020.0,BCSE,No,Yes,Offline,Yes,Yes,Intermediate,Yes,No,Yes,Single,Yes,Bachelor,No,No,Poor,5.0,1.0,2.0,3.0,100.0,Web development skill(Frontend),4.0,Software,1.87,2.94,68,False,121000.0
+1180,2021.0,Male,20.0,2019.0,BCSE,No,Yes,Online,Yes,Yes,Intermediate,Yes,No,Yes,Single,No,Family,Yes,No,Poor,7.0,2.0,1.0,9.0,80.0,Programming,2.0,Software,1.22,2.78,107,False,130000.0
+1181,2022.0,Female,21.0,2021.0,BCSE,No,Yes,Offline,Yes,Yes,Intermediate,Yes,No,Yes,In a relationship,Yes,Bachelor,No,No,Poor,6.0,3.0,3.0,2.0,100.0,Artificial Intelligence,4.0,Data Science,1.4,2.54,77,False,130000.0
+1182,2022.0,Female,20.0,2021.0,BCSE,No,Yes,Online,Yes,Yes,Intermediate,No,No,Yes,Single,Yes,Family,No,No,Poor,5.0,3.0,3.0,1.0,100.0,Cyber security,2.0,Data Science,1.78,2.83,59,False,135000.0
+1183,2022.0,Male,20.0,2021.0,BCSE,No,Yes,Offline,Yes,Yes,Intermediate,No,No,Yes,Married,No,Family,No,No,Poor,5.0,4.0,3.0,3.0,78.0,Web development skill(Frontend),4.0,Software,1.77,2.85,63,False,136000.0
+1184,2019.0,Male,22.0,2018.0,BCSE,No,Yes,Offline,Yes,No,Advance,No,No,No,Single,No,Family,Yes,No,Average,11.0,5.0,3.0,5.0,100.0,Programming,1.0,UI/UX,2.55,3.66,143,False,137000.0
+1185,2021.0,Male,20.0,2021.0,BCSE,No,Yes,Offline,Yes,Yes,Advance,No,No,No,Single,No,Bachelor,Yes,No,Average,9.0,1.0,2.0,2.0,100.0,Artificial Intelligence,1.0,nan,2.65,3.88,125,False,140000.0
+1186,2019.0,Female,25.0,2018.0,BCSE,Yes,Yes,Offline,Yes,Yes,Intermediate,Yes,No,Yes,In a relationship,Yes,Bachelor,No,No,Poor,11.0,5.0,3.0,3.0,35.0,Networking,2.0,Hardware,2.81,3.9,143,False,144000.0
+1187,2021.0,Female,20.0,2020.0,BCSE,No,Yes,Offline,Yes,Yes,Intermediate,No,No,Yes,In a relationship,Yes,Family,No,No,Poor,9.0,2.0,2.0,3.0,100.0,Web development skill(Frontend),2.0,Data Science,2.34,3.44,113,False,167000.0
+1188,2020.0,Male,20.0,2020.0,BCSE,No,Yes,Offline,Yes,Yes,Advance,Yes,No,No,Single,Yes,Family,No,No,Poor,11.0,2.0,1.0,3.0,87.0,Cyber security,4.0,Data Science,2.35,3.43,143,False,170000.0
+1189,2021.0,Female,20.0,2020.0,BCSE,No,Yes,Online,Yes,Yes,Basic,Yes,No,No,In a relationship,Yes,Bachelor,No,No,Poor,8.0,1.0,2.0,2.0,46.0,Cyber security,2.0,Data Science,2.65,3.77,100,False,180000.0
+1190,2022.0,Male,23.0,2020.0,BCSE,Yes,Yes,Offline,Yes,Yes,Basic,Yes,No,Yes,Single,Yes,Bachelor,No,No,Poor,8.0,4.0,4.0,4.0,100.0,Programming,2.0,Software,2.5,2.22,18,False,200000.0
+1191,2021.0,Male,22.0,2020.0,BCSE,No,Yes,Offline,Yes,No,Basic,Yes,No,No,Married,Yes,Family,No,No,Poor,9.0,3.0,3.0,2.0,100.0,Networking,2.0,Hardware,1.56,2.78,121,False,200000.0
+1192,2019.0,Female,25.0,2018.0,BCSE,No,Yes,Offline,Yes,Yes,Intermediate,No,No,Yes,Single,No,Bachelor,No,No,Poor,11.0,5.0,3.0,3.0,100.0,Web development skill(Frontend),4.0,Software,1.4,2.52,144,False,210000.0
+1193,2018.0,Female,23.0,2017.0,BCSE,No,Yes,Online,Yes,Yes,Intermediate,No,No,No,In a relationship,Yes,Bachelor,No,No,Poor,11.0,3.0,2.0,5.0,100.0,Networking,1.0,Hardware,1.34,2.88,88,False,250000.0
